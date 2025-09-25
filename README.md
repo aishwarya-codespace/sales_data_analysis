@@ -38,7 +38,7 @@ The SQL queries in this project were written separately for analysis purposes. I
 19. Top 5 Purchase Count by Color
 20. Average Purchase by Size
 
-👉 All queries are available in [`all_sql_queries/`](./sql_queries).
+👉 All queries are available in [`sql_queries/`](./all_sql_queries).
 
 ## 📊 Power BI Dashboard
 Built an interactive dashboard:
@@ -54,7 +54,7 @@ Built an interactive dashboard:
 - **KPI Card** - Total Sales vs Target
 - **Slicers** - Gender, Age group, Season, Categories  
 
-📂 Dashboard file: [`sales_dashboard.pbix`](./powerbi_dashboard/sales_dashboard.pbix)
+📂 Dashboard file: [`sales_dashboard.pbix`](./power_BI_report.pbix)
 
 ## Workflow
 1. Clean raw CSV using Power Query  
