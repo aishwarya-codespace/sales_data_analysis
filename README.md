@@ -42,16 +42,16 @@ The SQL queries in this project were written separately for analysis purposes. I
 
 ## 📊 Power BI Dashboard
 Built an interactive dashboard:
-- **Clustred Bar Charts** → seasonal sales by category  
-- **Clustered Column Charts** → Avg Purchase by subscription status 
-- **Stacked Column Chart** → Seasonal total sales,Total sales per category
+- **Clustred Bar Charts** - seasonal sales by category  
+- **Clustered Column Charts** - Avg Purchase by subscription status 
+- **Stacked Column Chart** - Seasonal total sales,Total sales per category
 - **scattered chart** - Average purchase with review rating
 - **pie chart** - count of top 5 purchases by color
 - **Donut chart** - Purchases by size, purchase amount by item, Customer count by subscription status
 - **Area chart** - Average purchase by age group, Average purchase by gender, Total purchase by payment method  
-- **Map** → Purchases by Location
+- **Map** - Purchases by Location
 - **cards** - Total Sales, Average Sales  
-- **KPI Card** → Total Sales vs Target
+- **KPI Card** - Total Sales vs Target
 - **Slicers** - Gender, Age group, Season, Categories  
 
 📂 Dashboard file: [`sales_dashboard.pbix`](./powerbi_dashboard/sales_dashboard.pbix)
