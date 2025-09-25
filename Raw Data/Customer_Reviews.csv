@@ -1,0 +1,3901 @@
+Customer ID,Review Rating,Subscription Status,Shipping Type,Discount Applied,Previous Purchases,Payment Method
+1,3.1,Yes,Express,Yes,14,Venmo
+2,3.1,Yes,Express,Yes,2,Cash
+3,3.1,Yes,Free Shipping,Yes,23,Credit Card
+4,3.5,Yes,Next Day Air,Yes,49,PayPal
+5,2.7,Yes,Free Shipping,Yes,31,PayPal
+6,2.9,Yes,Standard,Yes,14,Venmo
+7,3.2,Yes,Free Shipping,Yes,49,Cash
+8,3.2,Yes,Free Shipping,Yes,19,Credit Card
+9,2.6,Yes,Express,Yes,8,Venmo
+10,4.8,Yes,2-Day Shipping,Yes,4,Cash
+11,4.1,Yes,Store Pickup,Yes,26,Bank Transfer
+12,4.9,Yes,Store Pickup,Yes,10,Bank Transfer
+13,4.5,Yes,Express,Yes,37,Venmo
+14,4.7,Yes,Express,Yes,31,PayPal
+15,4.7,Yes,Free Shipping,Yes,34,Debit Card
+16,2.8,Yes,Store Pickup,Yes,8,PayPal
+17,4.1,Yes,Next Day Air,Yes,44,Debit Card
+18,4.7,Yes,2-Day Shipping,Yes,36,Venmo
+19,4.6,Yes,Free Shipping,Yes,17,Cash
+20,3.3,Yes,Standard,Yes,46,Debit Card
+21,2.8,Yes,Express,Yes,50,Cash
+22,4.1,Yes,Store Pickup,Yes,22,Debit Card
+23,3.2,Yes,Store Pickup,Yes,32,Debit Card
+24,4.4,Yes,Express,Yes,40,Credit Card
+25,2.9,Yes,Store Pickup,Yes,16,Debit Card
+26,3.6,Yes,Express,Yes,14,PayPal
+27,3.6,Yes,Next Day Air,Yes,13,Credit Card
+28,5,Yes,Next Day Air,Yes,7,Bank Transfer
+29,4.4,Yes,Free Shipping,Yes,41,PayPal
+30,4.1,Yes,Store Pickup,Yes,14,Credit Card
+31,4.7,Yes,Standard,Yes,16,Credit Card
+32,4.7,Yes,Store Pickup,Yes,45,Venmo
+33,4.9,Yes,Free Shipping,Yes,37,Venmo
+34,3.3,Yes,Store Pickup,Yes,45,Cash
+35,4.6,Yes,2-Day Shipping,Yes,38,PayPal
+36,4,Yes,2-Day Shipping,Yes,48,Credit Card
+37,4.6,Yes,Free Shipping,Yes,44,PayPal
+38,2.8,Yes,Store Pickup,Yes,10,PayPal
+39,3.7,Yes,2-Day Shipping,Yes,44,Venmo
+40,4.2,Yes,Express,Yes,18,Credit Card
+41,4.6,Yes,Next Day Air,Yes,31,Debit Card
+42,4.5,Yes,Standard,Yes,40,Venmo
+43,4.1,Yes,Free Shipping,Yes,15,PayPal
+44,3.7,Yes,Store Pickup,Yes,19,PayPal
+45,4.6,Yes,Free Shipping,Yes,45,PayPal
+46,2.9,Yes,2-Day Shipping,Yes,25,PayPal
+47,2.9,Yes,Store Pickup,Yes,45,Cash
+48,4.5,Yes,Free Shipping,Yes,36,Cash
+49,2.7,Yes,Store Pickup,Yes,38,Cash
+50,4.6,Yes,Next Day Air,Yes,34,Debit Card
+51,3.7,Yes,Store Pickup,Yes,39,Debit Card
+52,4.7,Yes,2-Day Shipping,Yes,7,Credit Card
+53,2.6,Yes,Free Shipping,Yes,26,Credit Card
+54,3.9,Yes,Next Day Air,Yes,35,Credit Card
+55,4.2,Yes,Next Day Air,Yes,35,Debit Card
+56,3,Yes,2-Day Shipping,Yes,49,Credit Card
+57,4.7,Yes,Store Pickup,Yes,46,Credit Card
+58,4.4,Yes,Store Pickup,Yes,17,Debit Card
+59,4.2,Yes,Free Shipping,Yes,29,Venmo
+60,4.6,Yes,Standard,Yes,4,Debit Card
+61,4,Yes,Express,Yes,17,Cash
+62,4.7,Yes,Store Pickup,Yes,21,Credit Card
+63,3.8,Yes,Free Shipping,Yes,31,Credit Card
+64,2.7,Yes,2-Day Shipping,Yes,43,Credit Card
+65,4.8,Yes,Standard,Yes,18,Debit Card
+66,4.8,Yes,2-Day Shipping,Yes,44,Venmo
+67,4.7,Yes,2-Day Shipping,Yes,3,Venmo
+68,4.4,Yes,Store Pickup,Yes,49,Debit Card
+69,3.9,Yes,Next Day Air,Yes,21,Cash
+70,4.4,Yes,Express,Yes,5,Cash
+71,4.2,Yes,Express,Yes,32,Debit Card
+72,2.9,Yes,Express,Yes,34,Bank Transfer
+73,2.9,Yes,Store Pickup,Yes,21,Bank Transfer
+74,2.7,Yes,Free Shipping,Yes,43,Bank Transfer
+75,4.5,Yes,Express,Yes,3,Cash
+76,2.7,Yes,Free Shipping,Yes,21,Credit Card
+77,4.2,Yes,Free Shipping,Yes,32,Venmo
+78,3.3,Yes,Next Day Air,Yes,36,Debit Card
+79,4.7,Yes,Free Shipping,Yes,50,Venmo
+80,2.6,Yes,2-Day Shipping,Yes,43,Bank Transfer
+81,3.3,Yes,Store Pickup,Yes,24,Credit Card
+82,2.6,Yes,Express,Yes,36,Credit Card
+83,4,Yes,2-Day Shipping,Yes,21,Credit Card
+84,4.1,Yes,Standard,Yes,34,Bank Transfer
+85,4.4,Yes,Standard,Yes,42,Bank Transfer
+86,4.5,Yes,Next Day Air,Yes,2,Debit Card
+87,3.7,Yes,2-Day Shipping,Yes,47,Cash
+88,3.7,Yes,2-Day Shipping,Yes,44,Debit Card
+89,3.5,Yes,Free Shipping,Yes,35,Credit Card
+90,3.6,Yes,Next Day Air,Yes,15,Cash
+91,2.9,Yes,Express,Yes,29,Credit Card
+92,4.6,Yes,Standard,Yes,18,Credit Card
+93,4.4,Yes,2-Day Shipping,Yes,13,Venmo
+94,4.5,Yes,Standard,Yes,46,Credit Card
+95,4.6,Yes,Free Shipping,Yes,28,Credit Card
+96,3.8,Yes,Free Shipping,Yes,48,PayPal
+97,3.6,Yes,Express,Yes,43,Venmo
+98,4.8,Yes,Store Pickup,Yes,37,Cash
+99,2.6,Yes,Next Day Air,Yes,20,Bank Transfer
+100,3.7,Yes,Express,Yes,33,Debit Card
+101,2.7,Yes,Express,Yes,31,Cash
+102,4.6,Yes,Express,Yes,50,Credit Card
+103,4.8,Yes,Next Day Air,Yes,35,Credit Card
+104,4,Yes,Next Day Air,Yes,22,Venmo
+105,4.4,Yes,2-Day Shipping,Yes,1,PayPal
+106,3.6,Yes,Next Day Air,Yes,4,Bank Transfer
+107,3.7,Yes,Standard,Yes,31,Credit Card
+108,3.1,Yes,Next Day Air,Yes,46,PayPal
+109,3.4,Yes,Next Day Air,Yes,32,Bank Transfer
+110,2.6,Yes,Next Day Air,Yes,43,Bank Transfer
+111,4,Yes,Standard,Yes,26,Venmo
+112,5,Yes,Free Shipping,Yes,9,Credit Card
+113,4.3,Yes,Free Shipping,Yes,28,PayPal
+114,3.1,Yes,Next Day Air,Yes,20,PayPal
+115,3.7,Yes,Store Pickup,Yes,9,Cash
+116,3.8,Yes,Standard,Yes,48,Debit Card
+117,3.4,Yes,Free Shipping,Yes,12,Venmo
+118,4.6,Yes,Express,Yes,29,Cash
+119,4.8,Yes,2-Day Shipping,Yes,27,Cash
+120,4.3,Yes,Express,Yes,44,Cash
+121,4,Yes,Express,Yes,32,Bank Transfer
+122,4.2,Yes,Standard,Yes,11,Cash
+123,4.8,Yes,2-Day Shipping,Yes,44,Cash
+124,3.1,Yes,Free Shipping,Yes,46,Cash
+125,3.1,Yes,Next Day Air,Yes,50,PayPal
+126,3.6,Yes,Next Day Air,Yes,45,Venmo
+127,3.9,Yes,Store Pickup,Yes,48,Cash
+128,4.8,Yes,Next Day Air,Yes,26,Credit Card
+129,4.7,Yes,Standard,Yes,21,Credit Card
+130,4.2,Yes,2-Day Shipping,Yes,49,PayPal
+131,3.7,Yes,Next Day Air,Yes,13,PayPal
+132,3.9,Yes,Standard,Yes,46,Credit Card
+133,4.7,Yes,2-Day Shipping,Yes,42,PayPal
+134,2.5,Yes,Next Day Air,Yes,25,Venmo
+135,4.9,Yes,Store Pickup,Yes,25,Cash
+136,4.1,Yes,Express,Yes,12,PayPal
+137,3.3,Yes,Free Shipping,Yes,4,Debit Card
+138,4.7,Yes,Free Shipping,Yes,38,PayPal
+139,4.4,Yes,Store Pickup,Yes,42,Bank Transfer
+140,3.8,Yes,Store Pickup,Yes,30,Venmo
+141,3.9,Yes,2-Day Shipping,Yes,50,Credit Card
+142,4.9,Yes,Free Shipping,Yes,45,PayPal
+143,3.1,Yes,Free Shipping,Yes,33,Credit Card
+144,2.7,Yes,Store Pickup,Yes,25,PayPal
+145,3.2,Yes,Express,Yes,25,Cash
+146,4.5,Yes,Standard,Yes,44,Debit Card
+147,4,Yes,Standard,Yes,21,Venmo
+148,3.5,Yes,2-Day Shipping,Yes,31,Bank Transfer
+149,2.6,Yes,Store Pickup,Yes,47,Debit Card
+150,3.2,Yes,Free Shipping,Yes,14,PayPal
+151,4.9,Yes,Standard,Yes,17,Debit Card
+152,4.5,Yes,Next Day Air,Yes,3,Venmo
+153,4.3,Yes,Express,Yes,42,Venmo
+154,3.2,Yes,Standard,Yes,22,Debit Card
+155,3.6,Yes,Next Day Air,Yes,21,Venmo
+156,4.3,Yes,Free Shipping,Yes,21,Bank Transfer
+157,4,Yes,Standard,Yes,40,Debit Card
+158,3,Yes,Next Day Air,Yes,1,Bank Transfer
+159,4.1,Yes,Standard,Yes,50,Bank Transfer
+160,3.8,Yes,Store Pickup,Yes,39,Bank Transfer
+161,4.6,Yes,Free Shipping,Yes,34,Venmo
+162,3,Yes,Express,Yes,29,Venmo
+163,3,Yes,Store Pickup,Yes,31,PayPal
+164,3.4,Yes,Standard,Yes,8,Debit Card
+165,2.6,Yes,Free Shipping,Yes,5,Credit Card
+166,2.8,Yes,Store Pickup,Yes,7,Cash
+167,4,Yes,Store Pickup,Yes,30,Cash
+168,4,Yes,Express,Yes,14,Credit Card
+169,3,Yes,Express,Yes,5,Cash
+170,3.3,Yes,Standard,Yes,3,PayPal
+171,2.6,Yes,Store Pickup,Yes,46,Venmo
+172,3.6,Yes,Store Pickup,Yes,4,Credit Card
+173,3.9,Yes,Next Day Air,Yes,42,Credit Card
+174,3.4,Yes,Standard,Yes,30,Cash
+175,3.5,Yes,Express,Yes,37,Venmo
+176,2.8,Yes,Next Day Air,Yes,2,Bank Transfer
+177,2.7,Yes,Next Day Air,Yes,30,Credit Card
+178,3.7,Yes,Next Day Air,Yes,47,Bank Transfer
+179,4.3,Yes,2-Day Shipping,Yes,21,PayPal
+180,4.9,Yes,Store Pickup,Yes,9,Bank Transfer
+181,3.3,Yes,Store Pickup,Yes,12,Debit Card
+182,4.7,Yes,Next Day Air,Yes,4,Bank Transfer
+183,2.8,Yes,Store Pickup,Yes,10,Debit Card
+184,3.6,Yes,2-Day Shipping,Yes,26,Credit Card
+185,3,Yes,Express,Yes,40,Cash
+186,4.5,Yes,Store Pickup,Yes,34,Bank Transfer
+187,2.9,Yes,Standard,Yes,31,Debit Card
+188,3.3,Yes,Store Pickup,Yes,1,Bank Transfer
+189,3.1,Yes,Express,Yes,5,Bank Transfer
+190,4.4,Yes,Next Day Air,Yes,4,Credit Card
+191,3,Yes,Free Shipping,Yes,48,Venmo
+192,3.9,Yes,Free Shipping,Yes,29,Cash
+193,2.9,Yes,Express,Yes,12,PayPal
+194,3,Yes,Standard,Yes,29,Venmo
+195,3.1,Yes,Express,Yes,15,Debit Card
+196,4.3,Yes,Free Shipping,Yes,34,Credit Card
+197,3.9,Yes,Next Day Air,Yes,41,Credit Card
+198,3.2,Yes,2-Day Shipping,Yes,41,Credit Card
+199,4.8,Yes,Standard,Yes,39,Credit Card
+200,3.8,Yes,Express,Yes,32,Cash
+201,3.3,Yes,Next Day Air,Yes,29,Venmo
+202,4.3,Yes,Free Shipping,Yes,15,Bank Transfer
+203,2.7,Yes,Express,Yes,33,Venmo
+204,3.2,Yes,Next Day Air,Yes,18,Bank Transfer
+205,4,Yes,Store Pickup,Yes,35,Cash
+206,3,Yes,Standard,Yes,25,PayPal
+207,4.2,Yes,Free Shipping,Yes,6,Venmo
+208,2.9,Yes,Express,Yes,17,Bank Transfer
+209,4.1,Yes,Store Pickup,Yes,17,Credit Card
+210,3.2,Yes,Store Pickup,Yes,44,Cash
+211,3,Yes,2-Day Shipping,Yes,6,PayPal
+212,4.2,Yes,2-Day Shipping,Yes,45,Debit Card
+213,4.2,Yes,Express,Yes,7,Debit Card
+214,4.4,Yes,Store Pickup,Yes,11,Debit Card
+215,4.2,Yes,Next Day Air,Yes,41,Cash
+216,2.8,Yes,2-Day Shipping,Yes,24,PayPal
+217,3.7,Yes,Free Shipping,Yes,21,Venmo
+218,3.5,Yes,Next Day Air,Yes,24,Bank Transfer
+219,2.9,Yes,Store Pickup,Yes,8,Credit Card
+220,3,Yes,Free Shipping,Yes,12,Cash
+221,3.7,Yes,Express,Yes,48,Debit Card
+222,4.4,Yes,Store Pickup,Yes,6,Bank Transfer
+223,4.5,Yes,2-Day Shipping,Yes,14,PayPal
+224,4.8,Yes,Free Shipping,Yes,34,PayPal
+225,2.9,Yes,Free Shipping,Yes,12,Cash
+226,3.2,Yes,Next Day Air,Yes,11,Bank Transfer
+227,3.3,Yes,Free Shipping,Yes,5,PayPal
+228,4.2,Yes,Standard,Yes,25,Venmo
+229,2.9,Yes,Store Pickup,Yes,11,Credit Card
+230,4.6,Yes,Next Day Air,Yes,27,PayPal
+231,4.1,Yes,Standard,Yes,43,Credit Card
+232,3.1,Yes,2-Day Shipping,Yes,18,Debit Card
+233,4.2,Yes,Express,Yes,32,Bank Transfer
+234,4.5,Yes,Next Day Air,Yes,27,Bank Transfer
+235,3.7,Yes,Next Day Air,Yes,24,Credit Card
+236,3.7,Yes,Free Shipping,Yes,31,Debit Card
+237,3.4,Yes,Next Day Air,Yes,39,PayPal
+238,3,Yes,Store Pickup,Yes,36,Debit Card
+239,4.2,Yes,Free Shipping,Yes,5,Cash
+240,2.9,Yes,Express,Yes,47,Credit Card
+241,3.5,Yes,Free Shipping,Yes,29,Bank Transfer
+242,4.1,Yes,Free Shipping,Yes,43,Venmo
+243,4.3,Yes,Store Pickup,Yes,40,Debit Card
+244,2.8,Yes,2-Day Shipping,Yes,4,Debit Card
+245,4.9,Yes,2-Day Shipping,Yes,39,PayPal
+246,3.3,Yes,Next Day Air,Yes,45,Venmo
+247,3.2,Yes,Express,Yes,20,Venmo
+248,4.4,Yes,Standard,Yes,14,Debit Card
+249,4.8,Yes,Express,Yes,33,PayPal
+250,4.2,Yes,Standard,Yes,18,Credit Card
+251,4,Yes,Express,Yes,9,Bank Transfer
+252,2.5,Yes,Standard,Yes,34,PayPal
+253,3.9,Yes,Free Shipping,Yes,33,Venmo
+254,4.9,Yes,2-Day Shipping,Yes,15,Bank Transfer
+255,3.5,Yes,Store Pickup,Yes,4,PayPal
+256,4.2,Yes,Free Shipping,Yes,25,Debit Card
+257,4.7,Yes,Express,Yes,20,Credit Card
+258,4.5,Yes,Express,Yes,5,Credit Card
+259,2.8,Yes,Express,Yes,16,Cash
+260,2.9,Yes,Standard,Yes,13,Debit Card
+261,3.2,Yes,2-Day Shipping,Yes,11,Credit Card
+262,4.9,Yes,Standard,Yes,21,Credit Card
+263,3.7,Yes,Next Day Air,Yes,6,Debit Card
+264,4.3,Yes,Store Pickup,Yes,29,Venmo
+265,3.9,Yes,Store Pickup,Yes,15,Cash
+266,3.2,Yes,2-Day Shipping,Yes,17,Bank Transfer
+267,3.1,Yes,Express,Yes,32,Credit Card
+268,3.9,Yes,2-Day Shipping,Yes,42,Venmo
+269,2.6,Yes,Store Pickup,Yes,21,Cash
+270,3.3,Yes,Next Day Air,Yes,9,Cash
+271,4.6,Yes,Free Shipping,Yes,16,Bank Transfer
+272,4.6,Yes,Express,Yes,42,Credit Card
+273,4.4,Yes,2-Day Shipping,Yes,37,Debit Card
+274,4.2,Yes,Express,Yes,32,Debit Card
+275,3,Yes,Express,Yes,28,Cash
+276,4,Yes,Express,Yes,13,Credit Card
+277,3.5,Yes,Express,Yes,11,Bank Transfer
+278,3,Yes,Store Pickup,Yes,36,Bank Transfer
+279,3.7,Yes,Express,Yes,23,Debit Card
+280,4,Yes,Standard,Yes,37,Bank Transfer
+281,4.2,Yes,2-Day Shipping,Yes,21,Cash
+282,2.5,Yes,Standard,Yes,22,Debit Card
+283,3,Yes,2-Day Shipping,Yes,9,Cash
+284,3.2,Yes,Next Day Air,Yes,16,Venmo
+285,3.5,Yes,Standard,Yes,4,PayPal
+286,4.8,Yes,Express,Yes,3,Debit Card
+287,2.6,Yes,Store Pickup,Yes,6,Debit Card
+288,3.4,Yes,2-Day Shipping,Yes,18,Venmo
+289,3.7,Yes,2-Day Shipping,Yes,34,Venmo
+290,4.5,Yes,2-Day Shipping,Yes,26,Credit Card
+291,3.7,Yes,Standard,Yes,50,PayPal
+292,3.3,Yes,Next Day Air,Yes,40,Bank Transfer
+293,4.7,Yes,Free Shipping,Yes,24,Cash
+294,2.7,Yes,Express,Yes,33,PayPal
+295,4.6,Yes,Store Pickup,Yes,19,Credit Card
+296,2.7,Yes,Store Pickup,Yes,24,Credit Card
+297,4.8,Yes,2-Day Shipping,Yes,19,Credit Card
+298,4.4,Yes,Standard,Yes,4,Credit Card
+299,4,Yes,Standard,Yes,11,Venmo
+300,3.2,Yes,Next Day Air,Yes,28,PayPal
+301,4.4,Yes,Store Pickup,Yes,24,PayPal
+302,3.8,Yes,Standard,Yes,25,Credit Card
+303,3.6,Yes,Express,Yes,27,Bank Transfer
+304,3.3,Yes,Next Day Air,Yes,49,Venmo
+305,3.4,Yes,Next Day Air,Yes,45,Credit Card
+306,3.5,Yes,2-Day Shipping,Yes,26,PayPal
+307,3.6,Yes,Express,Yes,4,Cash
+308,3.2,Yes,Free Shipping,Yes,3,Credit Card
+309,3.7,Yes,Standard,Yes,45,Venmo
+310,4.5,Yes,Standard,Yes,21,Cash
+311,4.6,Yes,Standard,Yes,50,Cash
+312,4.1,Yes,Store Pickup,Yes,19,Bank Transfer
+313,3.4,Yes,Next Day Air,Yes,6,PayPal
+314,3.7,Yes,Express,Yes,50,Credit Card
+315,3.3,Yes,Store Pickup,Yes,17,Debit Card
+316,4.5,Yes,Express,Yes,24,Debit Card
+317,3.3,Yes,Free Shipping,Yes,46,Venmo
+318,4.3,Yes,Standard,Yes,42,Cash
+319,2.5,Yes,Standard,Yes,10,Cash
+320,2.6,Yes,Standard,Yes,1,Cash
+321,4.9,Yes,Standard,Yes,28,Debit Card
+322,4.7,Yes,Free Shipping,Yes,48,Debit Card
+323,3,Yes,Standard,Yes,47,Credit Card
+324,3.5,Yes,Next Day Air,Yes,29,PayPal
+325,4.8,Yes,Standard,Yes,37,Venmo
+326,4.3,Yes,Free Shipping,Yes,38,Debit Card
+327,3.2,Yes,Store Pickup,Yes,48,Bank Transfer
+328,3.1,Yes,Free Shipping,Yes,36,PayPal
+329,2.8,Yes,Free Shipping,Yes,9,Credit Card
+330,2.9,Yes,2-Day Shipping,Yes,34,Bank Transfer
+331,3.7,Yes,Express,Yes,43,Venmo
+332,3.3,Yes,Store Pickup,Yes,46,PayPal
+333,2.8,Yes,2-Day Shipping,Yes,5,Credit Card
+334,4.5,Yes,Standard,Yes,15,Bank Transfer
+335,2.6,Yes,Next Day Air,Yes,30,Credit Card
+336,3.7,Yes,Standard,Yes,44,Venmo
+337,4.4,Yes,Express,Yes,16,PayPal
+338,4.3,Yes,2-Day Shipping,Yes,16,Bank Transfer
+339,3.5,Yes,Express,Yes,16,Cash
+340,3.8,Yes,2-Day Shipping,Yes,21,Credit Card
+341,3.5,Yes,Express,Yes,39,Venmo
+342,4.6,Yes,Store Pickup,Yes,40,Debit Card
+343,2.6,Yes,Next Day Air,Yes,48,Credit Card
+344,4.4,Yes,Next Day Air,Yes,26,Venmo
+345,4,Yes,Standard,Yes,46,Debit Card
+346,4.4,Yes,Next Day Air,Yes,27,Bank Transfer
+347,4.7,Yes,Next Day Air,Yes,5,Cash
+348,3.9,Yes,Store Pickup,Yes,43,PayPal
+349,2.7,Yes,Free Shipping,Yes,17,PayPal
+350,3.7,Yes,2-Day Shipping,Yes,3,Bank Transfer
+351,2.6,Yes,2-Day Shipping,Yes,47,Bank Transfer
+352,3.9,Yes,Standard,Yes,24,Debit Card
+353,4.9,Yes,Next Day Air,Yes,12,Cash
+354,4.1,Yes,Store Pickup,Yes,35,Debit Card
+355,3,Yes,Free Shipping,Yes,42,Venmo
+356,4.1,Yes,2-Day Shipping,Yes,1,PayPal
+357,3.8,Yes,Standard,Yes,27,Cash
+358,4,Yes,Standard,Yes,16,Credit Card
+359,3.6,Yes,Express,Yes,36,Credit Card
+360,3,Yes,Store Pickup,Yes,30,Credit Card
+361,3,Yes,Standard,Yes,18,Debit Card
+362,2.6,Yes,Free Shipping,Yes,45,Cash
+363,3.4,Yes,Free Shipping,Yes,1,Venmo
+364,3.1,Yes,Free Shipping,Yes,42,Bank Transfer
+365,3,Yes,Free Shipping,Yes,7,Venmo
+366,3.7,Yes,Standard,Yes,50,PayPal
+367,3.5,Yes,Store Pickup,Yes,37,Venmo
+368,2.8,Yes,Store Pickup,Yes,18,Bank Transfer
+369,4.5,Yes,Standard,Yes,29,Cash
+370,3.3,Yes,Store Pickup,Yes,45,PayPal
+371,3.4,Yes,Express,Yes,13,PayPal
+372,3.2,Yes,2-Day Shipping,Yes,47,PayPal
+373,3.7,Yes,Standard,Yes,7,Debit Card
+374,4.6,Yes,Express,Yes,11,Venmo
+375,5,Yes,Store Pickup,Yes,39,Bank Transfer
+376,4.4,Yes,Standard,Yes,6,Debit Card
+377,4.9,Yes,Express,Yes,2,Venmo
+378,4.1,Yes,Standard,Yes,39,Credit Card
+379,4.9,Yes,Next Day Air,Yes,23,Credit Card
+380,4.7,Yes,2-Day Shipping,Yes,46,Debit Card
+381,3,Yes,Store Pickup,Yes,19,Bank Transfer
+382,3.4,Yes,Store Pickup,Yes,3,Credit Card
+383,3.2,Yes,Store Pickup,Yes,47,PayPal
+384,2.9,Yes,Standard,Yes,6,PayPal
+385,4.5,Yes,2-Day Shipping,Yes,6,Venmo
+386,2.7,Yes,Next Day Air,Yes,12,Credit Card
+387,3.4,Yes,Express,Yes,40,PayPal
+388,4.6,Yes,Store Pickup,Yes,38,PayPal
+389,2.7,Yes,Store Pickup,Yes,10,PayPal
+390,4.2,Yes,Standard,Yes,28,Bank Transfer
+391,3.2,Yes,2-Day Shipping,Yes,19,PayPal
+392,4.8,Yes,Standard,Yes,25,Cash
+393,3.3,Yes,Next Day Air,Yes,38,Credit Card
+394,4.2,Yes,Standard,Yes,6,PayPal
+395,4.8,Yes,Store Pickup,Yes,7,Debit Card
+396,4.9,Yes,Store Pickup,Yes,2,PayPal
+397,3.9,Yes,Standard,Yes,24,Bank Transfer
+398,3,Yes,Free Shipping,Yes,26,Cash
+399,4.6,Yes,Free Shipping,Yes,25,Debit Card
+400,3.5,Yes,2-Day Shipping,Yes,10,Debit Card
+401,4.8,Yes,Free Shipping,Yes,14,PayPal
+402,4.8,Yes,Standard,Yes,21,Cash
+403,3,Yes,Express,Yes,26,PayPal
+404,4.5,Yes,Next Day Air,Yes,12,Bank Transfer
+405,4.8,Yes,Store Pickup,Yes,11,Credit Card
+406,3.8,Yes,Standard,Yes,15,Cash
+407,4.6,Yes,Express,Yes,13,Cash
+408,3.1,Yes,Next Day Air,Yes,5,Credit Card
+409,3.4,Yes,Express,Yes,36,Cash
+410,3.3,Yes,2-Day Shipping,Yes,32,Bank Transfer
+411,4.8,Yes,2-Day Shipping,Yes,1,Credit Card
+412,2.8,Yes,Express,Yes,15,PayPal
+413,3.1,Yes,Store Pickup,Yes,3,Bank Transfer
+414,4.6,Yes,Free Shipping,Yes,48,Cash
+415,2.6,Yes,Store Pickup,Yes,30,Debit Card
+416,2.6,Yes,Express,Yes,40,Bank Transfer
+417,3.8,Yes,Free Shipping,Yes,24,Bank Transfer
+418,4.5,Yes,Free Shipping,Yes,48,Debit Card
+419,3,Yes,Standard,Yes,27,Venmo
+420,3.5,Yes,Free Shipping,Yes,14,Credit Card
+421,3.8,Yes,Free Shipping,Yes,18,Debit Card
+422,3.5,Yes,Standard,Yes,48,Cash
+423,3.1,Yes,Store Pickup,Yes,32,Debit Card
+424,3,Yes,Store Pickup,Yes,21,Credit Card
+425,4.3,Yes,Standard,Yes,42,PayPal
+426,3.3,Yes,Store Pickup,Yes,4,Credit Card
+427,4.7,Yes,Express,Yes,19,Credit Card
+428,4.5,Yes,Store Pickup,Yes,6,Credit Card
+429,2.9,Yes,Free Shipping,Yes,2,Debit Card
+430,4.1,Yes,2-Day Shipping,Yes,21,Cash
+431,3.5,Yes,Store Pickup,Yes,40,Debit Card
+432,3.4,Yes,Store Pickup,Yes,33,Cash
+433,3.3,Yes,Free Shipping,Yes,26,Venmo
+434,3.2,Yes,Store Pickup,Yes,23,Credit Card
+435,4,Yes,Store Pickup,Yes,39,PayPal
+436,3.6,Yes,Next Day Air,Yes,42,Bank Transfer
+437,4.6,Yes,Free Shipping,Yes,41,Bank Transfer
+438,2.6,Yes,Next Day Air,Yes,41,PayPal
+439,4.3,Yes,Express,Yes,12,Credit Card
+440,3.4,Yes,Free Shipping,Yes,31,Cash
+441,3.5,Yes,Store Pickup,Yes,34,Debit Card
+442,4.2,Yes,Standard,Yes,32,Credit Card
+443,3.5,Yes,Store Pickup,Yes,31,Credit Card
+444,3.6,Yes,Free Shipping,Yes,24,PayPal
+445,4.3,Yes,Store Pickup,Yes,31,Debit Card
+446,4.9,Yes,Standard,Yes,18,Venmo
+447,4.1,Yes,Store Pickup,Yes,15,Venmo
+448,3.6,Yes,Standard,Yes,7,Bank Transfer
+449,3.4,Yes,Next Day Air,Yes,35,Bank Transfer
+450,2.9,Yes,2-Day Shipping,Yes,35,Bank Transfer
+451,2.7,Yes,Store Pickup,Yes,19,Credit Card
+452,4.3,Yes,Express,Yes,26,Credit Card
+453,3.3,Yes,Express,Yes,39,PayPal
+454,2.8,Yes,Next Day Air,Yes,22,Credit Card
+455,3.2,Yes,Next Day Air,Yes,14,Cash
+456,3.6,Yes,Store Pickup,Yes,50,Debit Card
+457,4,Yes,2-Day Shipping,Yes,33,Credit Card
+458,4.9,Yes,Next Day Air,Yes,48,Debit Card
+459,4,Yes,2-Day Shipping,Yes,48,PayPal
+460,3.8,Yes,Standard,Yes,27,PayPal
+461,3.7,Yes,Store Pickup,Yes,27,Bank Transfer
+462,3.9,Yes,Express,Yes,20,Venmo
+463,3.3,Yes,Express,Yes,48,Venmo
+464,2.7,Yes,Standard,Yes,29,Venmo
+465,4.7,Yes,Next Day Air,Yes,45,PayPal
+466,2.8,Yes,Next Day Air,Yes,25,Cash
+467,4.6,Yes,Free Shipping,Yes,25,PayPal
+468,4.5,Yes,2-Day Shipping,Yes,37,Debit Card
+469,5,Yes,Free Shipping,Yes,16,Cash
+470,4.1,Yes,2-Day Shipping,Yes,30,Debit Card
+471,4.6,Yes,Express,Yes,6,Cash
+472,4.9,Yes,2-Day Shipping,Yes,36,Bank Transfer
+473,3.9,Yes,Free Shipping,Yes,3,Bank Transfer
+474,3.9,Yes,Store Pickup,Yes,29,PayPal
+475,2.6,Yes,2-Day Shipping,Yes,15,Cash
+476,2.7,Yes,Free Shipping,Yes,18,Debit Card
+477,3.5,Yes,Free Shipping,Yes,2,Debit Card
+478,3.7,Yes,Free Shipping,Yes,49,Debit Card
+479,3.2,Yes,Free Shipping,Yes,48,Venmo
+480,3.3,Yes,Store Pickup,Yes,43,Venmo
+481,4.8,Yes,Standard,Yes,30,Debit Card
+482,3.2,Yes,2-Day Shipping,Yes,10,PayPal
+483,2.5,Yes,2-Day Shipping,Yes,11,Venmo
+484,3.9,Yes,Store Pickup,Yes,12,Debit Card
+485,4.7,Yes,Free Shipping,Yes,28,Bank Transfer
+486,2.6,Yes,Next Day Air,Yes,36,Debit Card
+487,2.8,Yes,Store Pickup,Yes,37,Venmo
+488,4.4,Yes,Store Pickup,Yes,22,Credit Card
+489,4.6,Yes,Standard,Yes,32,Venmo
+490,3.2,Yes,Standard,Yes,40,PayPal
+491,4.2,Yes,2-Day Shipping,Yes,47,Cash
+492,3.7,Yes,2-Day Shipping,Yes,24,Credit Card
+493,3.9,Yes,Standard,Yes,11,Debit Card
+494,4.7,Yes,Store Pickup,Yes,19,Cash
+495,4.5,Yes,Express,Yes,42,Debit Card
+496,3.3,Yes,Free Shipping,Yes,6,Debit Card
+497,3.3,Yes,Express,Yes,31,Venmo
+498,4.6,Yes,Free Shipping,Yes,31,Cash
+499,3.6,Yes,Free Shipping,Yes,27,Bank Transfer
+500,4.8,Yes,Express,Yes,24,PayPal
+501,4.8,Yes,Next Day Air,Yes,35,Venmo
+502,2.9,Yes,Next Day Air,Yes,21,Venmo
+503,2.8,Yes,Express,Yes,8,PayPal
+504,3.2,Yes,Next Day Air,Yes,26,Bank Transfer
+505,3.9,Yes,Free Shipping,Yes,26,PayPal
+506,4.3,Yes,Express,Yes,9,Cash
+507,2.7,Yes,2-Day Shipping,Yes,48,Debit Card
+508,5,Yes,Store Pickup,Yes,33,Debit Card
+509,3.7,Yes,Store Pickup,Yes,31,PayPal
+510,3.9,Yes,Free Shipping,Yes,17,Debit Card
+511,3.9,Yes,2-Day Shipping,Yes,22,Venmo
+512,3.1,Yes,Free Shipping,Yes,8,PayPal
+513,3.3,Yes,Next Day Air,Yes,2,Bank Transfer
+514,3.6,Yes,Store Pickup,Yes,45,Venmo
+515,4.3,Yes,Standard,Yes,47,PayPal
+516,4.5,Yes,Next Day Air,Yes,7,Cash
+517,2.8,Yes,2-Day Shipping,Yes,19,Debit Card
+518,2.7,Yes,Free Shipping,Yes,44,Cash
+519,2.9,Yes,Next Day Air,Yes,16,Venmo
+520,4.4,Yes,2-Day Shipping,Yes,17,Bank Transfer
+521,3.9,Yes,Free Shipping,Yes,20,Debit Card
+522,3.5,Yes,Standard,Yes,50,Bank Transfer
+523,2.5,Yes,Store Pickup,Yes,37,Cash
+524,4.9,Yes,Express,Yes,5,PayPal
+525,4.8,Yes,Free Shipping,Yes,44,PayPal
+526,3.2,Yes,Next Day Air,Yes,41,Debit Card
+527,4.9,Yes,Standard,Yes,19,Cash
+528,4.3,Yes,Next Day Air,Yes,47,Bank Transfer
+529,3.2,Yes,Express,Yes,40,Cash
+530,3.7,Yes,Standard,Yes,6,Credit Card
+531,3.2,Yes,Store Pickup,Yes,25,Credit Card
+532,3.4,Yes,Next Day Air,Yes,42,Cash
+533,4.1,Yes,Express,Yes,35,Bank Transfer
+534,4.5,Yes,Next Day Air,Yes,17,Debit Card
+535,4.5,Yes,Next Day Air,Yes,4,PayPal
+536,3.2,Yes,Free Shipping,Yes,24,Bank Transfer
+537,4.4,Yes,Store Pickup,Yes,16,Debit Card
+538,3,Yes,Store Pickup,Yes,14,Debit Card
+539,3.2,Yes,Free Shipping,Yes,43,Cash
+540,4,Yes,Store Pickup,Yes,49,Debit Card
+541,3.1,Yes,Next Day Air,Yes,33,Cash
+542,2.8,Yes,Next Day Air,Yes,45,Cash
+543,4.6,Yes,Next Day Air,Yes,35,Cash
+544,4.3,Yes,Express,Yes,11,Credit Card
+545,3.3,Yes,Standard,Yes,30,Bank Transfer
+546,3.5,Yes,2-Day Shipping,Yes,48,Debit Card
+547,3.4,Yes,Free Shipping,Yes,45,Venmo
+548,2.8,Yes,Free Shipping,Yes,26,Venmo
+549,4.6,Yes,Store Pickup,Yes,41,Debit Card
+550,3.6,Yes,Express,Yes,37,Venmo
+551,3.3,Yes,Store Pickup,Yes,12,PayPal
+552,3.1,Yes,2-Day Shipping,Yes,27,Cash
+553,3.5,Yes,Express,Yes,18,Bank Transfer
+554,3.2,Yes,Express,Yes,15,Credit Card
+555,3,Yes,Express,Yes,34,Bank Transfer
+556,4.8,Yes,Express,Yes,37,Venmo
+557,5,Yes,Store Pickup,Yes,21,Cash
+558,2.9,Yes,Free Shipping,Yes,31,Debit Card
+559,3.2,Yes,Express,Yes,43,Debit Card
+560,2.9,Yes,Store Pickup,Yes,22,Bank Transfer
+561,3.3,Yes,Free Shipping,Yes,12,Debit Card
+562,2.6,Yes,Next Day Air,Yes,25,PayPal
+563,3.5,Yes,Standard,Yes,40,Debit Card
+564,4.4,Yes,Standard,Yes,16,Debit Card
+565,3.4,Yes,Next Day Air,Yes,30,Bank Transfer
+566,4.2,Yes,Store Pickup,Yes,10,Venmo
+567,3.6,Yes,Store Pickup,Yes,1,Debit Card
+568,3,Yes,Next Day Air,Yes,24,Venmo
+569,4,Yes,Free Shipping,Yes,36,PayPal
+570,4.4,Yes,Express,Yes,46,Credit Card
+571,4.1,Yes,Standard,Yes,20,Cash
+572,3.6,Yes,Free Shipping,Yes,37,Venmo
+573,4.6,Yes,Next Day Air,Yes,26,Bank Transfer
+574,3.2,Yes,2-Day Shipping,Yes,23,Credit Card
+575,4.8,Yes,Free Shipping,Yes,20,Bank Transfer
+576,4.8,Yes,Express,Yes,38,PayPal
+577,5,Yes,2-Day Shipping,Yes,5,Credit Card
+578,3.7,Yes,Store Pickup,Yes,41,Venmo
+579,4.6,Yes,Next Day Air,Yes,22,Credit Card
+580,3.7,Yes,Free Shipping,Yes,48,Credit Card
+581,4.1,Yes,Free Shipping,Yes,10,PayPal
+582,2.7,Yes,Store Pickup,Yes,12,Bank Transfer
+583,4.9,Yes,Store Pickup,Yes,2,Bank Transfer
+584,4,Yes,Store Pickup,Yes,38,PayPal
+585,4.7,Yes,Free Shipping,Yes,20,Debit Card
+586,2.8,Yes,Next Day Air,Yes,5,Cash
+587,4.9,Yes,2-Day Shipping,Yes,9,Venmo
+588,4.2,Yes,Express,Yes,48,Debit Card
+589,3,Yes,Standard,Yes,9,Debit Card
+590,3.4,Yes,2-Day Shipping,Yes,40,PayPal
+591,4.6,Yes,Standard,Yes,30,Venmo
+592,4.2,Yes,Store Pickup,Yes,6,Debit Card
+593,3.2,Yes,Free Shipping,Yes,42,Venmo
+594,4.4,Yes,Store Pickup,Yes,9,PayPal
+595,2.5,Yes,Next Day Air,Yes,6,Debit Card
+596,3.6,Yes,Next Day Air,Yes,47,PayPal
+597,4.5,Yes,Store Pickup,Yes,36,Venmo
+598,3.4,Yes,Standard,Yes,19,Bank Transfer
+599,3.2,Yes,2-Day Shipping,Yes,30,Cash
+600,4.2,Yes,Standard,Yes,27,Debit Card
+601,5,Yes,2-Day Shipping,Yes,25,Venmo
+602,4.7,Yes,Store Pickup,Yes,5,Cash
+603,4.2,Yes,Next Day Air,Yes,10,Cash
+604,3.4,Yes,2-Day Shipping,Yes,26,PayPal
+605,4.4,Yes,Store Pickup,Yes,11,Credit Card
+606,4.2,Yes,Standard,Yes,17,Bank Transfer
+607,4.5,Yes,Standard,Yes,44,PayPal
+608,2.8,Yes,Next Day Air,Yes,44,Cash
+609,3.3,Yes,Next Day Air,Yes,21,Venmo
+610,4.6,Yes,Next Day Air,Yes,49,Credit Card
+611,2.5,Yes,Free Shipping,Yes,27,Bank Transfer
+612,4.7,Yes,Store Pickup,Yes,19,Cash
+613,4.6,Yes,Express,Yes,33,Credit Card
+614,2.6,Yes,Standard,Yes,46,Cash
+615,4,Yes,Standard,Yes,21,Credit Card
+616,2.6,Yes,Next Day Air,Yes,23,Venmo
+617,4.6,Yes,Free Shipping,Yes,38,Credit Card
+618,2.6,Yes,Standard,Yes,2,Bank Transfer
+619,4,Yes,Express,Yes,21,Debit Card
+620,4.6,Yes,Store Pickup,Yes,1,Debit Card
+621,3.7,Yes,2-Day Shipping,Yes,10,Venmo
+622,4.4,Yes,Store Pickup,Yes,45,Credit Card
+623,4,Yes,Next Day Air,Yes,44,Bank Transfer
+624,4.7,Yes,Standard,Yes,48,PayPal
+625,3.4,Yes,Express,Yes,21,PayPal
+626,4,Yes,Next Day Air,Yes,1,Venmo
+627,3.9,Yes,Standard,Yes,10,Venmo
+628,4.1,Yes,Express,Yes,24,PayPal
+629,3.7,Yes,2-Day Shipping,Yes,29,Credit Card
+630,4.7,Yes,Standard,Yes,11,Debit Card
+631,4.3,Yes,2-Day Shipping,Yes,33,Debit Card
+632,4.1,Yes,Store Pickup,Yes,27,Cash
+633,3.9,Yes,Next Day Air,Yes,19,Venmo
+634,2.9,Yes,Express,Yes,50,Debit Card
+635,3.9,Yes,Standard,Yes,46,PayPal
+636,4.3,Yes,2-Day Shipping,Yes,28,Cash
+637,2.8,Yes,Store Pickup,Yes,14,Bank Transfer
+638,3.4,Yes,2-Day Shipping,Yes,46,Cash
+639,2.7,Yes,Express,Yes,41,PayPal
+640,4,Yes,2-Day Shipping,Yes,50,Credit Card
+641,4.4,Yes,Store Pickup,Yes,28,Debit Card
+642,3.9,Yes,2-Day Shipping,Yes,23,Credit Card
+643,2.8,Yes,2-Day Shipping,Yes,14,Debit Card
+644,3.2,Yes,Next Day Air,Yes,10,Bank Transfer
+645,4.3,Yes,Next Day Air,Yes,37,Cash
+646,4.2,Yes,Express,Yes,15,Venmo
+647,4.9,Yes,Standard,Yes,19,Venmo
+648,3.7,Yes,Express,Yes,23,Credit Card
+649,4.1,Yes,Store Pickup,Yes,35,Credit Card
+650,4.2,Yes,Store Pickup,Yes,33,PayPal
+651,3.9,Yes,Next Day Air,Yes,12,Bank Transfer
+652,2.9,Yes,Next Day Air,Yes,41,Venmo
+653,3.1,Yes,Free Shipping,Yes,27,Venmo
+654,3.6,Yes,2-Day Shipping,Yes,45,Cash
+655,4.4,Yes,2-Day Shipping,Yes,23,Venmo
+656,3.1,Yes,Free Shipping,Yes,19,Venmo
+657,3.9,Yes,Standard,Yes,6,PayPal
+658,4.3,Yes,Free Shipping,Yes,6,PayPal
+659,4.9,Yes,Store Pickup,Yes,20,Venmo
+660,3.6,Yes,2-Day Shipping,Yes,8,Cash
+661,5,Yes,2-Day Shipping,Yes,39,Credit Card
+662,4.1,Yes,Store Pickup,Yes,39,Credit Card
+663,2.8,Yes,Express,Yes,39,Venmo
+664,4.7,Yes,Express,Yes,23,Credit Card
+665,4.4,Yes,Express,Yes,41,PayPal
+666,4.9,Yes,2-Day Shipping,Yes,50,Credit Card
+667,3.1,Yes,Free Shipping,Yes,30,Debit Card
+668,2.6,Yes,Standard,Yes,32,Bank Transfer
+669,2.9,Yes,Express,Yes,35,Bank Transfer
+670,3.3,Yes,Free Shipping,Yes,45,Venmo
+671,4.8,Yes,Next Day Air,Yes,37,Cash
+672,4.7,Yes,Express,Yes,45,Cash
+673,3.3,Yes,2-Day Shipping,Yes,29,Cash
+674,4.2,Yes,Free Shipping,Yes,27,Venmo
+675,4.7,Yes,Store Pickup,Yes,36,Bank Transfer
+676,2.6,Yes,2-Day Shipping,Yes,9,Cash
+677,2.9,Yes,2-Day Shipping,Yes,38,Venmo
+678,2.7,Yes,Express,Yes,41,PayPal
+679,3.3,Yes,Store Pickup,Yes,25,Debit Card
+680,3.4,Yes,Express,Yes,37,Venmo
+681,4.2,Yes,Express,Yes,3,PayPal
+682,3.8,Yes,2-Day Shipping,Yes,24,Credit Card
+683,4,Yes,Standard,Yes,49,Credit Card
+684,2.7,Yes,Free Shipping,Yes,3,Bank Transfer
+685,4.7,Yes,Express,Yes,42,Debit Card
+686,3.5,Yes,Standard,Yes,32,Cash
+687,3,Yes,2-Day Shipping,Yes,33,Venmo
+688,3.3,Yes,Free Shipping,Yes,46,Bank Transfer
+689,4.7,Yes,Store Pickup,Yes,44,Venmo
+690,4.7,Yes,Express,Yes,35,Credit Card
+691,4.8,Yes,Standard,Yes,45,Bank Transfer
+692,2.9,Yes,Standard,Yes,37,PayPal
+693,4,Yes,2-Day Shipping,Yes,40,Debit Card
+694,3.1,Yes,Free Shipping,Yes,30,Cash
+695,3.5,Yes,2-Day Shipping,Yes,38,Venmo
+696,3.7,Yes,Next Day Air,Yes,15,Debit Card
+697,2.8,Yes,Standard,Yes,49,Cash
+698,4.6,Yes,Free Shipping,Yes,40,Debit Card
+699,3.8,Yes,Standard,Yes,40,Debit Card
+700,2.6,Yes,2-Day Shipping,Yes,5,PayPal
+701,4.1,Yes,Standard,Yes,5,PayPal
+702,3.3,Yes,Next Day Air,Yes,5,Debit Card
+703,3.4,Yes,Store Pickup,Yes,1,Cash
+704,3,Yes,Standard,Yes,21,Venmo
+705,3.2,Yes,Express,Yes,18,PayPal
+706,4.5,Yes,Free Shipping,Yes,49,Cash
+707,4.8,Yes,Express,Yes,27,Debit Card
+708,3.7,Yes,Next Day Air,Yes,21,Venmo
+709,3.4,Yes,Store Pickup,Yes,19,Cash
+710,4.6,Yes,Standard,Yes,23,Debit Card
+711,4.1,Yes,Standard,Yes,26,PayPal
+712,3.5,Yes,2-Day Shipping,Yes,13,Bank Transfer
+713,3.8,Yes,Next Day Air,Yes,36,Bank Transfer
+714,2.6,Yes,Express,Yes,39,Bank Transfer
+715,4.4,Yes,Store Pickup,Yes,40,Debit Card
+716,2.6,Yes,Express,Yes,37,Debit Card
+717,3.6,Yes,Express,Yes,9,Venmo
+718,4.2,Yes,Express,Yes,7,Venmo
+719,4.6,Yes,Standard,Yes,25,Bank Transfer
+720,3.3,Yes,Next Day Air,Yes,42,Venmo
+721,3.4,Yes,Free Shipping,Yes,19,Debit Card
+722,4.4,Yes,Next Day Air,Yes,41,Debit Card
+723,4.3,Yes,Store Pickup,Yes,50,Cash
+724,3.5,Yes,Express,Yes,43,PayPal
+725,4.7,Yes,Store Pickup,Yes,36,Venmo
+726,3.1,Yes,Standard,Yes,33,Debit Card
+727,3.6,Yes,Next Day Air,Yes,20,Bank Transfer
+728,4.8,Yes,Next Day Air,Yes,37,Venmo
+729,3.7,Yes,Next Day Air,Yes,12,PayPal
+730,3.2,Yes,Express,Yes,46,PayPal
+731,3.9,Yes,Standard,Yes,28,Venmo
+732,3.5,Yes,Free Shipping,Yes,30,PayPal
+733,2.8,Yes,Express,Yes,28,Cash
+734,2.7,Yes,2-Day Shipping,Yes,20,Debit Card
+735,3.1,Yes,Express,Yes,39,Bank Transfer
+736,3.6,Yes,2-Day Shipping,Yes,48,Cash
+737,2.9,Yes,2-Day Shipping,Yes,32,Credit Card
+738,3.6,Yes,Store Pickup,Yes,28,PayPal
+739,3.5,Yes,2-Day Shipping,Yes,27,Venmo
+740,3.5,Yes,Free Shipping,Yes,26,Venmo
+741,2.8,Yes,Next Day Air,Yes,22,Credit Card
+742,4.7,Yes,Free Shipping,Yes,23,Bank Transfer
+743,3.1,Yes,Express,Yes,21,Debit Card
+744,4.9,Yes,Free Shipping,Yes,36,Cash
+745,4.1,Yes,Next Day Air,Yes,42,Debit Card
+746,4.7,Yes,Standard,Yes,4,Venmo
+747,2.5,Yes,Free Shipping,Yes,47,Credit Card
+748,4.4,Yes,Next Day Air,Yes,13,Bank Transfer
+749,3.9,Yes,Free Shipping,Yes,8,Bank Transfer
+750,3.7,Yes,Standard,Yes,11,Debit Card
+751,3.4,Yes,Free Shipping,Yes,5,Venmo
+752,4.8,Yes,Free Shipping,Yes,1,Credit Card
+753,4.2,Yes,2-Day Shipping,Yes,17,PayPal
+754,3.4,Yes,Store Pickup,Yes,27,Venmo
+755,2.9,Yes,Store Pickup,Yes,3,Debit Card
+756,3.3,Yes,Free Shipping,Yes,22,PayPal
+757,4.8,Yes,Standard,Yes,24,Cash
+758,3.8,Yes,Store Pickup,Yes,18,Debit Card
+759,4.6,Yes,2-Day Shipping,Yes,39,Bank Transfer
+760,2.6,Yes,Next Day Air,Yes,25,Credit Card
+761,3.4,Yes,Free Shipping,Yes,6,Cash
+762,4.2,Yes,Express,Yes,26,Bank Transfer
+763,3.9,Yes,Standard,Yes,43,Debit Card
+764,2.9,Yes,2-Day Shipping,Yes,6,Credit Card
+765,4.2,Yes,Free Shipping,Yes,6,Debit Card
+766,3,Yes,Store Pickup,Yes,13,Cash
+767,3.6,Yes,Next Day Air,Yes,13,PayPal
+768,2.5,Yes,Next Day Air,Yes,11,Cash
+769,2.6,Yes,Express,Yes,45,Venmo
+770,4.3,Yes,Store Pickup,Yes,8,PayPal
+771,3.3,Yes,Express,Yes,8,Credit Card
+772,2.6,Yes,Next Day Air,Yes,34,Bank Transfer
+773,3.6,Yes,Free Shipping,Yes,40,Debit Card
+774,2.6,Yes,Express,Yes,14,Debit Card
+775,3.5,Yes,Standard,Yes,11,Credit Card
+776,3,Yes,Store Pickup,Yes,8,PayPal
+777,5,Yes,Standard,Yes,8,Venmo
+778,2.5,Yes,Express,Yes,37,Venmo
+779,2.9,Yes,Store Pickup,Yes,23,Debit Card
+780,4.6,Yes,Express,Yes,38,Cash
+781,3.6,Yes,Free Shipping,Yes,38,Cash
+782,3,Yes,Store Pickup,Yes,12,Credit Card
+783,4.5,Yes,Standard,Yes,15,Cash
+784,4.5,Yes,Next Day Air,Yes,38,PayPal
+785,3.2,Yes,Store Pickup,Yes,41,Bank Transfer
+786,4,Yes,Next Day Air,Yes,37,PayPal
+787,4.8,Yes,Express,Yes,16,Bank Transfer
+788,3.7,Yes,Free Shipping,Yes,25,Venmo
+789,3.8,Yes,Store Pickup,Yes,18,Bank Transfer
+790,2.7,Yes,Standard,Yes,4,Credit Card
+791,4.9,Yes,Store Pickup,Yes,12,Bank Transfer
+792,3.1,Yes,2-Day Shipping,Yes,35,PayPal
+793,4.2,Yes,Next Day Air,Yes,45,Venmo
+794,3.8,Yes,Free Shipping,Yes,16,Credit Card
+795,4.2,Yes,Store Pickup,Yes,10,Debit Card
+796,4.6,Yes,Store Pickup,Yes,34,Venmo
+797,4,Yes,2-Day Shipping,Yes,43,Credit Card
+798,4,Yes,2-Day Shipping,Yes,38,Debit Card
+799,3.8,Yes,2-Day Shipping,Yes,48,PayPal
+800,3.3,Yes,Free Shipping,Yes,31,PayPal
+801,2.6,Yes,Free Shipping,Yes,20,Cash
+802,4.9,Yes,Express,Yes,12,Credit Card
+803,3.5,Yes,Next Day Air,Yes,2,Bank Transfer
+804,2.8,Yes,Express,Yes,30,Venmo
+805,2.6,Yes,Store Pickup,Yes,28,Venmo
+806,3.7,Yes,Next Day Air,Yes,40,Debit Card
+807,2.7,Yes,Standard,Yes,46,PayPal
+808,3.3,Yes,Express,Yes,15,Credit Card
+809,4.6,Yes,Next Day Air,Yes,38,Cash
+810,4.9,Yes,Next Day Air,Yes,30,PayPal
+811,4.9,Yes,Store Pickup,Yes,32,Debit Card
+812,2.7,Yes,Free Shipping,Yes,36,Venmo
+813,3.2,Yes,Standard,Yes,32,Credit Card
+814,2.9,Yes,Store Pickup,Yes,14,Debit Card
+815,3.8,Yes,Express,Yes,8,PayPal
+816,3,Yes,Next Day Air,Yes,27,Venmo
+817,3.9,Yes,Store Pickup,Yes,24,Debit Card
+818,4.7,Yes,Store Pickup,Yes,30,PayPal
+819,4.9,Yes,Store Pickup,Yes,34,Debit Card
+820,4.8,Yes,Next Day Air,Yes,28,Debit Card
+821,2.5,Yes,2-Day Shipping,Yes,27,Debit Card
+822,3.9,Yes,Standard,Yes,31,Credit Card
+823,3.4,Yes,Standard,Yes,23,Bank Transfer
+824,2.5,Yes,Free Shipping,Yes,11,Credit Card
+825,3,Yes,Store Pickup,Yes,48,Cash
+826,3.6,Yes,Next Day Air,Yes,17,Cash
+827,3.6,Yes,Standard,Yes,36,PayPal
+828,4.1,Yes,Free Shipping,Yes,33,Bank Transfer
+829,3.7,Yes,2-Day Shipping,Yes,27,PayPal
+830,3.1,Yes,2-Day Shipping,Yes,14,Credit Card
+831,4.2,Yes,Express,Yes,5,Credit Card
+832,4.3,Yes,Express,Yes,47,Cash
+833,2.5,Yes,Express,Yes,28,Cash
+834,3.5,Yes,Standard,Yes,11,Credit Card
+835,3.1,Yes,Free Shipping,Yes,18,Credit Card
+836,2.5,Yes,Next Day Air,Yes,21,Debit Card
+837,3.9,Yes,Store Pickup,Yes,22,Cash
+838,4.9,Yes,Express,Yes,33,Cash
+839,4.3,Yes,Express,Yes,49,Credit Card
+840,2.6,Yes,Free Shipping,Yes,10,Debit Card
+841,4.2,Yes,2-Day Shipping,Yes,18,PayPal
+842,2.6,Yes,Store Pickup,Yes,28,PayPal
+843,3.6,Yes,Express,Yes,25,PayPal
+844,3.2,Yes,Express,Yes,6,PayPal
+845,4.4,Yes,Express,Yes,44,Venmo
+846,3.7,Yes,Standard,Yes,30,Venmo
+847,3.7,Yes,Express,Yes,42,Debit Card
+848,4.1,Yes,Standard,Yes,30,PayPal
+849,3.6,Yes,Store Pickup,Yes,33,Credit Card
+850,4.3,Yes,Express,Yes,24,PayPal
+851,2.6,Yes,Store Pickup,Yes,13,Venmo
+852,2.9,Yes,Express,Yes,19,Debit Card
+853,4.2,Yes,Next Day Air,Yes,23,Debit Card
+854,4,Yes,Free Shipping,Yes,35,Cash
+855,4.3,Yes,Free Shipping,Yes,22,Venmo
+856,3,Yes,2-Day Shipping,Yes,14,Credit Card
+857,3.5,Yes,Express,Yes,47,Debit Card
+858,3,Yes,Standard,Yes,50,Debit Card
+859,3.1,Yes,Free Shipping,Yes,33,PayPal
+860,4,Yes,Next Day Air,Yes,7,Debit Card
+861,4.1,Yes,Standard,Yes,3,Cash
+862,3.3,Yes,2-Day Shipping,Yes,35,Credit Card
+863,4.9,Yes,Standard,Yes,13,PayPal
+864,3.9,Yes,Standard,Yes,42,PayPal
+865,3.9,Yes,Next Day Air,Yes,5,PayPal
+866,4.8,Yes,Store Pickup,Yes,23,Venmo
+867,2.7,Yes,Free Shipping,Yes,11,PayPal
+868,3.1,Yes,Free Shipping,Yes,23,Bank Transfer
+869,3.2,Yes,Next Day Air,Yes,2,Credit Card
+870,2.7,Yes,2-Day Shipping,Yes,33,PayPal
+871,2.5,Yes,Standard,Yes,6,Bank Transfer
+872,2.6,Yes,Next Day Air,Yes,45,Debit Card
+873,2.9,Yes,Standard,Yes,25,Cash
+874,4.2,Yes,Free Shipping,Yes,24,Venmo
+875,4.4,Yes,Free Shipping,Yes,10,Venmo
+876,4.1,Yes,Free Shipping,Yes,7,Bank Transfer
+877,3.8,Yes,2-Day Shipping,Yes,1,Debit Card
+878,4.9,Yes,Next Day Air,Yes,45,Venmo
+879,4.9,Yes,Express,Yes,37,Debit Card
+880,4.1,Yes,Free Shipping,Yes,14,PayPal
+881,3.1,Yes,Express,Yes,25,Debit Card
+882,2.7,Yes,Next Day Air,Yes,18,Venmo
+883,3.8,Yes,Next Day Air,Yes,37,Cash
+884,4.3,Yes,Free Shipping,Yes,30,Bank Transfer
+885,4.1,Yes,Express,Yes,34,Bank Transfer
+886,4.4,Yes,Free Shipping,Yes,49,Debit Card
+887,3.6,Yes,Express,Yes,48,Bank Transfer
+888,3.3,Yes,2-Day Shipping,Yes,33,PayPal
+889,3.6,Yes,Express,Yes,44,Cash
+890,2.8,Yes,Free Shipping,Yes,50,Venmo
+891,4.3,Yes,2-Day Shipping,Yes,47,Credit Card
+892,3.9,Yes,Store Pickup,Yes,24,PayPal
+893,2.7,Yes,Free Shipping,Yes,43,Debit Card
+894,4.7,Yes,Express,Yes,14,Venmo
+895,3.8,Yes,Free Shipping,Yes,3,Debit Card
+896,4.7,Yes,Next Day Air,Yes,33,Debit Card
+897,4.7,Yes,Express,Yes,38,Cash
+898,3.4,Yes,Express,Yes,46,Venmo
+899,3.5,Yes,2-Day Shipping,Yes,19,Bank Transfer
+900,4,Yes,Standard,Yes,20,PayPal
+901,3.3,Yes,Free Shipping,Yes,42,Bank Transfer
+902,4.7,Yes,2-Day Shipping,Yes,34,Cash
+903,2.8,Yes,Next Day Air,Yes,5,Cash
+904,3.3,Yes,Express,Yes,3,PayPal
+905,2.9,Yes,Free Shipping,Yes,46,PayPal
+906,2.8,Yes,Standard,Yes,16,Venmo
+907,4.2,Yes,Standard,Yes,21,Debit Card
+908,4.4,Yes,Express,Yes,34,Credit Card
+909,3.6,Yes,Free Shipping,Yes,9,PayPal
+910,2.7,Yes,Express,Yes,36,PayPal
+911,3.4,Yes,Express,Yes,22,Credit Card
+912,2.8,Yes,2-Day Shipping,Yes,2,Bank Transfer
+913,3.4,Yes,Next Day Air,Yes,32,Bank Transfer
+914,2.6,Yes,Next Day Air,Yes,29,Cash
+915,4.1,Yes,Standard,Yes,27,Venmo
+916,2.9,Yes,Store Pickup,Yes,33,Credit Card
+917,2.7,Yes,Standard,Yes,16,Venmo
+918,3.7,Yes,Standard,Yes,11,Bank Transfer
+919,4.3,Yes,2-Day Shipping,Yes,11,Cash
+920,2.6,Yes,2-Day Shipping,Yes,17,Debit Card
+921,4.3,Yes,Free Shipping,Yes,37,Cash
+922,4.1,Yes,Express,Yes,18,PayPal
+923,4.2,Yes,Standard,Yes,13,Credit Card
+924,4.2,Yes,2-Day Shipping,Yes,7,PayPal
+925,3.1,Yes,Standard,Yes,37,Cash
+926,4.9,Yes,Express,Yes,8,Cash
+927,4.4,Yes,Express,Yes,11,Cash
+928,4.4,Yes,Standard,Yes,8,Venmo
+929,3.4,Yes,Store Pickup,Yes,31,Cash
+930,4.5,Yes,2-Day Shipping,Yes,26,Debit Card
+931,4.5,Yes,Store Pickup,Yes,20,Credit Card
+932,4.1,Yes,Standard,Yes,24,Bank Transfer
+933,3.2,Yes,Standard,Yes,45,Debit Card
+934,2.7,Yes,Store Pickup,Yes,33,Debit Card
+935,3.7,Yes,Express,Yes,21,Bank Transfer
+936,2.6,Yes,Store Pickup,Yes,2,Bank Transfer
+937,2.7,Yes,Free Shipping,Yes,28,Cash
+938,2.7,Yes,Express,Yes,18,Venmo
+939,4.8,Yes,Free Shipping,Yes,21,Debit Card
+940,4.8,Yes,Next Day Air,Yes,24,Credit Card
+941,2.6,Yes,Store Pickup,Yes,15,PayPal
+942,4.5,Yes,2-Day Shipping,Yes,38,PayPal
+943,3.2,Yes,Express,Yes,38,PayPal
+944,3.8,Yes,Next Day Air,Yes,13,Venmo
+945,4.8,Yes,Express,Yes,39,Cash
+946,4.1,Yes,Store Pickup,Yes,8,Venmo
+947,2.8,Yes,Next Day Air,Yes,4,PayPal
+948,3.9,Yes,Store Pickup,Yes,6,Cash
+949,4.9,Yes,Express,Yes,11,Venmo
+950,3.4,Yes,Standard,Yes,49,Venmo
+951,4.1,Yes,Free Shipping,Yes,30,PayPal
+952,2.9,Yes,Express,Yes,34,Bank Transfer
+953,3.1,Yes,2-Day Shipping,Yes,28,PayPal
+954,3.6,Yes,2-Day Shipping,Yes,36,Venmo
+955,3.5,Yes,Standard,Yes,18,Credit Card
+956,3.4,Yes,Free Shipping,Yes,4,PayPal
+957,2.9,Yes,2-Day Shipping,Yes,42,Debit Card
+958,4.7,Yes,Store Pickup,Yes,11,Cash
+959,4.4,Yes,Free Shipping,Yes,31,Credit Card
+960,2.6,Yes,Standard,Yes,12,Cash
+961,4.4,Yes,Standard,Yes,20,Venmo
+962,3.7,Yes,Next Day Air,Yes,37,Debit Card
+963,4.4,Yes,Standard,Yes,26,Debit Card
+964,2.5,Yes,2-Day Shipping,Yes,14,Credit Card
+965,2.6,Yes,Next Day Air,Yes,12,Venmo
+966,5,Yes,Store Pickup,Yes,10,Credit Card
+967,4.9,Yes,Express,Yes,19,Cash
+968,3.7,Yes,Store Pickup,Yes,4,Cash
+969,3.1,Yes,Next Day Air,Yes,48,Bank Transfer
+970,3.2,Yes,Express,Yes,37,PayPal
+971,4.4,Yes,Free Shipping,Yes,4,Cash
+972,4.3,Yes,Next Day Air,Yes,15,Credit Card
+973,3,Yes,Standard,Yes,33,Credit Card
+974,3.5,Yes,2-Day Shipping,Yes,30,Bank Transfer
+975,3.6,Yes,2-Day Shipping,Yes,23,Bank Transfer
+976,3.8,Yes,2-Day Shipping,Yes,2,Bank Transfer
+977,3.6,Yes,Express,Yes,50,Credit Card
+978,4.6,Yes,Express,Yes,34,Cash
+979,2.5,Yes,Standard,Yes,33,Credit Card
+980,3.5,Yes,Store Pickup,Yes,34,Debit Card
+981,4,Yes,Free Shipping,Yes,39,PayPal
+982,3.5,Yes,Next Day Air,Yes,47,Credit Card
+983,3.2,Yes,Standard,Yes,37,PayPal
+984,3.5,Yes,Free Shipping,Yes,40,Venmo
+985,3.4,Yes,Free Shipping,Yes,8,Credit Card
+986,5,Yes,Express,Yes,12,Bank Transfer
+987,4.5,Yes,Store Pickup,Yes,36,Bank Transfer
+988,2.8,Yes,Express,Yes,48,PayPal
+989,4.9,Yes,2-Day Shipping,Yes,47,PayPal
+990,3.1,Yes,Store Pickup,Yes,2,Bank Transfer
+991,4.8,Yes,Store Pickup,Yes,24,Cash
+992,2.7,Yes,Standard,Yes,40,Bank Transfer
+993,4.6,Yes,Express,Yes,50,Debit Card
+994,4.4,Yes,Store Pickup,Yes,25,Cash
+995,3.2,Yes,Express,Yes,20,Debit Card
+996,3,Yes,2-Day Shipping,Yes,10,Venmo
+997,4.9,Yes,Standard,Yes,32,Bank Transfer
+998,3.6,Yes,Express,Yes,31,Cash
+999,3.8,Yes,Next Day Air,Yes,48,Bank Transfer
+1000,2.9,Yes,Standard,Yes,23,Debit Card
+1001,3.9,Yes,Express,Yes,1,Bank Transfer
+1002,3.6,Yes,Standard,Yes,4,Debit Card
+1003,3.5,Yes,Store Pickup,Yes,3,Bank Transfer
+1004,4,Yes,Store Pickup,Yes,3,Cash
+1005,4.8,Yes,2-Day Shipping,Yes,44,Cash
+1006,3.9,Yes,Store Pickup,Yes,5,Debit Card
+1007,4.5,Yes,Next Day Air,Yes,50,Venmo
+1008,4.8,Yes,Standard,Yes,2,Credit Card
+1009,2.6,Yes,Store Pickup,Yes,29,PayPal
+1010,3.1,Yes,Express,Yes,11,Venmo
+1011,4.7,Yes,2-Day Shipping,Yes,37,Credit Card
+1012,2.9,Yes,Next Day Air,Yes,32,Debit Card
+1013,3.8,Yes,Express,Yes,27,Credit Card
+1014,3.8,Yes,2-Day Shipping,Yes,31,Venmo
+1015,3,Yes,Standard,Yes,36,Debit Card
+1016,4.1,Yes,Standard,Yes,34,Cash
+1017,3.4,Yes,Express,Yes,15,Bank Transfer
+1018,2.5,Yes,Express,Yes,14,Credit Card
+1019,4.9,Yes,Next Day Air,Yes,46,Cash
+1020,2.8,Yes,Standard,Yes,33,Venmo
+1021,4.5,Yes,Express,Yes,41,Debit Card
+1022,4.9,Yes,2-Day Shipping,Yes,39,PayPal
+1023,4.9,Yes,Store Pickup,Yes,7,Cash
+1024,3.5,Yes,Free Shipping,Yes,29,Bank Transfer
+1025,3.5,Yes,Free Shipping,Yes,18,Venmo
+1026,4.9,Yes,Free Shipping,Yes,15,Credit Card
+1027,3,Yes,Express,Yes,39,PayPal
+1028,2.8,Yes,Next Day Air,Yes,11,Cash
+1029,3.7,Yes,Standard,Yes,4,Cash
+1030,3.6,Yes,2-Day Shipping,Yes,33,Venmo
+1031,3.3,Yes,Next Day Air,Yes,37,Debit Card
+1032,3.4,Yes,Free Shipping,Yes,32,Cash
+1033,4,Yes,Free Shipping,Yes,44,Credit Card
+1034,4.6,Yes,Free Shipping,Yes,41,Bank Transfer
+1035,4.2,Yes,Next Day Air,Yes,44,Bank Transfer
+1036,2.8,Yes,Express,Yes,32,Venmo
+1037,3.7,Yes,2-Day Shipping,Yes,13,Bank Transfer
+1038,3.4,Yes,Standard,Yes,48,Debit Card
+1039,3,Yes,Express,Yes,3,Bank Transfer
+1040,4.8,Yes,Standard,Yes,39,Venmo
+1041,4,Yes,Next Day Air,Yes,7,Cash
+1042,4.9,Yes,Next Day Air,Yes,11,Cash
+1043,4.9,Yes,Next Day Air,Yes,47,Credit Card
+1044,3.3,Yes,2-Day Shipping,Yes,28,Debit Card
+1045,4.4,Yes,Next Day Air,Yes,17,Bank Transfer
+1046,3.5,Yes,2-Day Shipping,Yes,11,PayPal
+1047,4.2,Yes,Standard,Yes,12,Venmo
+1048,4.2,Yes,Standard,Yes,7,Credit Card
+1049,2.7,Yes,Standard,Yes,19,Venmo
+1050,2.8,Yes,Store Pickup,Yes,24,Cash
+1051,3.8,Yes,Next Day Air,Yes,19,Venmo
+1052,2.6,Yes,Free Shipping,Yes,39,PayPal
+1053,3,Yes,2-Day Shipping,Yes,1,Credit Card
+1054,3.3,No,2-Day Shipping,Yes,10,Debit Card
+1055,4.9,No,Express,Yes,48,PayPal
+1056,3.3,No,Next Day Air,Yes,24,Debit Card
+1057,2.9,No,2-Day Shipping,Yes,42,Venmo
+1058,4.4,No,2-Day Shipping,Yes,20,Credit Card
+1059,3.1,No,Next Day Air,Yes,49,Bank Transfer
+1060,2.5,No,Standard,Yes,25,Debit Card
+1061,2.6,No,Next Day Air,Yes,21,Debit Card
+1062,4.4,No,Free Shipping,Yes,12,Venmo
+1063,2.6,No,Next Day Air,Yes,21,Debit Card
+1064,3.3,No,Free Shipping,Yes,35,Cash
+1065,3.5,No,Express,Yes,42,Credit Card
+1066,4.1,No,Store Pickup,Yes,3,PayPal
+1067,4,No,Store Pickup,Yes,11,PayPal
+1068,2.7,No,2-Day Shipping,Yes,22,PayPal
+1069,2.5,No,Standard,Yes,47,Credit Card
+1070,4.3,No,Next Day Air,Yes,33,Venmo
+1071,3.3,No,Free Shipping,Yes,50,Debit Card
+1072,2.6,No,Express,Yes,46,Credit Card
+1073,3.5,No,Express,Yes,34,Debit Card
+1074,4,No,Store Pickup,Yes,33,Credit Card
+1075,2.6,No,Standard,Yes,45,Bank Transfer
+1076,4.9,No,Next Day Air,Yes,32,Debit Card
+1077,2.9,No,Standard,Yes,47,Venmo
+1078,3.7,No,Standard,Yes,5,PayPal
+1079,4.4,No,Express,Yes,49,Credit Card
+1080,4.4,No,Free Shipping,Yes,48,Bank Transfer
+1081,3.8,No,Express,Yes,22,Cash
+1082,4.5,No,Standard,Yes,45,Credit Card
+1083,2.6,No,Next Day Air,Yes,30,Venmo
+1084,3.3,No,Store Pickup,Yes,43,Cash
+1085,4.1,No,Next Day Air,Yes,48,Cash
+1086,3,No,Store Pickup,Yes,23,Venmo
+1087,3,No,Free Shipping,Yes,27,PayPal
+1088,3.4,No,Next Day Air,Yes,7,Bank Transfer
+1089,2.7,No,Free Shipping,Yes,2,PayPal
+1090,3.8,No,Next Day Air,Yes,33,PayPal
+1091,4.2,No,Store Pickup,Yes,27,Cash
+1092,4.7,No,Store Pickup,Yes,6,Credit Card
+1093,4.1,No,2-Day Shipping,Yes,20,Venmo
+1094,4.2,No,2-Day Shipping,Yes,46,Venmo
+1095,4.8,No,Next Day Air,Yes,25,Cash
+1096,3,No,Free Shipping,Yes,30,Bank Transfer
+1097,2.6,No,Standard,Yes,48,Credit Card
+1098,3.2,No,Store Pickup,Yes,47,Bank Transfer
+1099,3.6,No,Next Day Air,Yes,27,Credit Card
+1100,2.6,No,Next Day Air,Yes,45,Bank Transfer
+1101,4.4,No,Express,Yes,2,Credit Card
+1102,3,No,Free Shipping,Yes,39,Cash
+1103,2.9,No,Express,Yes,24,Cash
+1104,4.3,No,Free Shipping,Yes,8,Debit Card
+1105,3.1,No,Express,Yes,8,Bank Transfer
+1106,3,No,Next Day Air,Yes,6,Venmo
+1107,3.6,No,Store Pickup,Yes,12,Venmo
+1108,2.8,No,Store Pickup,Yes,26,Bank Transfer
+1109,2.8,No,Standard,Yes,50,Cash
+1110,4.9,No,Next Day Air,Yes,2,Venmo
+1111,3,No,Standard,Yes,31,Cash
+1112,4.1,No,Next Day Air,Yes,4,Credit Card
+1113,4.6,No,Free Shipping,Yes,32,PayPal
+1114,4.8,No,Next Day Air,Yes,11,PayPal
+1115,2.6,No,Next Day Air,Yes,47,Bank Transfer
+1116,4,No,2-Day Shipping,Yes,37,Cash
+1117,4.2,No,Express,Yes,39,PayPal
+1118,4.5,No,Store Pickup,Yes,24,Credit Card
+1119,4.9,No,Standard,Yes,11,PayPal
+1120,3.1,No,Standard,Yes,36,Credit Card
+1121,4,No,Next Day Air,Yes,40,Debit Card
+1122,3.2,No,Express,Yes,25,Cash
+1123,4.3,No,2-Day Shipping,Yes,12,Credit Card
+1124,2.5,No,Store Pickup,Yes,38,Cash
+1125,4.9,No,Express,Yes,40,Cash
+1126,2.7,No,2-Day Shipping,Yes,10,Bank Transfer
+1127,3.4,No,Standard,Yes,47,Venmo
+1128,4.8,No,Store Pickup,Yes,22,Debit Card
+1129,4.7,No,Next Day Air,Yes,35,Debit Card
+1130,4.7,No,Express,Yes,46,Venmo
+1131,3.9,No,Standard,Yes,30,PayPal
+1132,3.7,No,Express,Yes,20,Bank Transfer
+1133,4.3,No,Store Pickup,Yes,25,Cash
+1134,4.1,No,2-Day Shipping,Yes,29,Cash
+1135,4.6,No,Express,Yes,2,Venmo
+1136,3.6,No,2-Day Shipping,Yes,32,Bank Transfer
+1137,4.8,No,Free Shipping,Yes,37,Cash
+1138,2.8,No,2-Day Shipping,Yes,16,Bank Transfer
+1139,4.7,No,Express,Yes,32,Venmo
+1140,3.9,No,Standard,Yes,42,Debit Card
+1141,2.6,No,Store Pickup,Yes,6,Credit Card
+1142,4.7,No,Next Day Air,Yes,23,PayPal
+1143,3.5,No,Store Pickup,Yes,27,Venmo
+1144,4.4,No,Standard,Yes,43,PayPal
+1145,4.4,No,2-Day Shipping,Yes,25,Bank Transfer
+1146,3,No,Express,Yes,30,Cash
+1147,4.2,No,Standard,Yes,7,Bank Transfer
+1148,4.3,No,Next Day Air,Yes,17,Debit Card
+1149,2.6,No,Store Pickup,Yes,10,PayPal
+1150,3.3,No,Store Pickup,Yes,40,Venmo
+1151,2.7,No,Next Day Air,Yes,50,Venmo
+1152,4.2,No,Express,Yes,24,Credit Card
+1153,4,No,Standard,Yes,8,PayPal
+1154,4,No,Free Shipping,Yes,6,Bank Transfer
+1155,2.9,No,2-Day Shipping,Yes,44,Credit Card
+1156,2.6,No,Express,Yes,47,PayPal
+1157,4.8,No,Express,Yes,6,Venmo
+1158,4.4,No,Standard,Yes,11,Cash
+1159,4,No,2-Day Shipping,Yes,41,Bank Transfer
+1160,3.6,No,2-Day Shipping,Yes,46,Venmo
+1161,3.2,No,Next Day Air,Yes,9,Venmo
+1162,3.1,No,2-Day Shipping,Yes,37,PayPal
+1163,4.2,No,Express,Yes,13,PayPal
+1164,3,No,2-Day Shipping,Yes,24,Debit Card
+1165,4.2,No,Standard,Yes,47,PayPal
+1166,2.9,No,Next Day Air,Yes,21,Venmo
+1167,3.7,No,Store Pickup,Yes,22,Venmo
+1168,3.6,No,Free Shipping,Yes,16,PayPal
+1169,3.6,No,Standard,Yes,37,Debit Card
+1170,4.5,No,2-Day Shipping,Yes,3,Cash
+1171,3.2,No,Express,Yes,33,Cash
+1172,3.9,No,Next Day Air,Yes,15,Debit Card
+1173,4.6,No,Store Pickup,Yes,42,Bank Transfer
+1174,2.5,No,Express,Yes,42,Cash
+1175,4.3,No,Express,Yes,19,Bank Transfer
+1176,4.1,No,Store Pickup,Yes,26,PayPal
+1177,4.6,No,Free Shipping,Yes,39,PayPal
+1178,4.8,No,Standard,Yes,24,Debit Card
+1179,4.9,No,Express,Yes,23,Debit Card
+1180,2.8,No,Free Shipping,Yes,44,Bank Transfer
+1181,4.9,No,Standard,Yes,34,Cash
+1182,3.5,No,Free Shipping,Yes,43,Bank Transfer
+1183,3.8,No,Express,Yes,45,PayPal
+1184,4.5,No,2-Day Shipping,Yes,4,Credit Card
+1185,3.4,No,Express,Yes,19,Credit Card
+1186,3.9,No,Standard,Yes,29,Credit Card
+1187,4.1,No,2-Day Shipping,Yes,27,Credit Card
+1188,3,No,Express,Yes,37,Credit Card
+1189,3.3,No,Next Day Air,Yes,11,Credit Card
+1190,4.9,No,Free Shipping,Yes,28,Debit Card
+1191,4.3,No,Next Day Air,Yes,31,Credit Card
+1192,4.1,No,Free Shipping,Yes,50,Venmo
+1193,4,No,2-Day Shipping,Yes,42,Venmo
+1194,5,No,2-Day Shipping,Yes,18,Credit Card
+1195,3.1,No,2-Day Shipping,Yes,6,Credit Card
+1196,4,No,2-Day Shipping,Yes,33,Venmo
+1197,3.2,No,2-Day Shipping,Yes,13,Bank Transfer
+1198,3.9,No,Standard,Yes,26,PayPal
+1199,3.9,No,2-Day Shipping,Yes,17,Cash
+1200,4.5,No,Free Shipping,Yes,3,Debit Card
+1201,4.4,No,Store Pickup,Yes,7,PayPal
+1202,3.1,No,2-Day Shipping,Yes,46,Venmo
+1203,2.9,No,Standard,Yes,14,Venmo
+1204,3.7,No,Free Shipping,Yes,23,Bank Transfer
+1205,3.2,No,2-Day Shipping,Yes,20,Credit Card
+1206,3.5,No,Standard,Yes,38,Bank Transfer
+1207,3,No,Free Shipping,Yes,16,Venmo
+1208,4.1,No,Next Day Air,Yes,48,Credit Card
+1209,2.9,No,2-Day Shipping,Yes,8,Debit Card
+1210,3.8,No,Next Day Air,Yes,16,Bank Transfer
+1211,4.1,No,Next Day Air,Yes,5,Cash
+1212,4.6,No,Store Pickup,Yes,14,Venmo
+1213,2.5,No,Free Shipping,Yes,18,Credit Card
+1214,3.7,No,Express,Yes,14,Debit Card
+1215,3.8,No,Free Shipping,Yes,5,Cash
+1216,2.6,No,2-Day Shipping,Yes,15,Credit Card
+1217,3.7,No,Free Shipping,Yes,3,Venmo
+1218,2.6,No,Free Shipping,Yes,12,Cash
+1219,3.1,No,Store Pickup,Yes,43,Cash
+1220,2.5,No,Next Day Air,Yes,35,Credit Card
+1221,4.9,No,Express,Yes,36,Bank Transfer
+1222,4.5,No,Standard,Yes,3,Cash
+1223,3.4,No,Store Pickup,Yes,27,Bank Transfer
+1224,3.9,No,Free Shipping,Yes,21,Bank Transfer
+1225,3.7,No,Store Pickup,Yes,18,Venmo
+1226,2.6,No,Free Shipping,Yes,16,Debit Card
+1227,3.4,No,Store Pickup,Yes,18,Venmo
+1228,4.9,No,Store Pickup,Yes,19,Bank Transfer
+1229,3.9,No,Express,Yes,1,Cash
+1230,3.6,No,Express,Yes,39,Bank Transfer
+1231,4.6,No,Standard,Yes,49,Venmo
+1232,4,No,2-Day Shipping,Yes,43,Credit Card
+1233,3.6,No,Free Shipping,Yes,31,Debit Card
+1234,3.5,No,Next Day Air,Yes,40,Venmo
+1235,4.1,No,Store Pickup,Yes,2,Bank Transfer
+1236,3,No,Store Pickup,Yes,46,PayPal
+1237,4.4,No,Store Pickup,Yes,35,Debit Card
+1238,4.4,No,2-Day Shipping,Yes,42,Credit Card
+1239,3.7,No,Express,Yes,3,Venmo
+1240,4.8,No,Standard,Yes,32,Debit Card
+1241,2.9,No,Store Pickup,Yes,48,Debit Card
+1242,3.1,No,Express,Yes,34,Credit Card
+1243,4,No,Next Day Air,Yes,15,Bank Transfer
+1244,3,No,Store Pickup,Yes,22,Debit Card
+1245,3.9,No,2-Day Shipping,Yes,2,Cash
+1246,3.4,No,Standard,Yes,30,Bank Transfer
+1247,2.7,No,Standard,Yes,27,Cash
+1248,3.5,No,Express,Yes,18,Venmo
+1249,3,No,Free Shipping,Yes,8,Credit Card
+1250,4.5,No,Express,Yes,48,Venmo
+1251,4.1,No,Free Shipping,Yes,24,Cash
+1252,5,No,Next Day Air,Yes,43,Credit Card
+1253,4,No,Standard,Yes,8,Cash
+1254,4.9,No,Express,Yes,49,PayPal
+1255,3.3,No,2-Day Shipping,Yes,2,Credit Card
+1256,4.1,No,Standard,Yes,38,Cash
+1257,3.6,No,Express,Yes,4,Cash
+1258,3,No,Free Shipping,Yes,31,Cash
+1259,4.1,No,2-Day Shipping,Yes,34,Debit Card
+1260,3.9,No,Standard,Yes,45,Credit Card
+1261,4.1,No,Store Pickup,Yes,30,Debit Card
+1262,2.8,No,Next Day Air,Yes,2,Credit Card
+1263,4.8,No,Store Pickup,Yes,44,Venmo
+1264,4.6,No,2-Day Shipping,Yes,1,Credit Card
+1265,2.5,No,Next Day Air,Yes,1,Venmo
+1266,2.7,No,Next Day Air,Yes,27,Bank Transfer
+1267,4,No,Standard,Yes,14,Debit Card
+1268,2.7,No,Standard,Yes,41,Cash
+1269,2.9,No,Next Day Air,Yes,25,Debit Card
+1270,3,No,Standard,Yes,47,PayPal
+1271,3.3,No,Standard,Yes,20,Cash
+1272,4.3,No,Store Pickup,Yes,42,PayPal
+1273,4.4,No,Express,Yes,16,Bank Transfer
+1274,4.1,No,Next Day Air,Yes,32,Credit Card
+1275,3.1,No,2-Day Shipping,Yes,37,PayPal
+1276,4.5,No,Standard,Yes,1,PayPal
+1277,4.8,No,Next Day Air,Yes,37,Bank Transfer
+1278,5,No,Express,Yes,5,Venmo
+1279,2.8,No,Next Day Air,Yes,31,Venmo
+1280,3.7,No,Express,Yes,18,Debit Card
+1281,4.4,No,2-Day Shipping,Yes,39,Venmo
+1282,4.5,No,Store Pickup,Yes,8,Venmo
+1283,3,No,Free Shipping,Yes,20,Venmo
+1284,3.9,No,2-Day Shipping,Yes,23,Debit Card
+1285,3.9,No,Express,Yes,38,PayPal
+1286,3.5,No,Next Day Air,Yes,45,Bank Transfer
+1287,4.9,No,Next Day Air,Yes,44,Debit Card
+1288,3.4,No,Standard,Yes,20,PayPal
+1289,4.1,No,Standard,Yes,34,PayPal
+1290,2.9,No,Next Day Air,Yes,10,PayPal
+1291,3.4,No,Free Shipping,Yes,3,PayPal
+1292,3.2,No,2-Day Shipping,Yes,23,Debit Card
+1293,3.9,No,Free Shipping,Yes,42,Bank Transfer
+1294,4.1,No,Standard,Yes,30,Debit Card
+1295,4.5,No,Standard,Yes,21,Cash
+1296,2.8,No,Standard,Yes,50,PayPal
+1297,2.8,No,Express,Yes,16,Cash
+1298,4.6,No,Standard,Yes,32,Venmo
+1299,3,No,Free Shipping,Yes,14,Bank Transfer
+1300,3.6,No,2-Day Shipping,Yes,42,Venmo
+1301,4.5,No,Next Day Air,Yes,47,Credit Card
+1302,5,No,Express,Yes,21,Debit Card
+1303,2.9,No,Next Day Air,Yes,37,Credit Card
+1304,3.1,No,Next Day Air,Yes,10,Credit Card
+1305,4,No,2-Day Shipping,Yes,18,PayPal
+1306,4.5,No,Express,Yes,2,PayPal
+1307,4.5,No,Next Day Air,Yes,40,PayPal
+1308,3.1,No,Express,Yes,43,PayPal
+1309,4.4,No,Next Day Air,Yes,14,Credit Card
+1310,4.7,No,Store Pickup,Yes,41,Cash
+1311,3.1,No,Store Pickup,Yes,38,Credit Card
+1312,4.2,No,Express,Yes,12,Venmo
+1313,3,No,Store Pickup,Yes,19,Bank Transfer
+1314,2.6,No,Free Shipping,Yes,23,Credit Card
+1315,3.4,No,Free Shipping,Yes,49,Debit Card
+1316,4.2,No,2-Day Shipping,Yes,29,Debit Card
+1317,4.6,No,Standard,Yes,14,Debit Card
+1318,2.8,No,Free Shipping,Yes,19,Cash
+1319,2.7,No,Express,Yes,19,Credit Card
+1320,4,No,Standard,Yes,48,Bank Transfer
+1321,3.1,No,Free Shipping,Yes,19,Debit Card
+1322,3.7,No,Express,Yes,45,Bank Transfer
+1323,4,No,Next Day Air,Yes,17,Bank Transfer
+1324,4.6,No,Standard,Yes,15,Debit Card
+1325,3.8,No,Free Shipping,Yes,11,Credit Card
+1326,3.5,No,Express,Yes,1,Cash
+1327,4.6,No,Free Shipping,Yes,17,Cash
+1328,2.8,No,Standard,Yes,37,Cash
+1329,3.7,No,Standard,Yes,40,Bank Transfer
+1330,3.3,No,Express,Yes,50,PayPal
+1331,2.9,No,Standard,Yes,20,PayPal
+1332,3.2,No,Standard,Yes,8,PayPal
+1333,4.3,No,Store Pickup,Yes,16,Bank Transfer
+1334,2.7,No,Next Day Air,Yes,9,Bank Transfer
+1335,4.2,No,Store Pickup,Yes,12,Venmo
+1336,4.8,No,2-Day Shipping,Yes,26,Credit Card
+1337,4.8,No,Store Pickup,Yes,44,Debit Card
+1338,3.4,No,Express,Yes,19,Credit Card
+1339,2.6,No,Standard,Yes,43,PayPal
+1340,5,No,Next Day Air,Yes,5,Bank Transfer
+1341,4.4,No,Next Day Air,Yes,5,Debit Card
+1342,2.9,No,Standard,Yes,31,Bank Transfer
+1343,3.4,No,2-Day Shipping,Yes,11,Bank Transfer
+1344,3.4,No,Standard,Yes,34,Bank Transfer
+1345,4.9,No,Next Day Air,Yes,14,Cash
+1346,3.6,No,Standard,Yes,42,Venmo
+1347,3,No,Free Shipping,Yes,15,Venmo
+1348,3.9,No,2-Day Shipping,Yes,47,Bank Transfer
+1349,3.2,No,Standard,Yes,23,Credit Card
+1350,3.2,No,Next Day Air,Yes,23,Cash
+1351,4.3,No,Next Day Air,Yes,1,Cash
+1352,2.8,No,2-Day Shipping,Yes,28,Bank Transfer
+1353,4.5,No,Next Day Air,Yes,37,Credit Card
+1354,4.1,No,Next Day Air,Yes,4,Cash
+1355,3.6,No,2-Day Shipping,Yes,21,Bank Transfer
+1356,3,No,2-Day Shipping,Yes,50,PayPal
+1357,4,No,Free Shipping,Yes,34,Bank Transfer
+1358,3.5,No,Next Day Air,Yes,20,Cash
+1359,2.5,No,Store Pickup,Yes,25,Venmo
+1360,4.3,No,Store Pickup,Yes,26,Bank Transfer
+1361,2.8,No,Express,Yes,4,Bank Transfer
+1362,3.7,No,Next Day Air,Yes,39,Debit Card
+1363,4.3,No,Express,Yes,29,Cash
+1364,4,No,Express,Yes,47,PayPal
+1365,4.7,No,Express,Yes,5,Cash
+1366,4.5,No,Store Pickup,Yes,18,Bank Transfer
+1367,3.1,No,Free Shipping,Yes,10,Credit Card
+1368,3.8,No,Express,Yes,25,Cash
+1369,4.9,No,Express,Yes,2,Cash
+1370,3.2,No,Standard,Yes,48,Venmo
+1371,2.9,No,2-Day Shipping,Yes,41,Bank Transfer
+1372,2.8,No,Store Pickup,Yes,42,Credit Card
+1373,4,No,2-Day Shipping,Yes,44,PayPal
+1374,2.6,No,Store Pickup,Yes,6,Cash
+1375,2.7,No,Free Shipping,Yes,5,Bank Transfer
+1376,4.1,No,2-Day Shipping,Yes,8,Credit Card
+1377,5,No,Free Shipping,Yes,24,PayPal
+1378,3,No,Next Day Air,Yes,42,Venmo
+1379,3.6,No,Free Shipping,Yes,24,Venmo
+1380,2.8,No,2-Day Shipping,Yes,38,Venmo
+1381,4.6,No,Standard,Yes,41,Cash
+1382,2.9,No,Standard,Yes,48,Venmo
+1383,4.8,No,Express,Yes,16,Bank Transfer
+1384,3.3,No,Express,Yes,4,Venmo
+1385,4.6,No,Standard,Yes,8,Bank Transfer
+1386,2.6,No,Store Pickup,Yes,1,Bank Transfer
+1387,4,No,Next Day Air,Yes,4,Debit Card
+1388,3.8,No,Standard,Yes,20,Credit Card
+1389,3.9,No,Express,Yes,40,Cash
+1390,2.6,No,Store Pickup,Yes,8,Debit Card
+1391,4.3,No,Standard,Yes,42,Debit Card
+1392,3.6,No,Express,Yes,38,Credit Card
+1393,4.2,No,Express,Yes,34,Venmo
+1394,3.9,No,Express,Yes,14,PayPal
+1395,4.7,No,Next Day Air,Yes,39,Cash
+1396,2.8,No,Next Day Air,Yes,40,PayPal
+1397,3,No,Next Day Air,Yes,49,Debit Card
+1398,4.7,No,Store Pickup,Yes,33,PayPal
+1399,2.5,No,Free Shipping,Yes,25,Credit Card
+1400,3.1,No,Store Pickup,Yes,48,Venmo
+1401,3.6,No,Next Day Air,Yes,22,Credit Card
+1402,3.5,No,2-Day Shipping,Yes,1,PayPal
+1403,3.1,No,Express,Yes,47,PayPal
+1404,3.6,No,Store Pickup,Yes,20,Credit Card
+1405,3.5,No,Next Day Air,Yes,10,Debit Card
+1406,2.7,No,Store Pickup,Yes,39,Credit Card
+1407,3.6,No,Express,Yes,15,Debit Card
+1408,4.5,No,Express,Yes,11,Credit Card
+1409,4.1,No,Free Shipping,Yes,38,Venmo
+1410,4.2,No,Standard,Yes,41,Cash
+1411,4,No,Store Pickup,Yes,18,Debit Card
+1412,2.8,No,Store Pickup,Yes,13,Venmo
+1413,2.6,No,2-Day Shipping,Yes,43,Venmo
+1414,2.7,No,Store Pickup,Yes,12,Bank Transfer
+1415,4.5,No,Store Pickup,Yes,3,Credit Card
+1416,3.7,No,Free Shipping,Yes,12,Credit Card
+1417,3.4,No,Free Shipping,Yes,46,Cash
+1418,4.6,No,Standard,Yes,21,Debit Card
+1419,4.1,No,2-Day Shipping,Yes,23,Venmo
+1420,2.6,No,Free Shipping,Yes,4,Debit Card
+1421,4.6,No,Store Pickup,Yes,45,PayPal
+1422,3,No,Standard,Yes,24,Bank Transfer
+1423,3.4,No,Free Shipping,Yes,3,PayPal
+1424,3.5,No,Free Shipping,Yes,12,Venmo
+1425,3.5,No,Standard,Yes,34,Bank Transfer
+1426,3.7,No,Next Day Air,Yes,39,Credit Card
+1427,4.8,No,Free Shipping,Yes,35,PayPal
+1428,4.9,No,Store Pickup,Yes,8,Credit Card
+1429,4.9,No,Express,Yes,42,PayPal
+1430,4.7,No,Standard,Yes,6,Credit Card
+1431,4.9,No,Free Shipping,Yes,3,Credit Card
+1432,2.9,No,Express,Yes,29,Venmo
+1433,4.4,No,Express,Yes,32,Debit Card
+1434,3.2,No,Next Day Air,Yes,45,Debit Card
+1435,4.6,No,Free Shipping,Yes,21,Debit Card
+1436,4,No,Standard,Yes,41,Cash
+1437,3.7,No,Free Shipping,Yes,23,PayPal
+1438,4.2,No,Free Shipping,Yes,14,Cash
+1439,2.9,No,Standard,Yes,24,Debit Card
+1440,4.8,No,Next Day Air,Yes,25,Cash
+1441,4.4,No,Standard,Yes,13,Venmo
+1442,3.4,No,Free Shipping,Yes,3,Venmo
+1443,2.8,No,2-Day Shipping,Yes,42,Credit Card
+1444,4.2,No,Next Day Air,Yes,2,Cash
+1445,3.8,No,Express,Yes,26,Cash
+1446,3.1,No,2-Day Shipping,Yes,24,Credit Card
+1447,3.2,No,Express,Yes,6,Credit Card
+1448,3,No,Next Day Air,Yes,25,PayPal
+1449,3.6,No,Free Shipping,Yes,11,Credit Card
+1450,2.5,No,Store Pickup,Yes,20,Cash
+1451,3.4,No,Free Shipping,Yes,25,Cash
+1452,2.5,No,Next Day Air,Yes,35,PayPal
+1453,4.7,No,2-Day Shipping,Yes,11,Bank Transfer
+1454,3.2,No,2-Day Shipping,Yes,41,Bank Transfer
+1455,2.9,No,Free Shipping,Yes,17,Credit Card
+1456,4.9,No,Express,Yes,1,PayPal
+1457,2.7,No,Store Pickup,Yes,30,PayPal
+1458,4.7,No,Express,Yes,47,Venmo
+1459,2.9,No,2-Day Shipping,Yes,34,Venmo
+1460,4.8,No,Express,Yes,18,Venmo
+1461,4.6,No,Standard,Yes,33,Venmo
+1462,5,No,2-Day Shipping,Yes,42,Venmo
+1463,4.8,No,2-Day Shipping,Yes,2,Venmo
+1464,4.9,No,Store Pickup,Yes,1,Bank Transfer
+1465,4.6,No,2-Day Shipping,Yes,23,Bank Transfer
+1466,3.9,No,Store Pickup,Yes,42,Cash
+1467,4.5,No,Store Pickup,Yes,3,PayPal
+1468,4.7,No,Store Pickup,Yes,16,Debit Card
+1469,3.9,No,Express,Yes,46,Cash
+1470,4.4,No,Standard,Yes,31,PayPal
+1471,3.9,No,Next Day Air,Yes,15,Cash
+1472,2.8,No,2-Day Shipping,Yes,48,Venmo
+1473,3.5,No,Store Pickup,Yes,11,Cash
+1474,4.3,No,Express,Yes,20,Credit Card
+1475,3.9,No,Next Day Air,Yes,6,Credit Card
+1476,4,No,Express,Yes,24,Cash
+1477,4.1,No,Next Day Air,Yes,18,Credit Card
+1478,4.3,No,Standard,Yes,1,PayPal
+1479,4.2,No,Free Shipping,Yes,13,Venmo
+1480,4,No,Standard,Yes,2,Bank Transfer
+1481,3.6,No,Express,Yes,26,Cash
+1482,3.3,No,Standard,Yes,31,PayPal
+1483,4.1,No,2-Day Shipping,Yes,43,Bank Transfer
+1484,4.7,No,Next Day Air,Yes,12,Debit Card
+1485,4.4,No,Store Pickup,Yes,22,Venmo
+1486,3.4,No,Standard,Yes,3,Cash
+1487,5,No,Free Shipping,Yes,23,Venmo
+1488,4.6,No,Store Pickup,Yes,26,PayPal
+1489,4,No,Standard,Yes,37,Credit Card
+1490,4.1,No,Next Day Air,Yes,42,Venmo
+1491,4.9,No,Express,Yes,15,Venmo
+1492,2.7,No,Free Shipping,Yes,10,Bank Transfer
+1493,4.5,No,Free Shipping,Yes,3,Venmo
+1494,2.7,No,Standard,Yes,44,Credit Card
+1495,3,No,Next Day Air,Yes,23,Bank Transfer
+1496,4.5,No,Next Day Air,Yes,6,PayPal
+1497,5,No,Standard,Yes,9,Venmo
+1498,3.8,No,2-Day Shipping,Yes,16,Debit Card
+1499,3.1,No,Standard,Yes,46,Venmo
+1500,3.4,No,Free Shipping,Yes,24,Credit Card
+1501,4.8,No,Next Day Air,Yes,22,Debit Card
+1502,2.7,No,Standard,Yes,13,Debit Card
+1503,3.2,No,Store Pickup,Yes,20,Cash
+1504,3.9,No,2-Day Shipping,Yes,46,Cash
+1505,4.2,No,Next Day Air,Yes,10,Bank Transfer
+1506,3,No,Express,Yes,39,Cash
+1507,3,No,2-Day Shipping,Yes,44,PayPal
+1508,3.7,No,2-Day Shipping,Yes,7,Venmo
+1509,4.4,No,Store Pickup,Yes,3,Cash
+1510,4.6,No,Free Shipping,Yes,44,Debit Card
+1511,3,No,Free Shipping,Yes,31,Venmo
+1512,3.6,No,Express,Yes,48,Credit Card
+1513,3.9,No,Standard,Yes,18,PayPal
+1514,4.1,No,Free Shipping,Yes,27,Cash
+1515,3.9,No,2-Day Shipping,Yes,1,Venmo
+1516,3.9,No,2-Day Shipping,Yes,34,Cash
+1517,4.5,No,Express,Yes,5,Bank Transfer
+1518,3.4,No,Standard,Yes,12,Cash
+1519,4.1,No,Next Day Air,Yes,14,Venmo
+1520,4.9,No,Next Day Air,Yes,40,PayPal
+1521,4.4,No,2-Day Shipping,Yes,39,Cash
+1522,2.7,No,2-Day Shipping,Yes,50,Bank Transfer
+1523,4.8,No,Free Shipping,Yes,5,Debit Card
+1524,3.3,No,2-Day Shipping,Yes,35,Debit Card
+1525,4.4,No,Free Shipping,Yes,6,Cash
+1526,4.6,No,2-Day Shipping,Yes,22,Cash
+1527,3.1,No,Next Day Air,Yes,27,PayPal
+1528,4.5,No,2-Day Shipping,Yes,33,Debit Card
+1529,4,No,Store Pickup,Yes,47,Venmo
+1530,3.1,No,Free Shipping,Yes,48,Credit Card
+1531,3.9,No,Next Day Air,Yes,22,Bank Transfer
+1532,4.5,No,Next Day Air,Yes,8,PayPal
+1533,4.4,No,Next Day Air,Yes,5,PayPal
+1534,3.6,No,2-Day Shipping,Yes,16,Bank Transfer
+1535,3.4,No,Free Shipping,Yes,26,Venmo
+1536,4,No,2-Day Shipping,Yes,8,Venmo
+1537,2.6,No,Store Pickup,Yes,17,Cash
+1538,3.2,No,Next Day Air,Yes,50,Venmo
+1539,3.2,No,Standard,Yes,22,Venmo
+1540,5,No,2-Day Shipping,Yes,19,Cash
+1541,2.9,No,Next Day Air,Yes,14,Bank Transfer
+1542,2.9,No,Store Pickup,Yes,35,Cash
+1543,3.5,No,Next Day Air,Yes,43,PayPal
+1544,4,No,Standard,Yes,24,Venmo
+1545,3.9,No,Standard,Yes,17,Debit Card
+1546,4.9,No,Store Pickup,Yes,49,Bank Transfer
+1547,3.8,No,Express,Yes,17,Bank Transfer
+1548,3.5,No,Standard,Yes,40,Cash
+1549,3.7,No,Store Pickup,Yes,43,Bank Transfer
+1550,2.9,No,2-Day Shipping,Yes,19,Debit Card
+1551,2.8,No,Free Shipping,Yes,40,Bank Transfer
+1552,3.7,No,2-Day Shipping,Yes,13,Credit Card
+1553,3,No,Express,Yes,20,Credit Card
+1554,4.8,No,Free Shipping,Yes,21,Debit Card
+1555,2.7,No,Standard,Yes,18,Cash
+1556,4.5,No,Free Shipping,Yes,44,Cash
+1557,2.7,No,Standard,Yes,26,Credit Card
+1558,3.5,No,Next Day Air,Yes,34,PayPal
+1559,3.5,No,Express,Yes,24,Credit Card
+1560,4.5,No,Store Pickup,Yes,23,PayPal
+1561,3.8,No,Free Shipping,Yes,3,Debit Card
+1562,3.8,No,Standard,Yes,2,Bank Transfer
+1563,3.2,No,Next Day Air,Yes,23,Venmo
+1564,4.3,No,Next Day Air,Yes,8,Cash
+1565,4.5,No,Next Day Air,Yes,30,Debit Card
+1566,4.2,No,Free Shipping,Yes,48,PayPal
+1567,3,No,Free Shipping,Yes,21,Cash
+1568,4.1,No,Standard,Yes,9,Cash
+1569,4.6,No,Store Pickup,Yes,8,Debit Card
+1570,2.9,No,Standard,Yes,29,Debit Card
+1571,4.8,No,Next Day Air,Yes,3,Bank Transfer
+1572,4.5,No,Next Day Air,Yes,11,Bank Transfer
+1573,3.4,No,2-Day Shipping,Yes,16,Debit Card
+1574,4.3,No,2-Day Shipping,Yes,25,Debit Card
+1575,4.2,No,Free Shipping,Yes,32,PayPal
+1576,3.6,No,Next Day Air,Yes,28,Cash
+1577,3.7,No,2-Day Shipping,Yes,36,PayPal
+1578,4,No,Standard,Yes,7,Venmo
+1579,4.9,No,2-Day Shipping,Yes,2,PayPal
+1580,3.1,No,Free Shipping,Yes,6,Bank Transfer
+1581,3.7,No,Standard,Yes,30,Cash
+1582,4.2,No,Free Shipping,Yes,46,Cash
+1583,2.5,No,Next Day Air,Yes,39,Cash
+1584,4.3,No,Next Day Air,Yes,8,Venmo
+1585,3.1,No,Store Pickup,Yes,46,Credit Card
+1586,3,No,Next Day Air,Yes,40,Debit Card
+1587,4,No,Express,Yes,21,Bank Transfer
+1588,3.5,No,Free Shipping,Yes,33,Credit Card
+1589,3.2,No,Next Day Air,Yes,3,Venmo
+1590,2.7,No,Store Pickup,Yes,48,Cash
+1591,3,No,Free Shipping,Yes,8,PayPal
+1592,2.9,No,Next Day Air,Yes,24,PayPal
+1593,3.3,No,Free Shipping,Yes,10,Bank Transfer
+1594,4.9,No,2-Day Shipping,Yes,25,Bank Transfer
+1595,3.7,No,Store Pickup,Yes,3,Cash
+1596,3.5,No,Standard,Yes,45,Debit Card
+1597,4.7,No,Store Pickup,Yes,15,Debit Card
+1598,2.6,No,Store Pickup,Yes,34,Bank Transfer
+1599,4.1,No,Express,Yes,21,Venmo
+1600,2.8,No,2-Day Shipping,Yes,22,Debit Card
+1601,4.7,No,Next Day Air,Yes,24,PayPal
+1602,2.9,No,Store Pickup,Yes,33,Credit Card
+1603,2.8,No,Free Shipping,Yes,13,Venmo
+1604,4.3,No,Next Day Air,Yes,17,Debit Card
+1605,4.8,No,2-Day Shipping,Yes,25,Credit Card
+1606,3.4,No,Next Day Air,Yes,15,Credit Card
+1607,4.3,No,Standard,Yes,4,PayPal
+1608,2.7,No,Free Shipping,Yes,43,Debit Card
+1609,4.6,No,Next Day Air,Yes,12,Bank Transfer
+1610,4.1,No,Standard,Yes,3,Venmo
+1611,3.4,No,2-Day Shipping,Yes,1,PayPal
+1612,4.5,No,Next Day Air,Yes,6,Debit Card
+1613,4.4,No,Standard,Yes,26,Venmo
+1614,4,No,Next Day Air,Yes,6,Credit Card
+1615,3.4,No,Free Shipping,Yes,22,Cash
+1616,3.2,No,Standard,Yes,45,Cash
+1617,3.4,No,Standard,Yes,50,Cash
+1618,4.3,No,Standard,Yes,50,Credit Card
+1619,5,No,Standard,Yes,39,Debit Card
+1620,3.5,No,Store Pickup,Yes,50,Venmo
+1621,3.1,No,2-Day Shipping,Yes,27,PayPal
+1622,3.9,No,2-Day Shipping,Yes,38,Debit Card
+1623,4,No,Store Pickup,Yes,37,Bank Transfer
+1624,3.5,No,Next Day Air,Yes,50,Debit Card
+1625,3.6,No,Free Shipping,Yes,40,PayPal
+1626,3,No,Next Day Air,Yes,3,PayPal
+1627,2.6,No,Next Day Air,Yes,45,Credit Card
+1628,2.9,No,Next Day Air,Yes,8,Credit Card
+1629,3.1,No,Next Day Air,Yes,7,Cash
+1630,3.3,No,Next Day Air,Yes,13,Venmo
+1631,2.9,No,Store Pickup,Yes,29,Venmo
+1632,3.9,No,2-Day Shipping,Yes,7,Bank Transfer
+1633,4.7,No,2-Day Shipping,Yes,50,Debit Card
+1634,4.4,No,2-Day Shipping,Yes,33,Debit Card
+1635,3.6,No,Store Pickup,Yes,30,Cash
+1636,3.2,No,Standard,Yes,40,Cash
+1637,4,No,Free Shipping,Yes,49,Cash
+1638,3.5,No,Next Day Air,Yes,32,Venmo
+1639,4.6,No,Free Shipping,Yes,18,Venmo
+1640,3.3,No,Free Shipping,Yes,50,PayPal
+1641,4,No,2-Day Shipping,Yes,13,PayPal
+1642,3.4,No,Free Shipping,Yes,1,Bank Transfer
+1643,4.2,No,Store Pickup,Yes,16,PayPal
+1644,3.9,No,2-Day Shipping,Yes,6,PayPal
+1645,3.9,No,Next Day Air,Yes,21,Debit Card
+1646,2.8,No,Standard,Yes,36,Venmo
+1647,3.7,No,Standard,Yes,20,Bank Transfer
+1648,4.9,No,Store Pickup,Yes,8,Debit Card
+1649,2.6,No,Express,Yes,22,Credit Card
+1650,4.9,No,Free Shipping,Yes,3,Credit Card
+1651,3.4,No,Next Day Air,Yes,46,Credit Card
+1652,3.9,No,Standard,Yes,42,Debit Card
+1653,4,No,Next Day Air,Yes,1,Bank Transfer
+1654,3,No,2-Day Shipping,Yes,29,Debit Card
+1655,2.6,No,Store Pickup,Yes,14,Credit Card
+1656,3.2,No,Next Day Air,Yes,4,PayPal
+1657,2.6,No,2-Day Shipping,Yes,41,PayPal
+1658,3.2,No,Store Pickup,Yes,4,Debit Card
+1659,4.1,No,Store Pickup,Yes,47,Cash
+1660,3.9,No,Next Day Air,Yes,44,Venmo
+1661,4.1,No,Standard,Yes,37,Venmo
+1662,2.7,No,2-Day Shipping,Yes,21,Debit Card
+1663,4.6,No,Free Shipping,Yes,46,Debit Card
+1664,3.5,No,Standard,Yes,1,Cash
+1665,5,No,Next Day Air,Yes,35,PayPal
+1666,3.4,No,Next Day Air,Yes,49,Venmo
+1667,3.1,No,Store Pickup,Yes,47,PayPal
+1668,3.4,No,2-Day Shipping,Yes,24,Bank Transfer
+1669,4,No,Standard,Yes,28,Debit Card
+1670,2.7,No,Store Pickup,Yes,22,Bank Transfer
+1671,3.6,No,Free Shipping,Yes,20,Cash
+1672,4,No,Free Shipping,Yes,25,Bank Transfer
+1673,3.8,No,Free Shipping,Yes,15,Venmo
+1674,3.4,No,Next Day Air,Yes,49,Venmo
+1675,3.2,No,Free Shipping,Yes,10,Debit Card
+1676,4.7,No,Next Day Air,Yes,21,Credit Card
+1677,3.1,No,Next Day Air,Yes,34,Bank Transfer
+1678,3.3,No,Next Day Air,No,41,Debit Card
+1679,4.8,No,2-Day Shipping,No,30,Venmo
+1680,4.5,No,Next Day Air,No,24,Debit Card
+1681,3.4,No,Store Pickup,No,6,Credit Card
+1682,3.7,No,2-Day Shipping,No,14,Credit Card
+1683,4.9,No,2-Day Shipping,No,37,Credit Card
+1684,3.5,No,Next Day Air,No,37,Venmo
+1685,4.6,No,Standard,No,28,PayPal
+1686,4.6,No,Standard,No,43,PayPal
+1687,4.2,No,Store Pickup,No,25,Cash
+1688,3.7,No,Free Shipping,No,4,PayPal
+1689,3,No,Next Day Air,No,13,Venmo
+1690,4.6,No,Store Pickup,No,32,Bank Transfer
+1691,3.2,No,Free Shipping,No,1,Cash
+1692,3.5,No,Next Day Air,No,4,Cash
+1693,2.6,No,Standard,No,33,Cash
+1694,4.9,No,Standard,No,45,Bank Transfer
+1695,2.7,No,Express,No,20,Debit Card
+1696,4.7,No,2-Day Shipping,No,1,PayPal
+1697,4,No,Free Shipping,No,7,Credit Card
+1698,3.5,No,Next Day Air,No,48,Credit Card
+1699,4.8,No,Standard,No,46,Bank Transfer
+1700,4,No,Free Shipping,No,34,Debit Card
+1701,4.1,No,Express,No,36,Bank Transfer
+1702,3.8,No,Next Day Air,No,44,Debit Card
+1703,5,No,Express,No,48,Bank Transfer
+1704,4,No,Next Day Air,No,12,Bank Transfer
+1705,3.9,No,Store Pickup,No,19,Cash
+1706,3.4,No,2-Day Shipping,No,49,Venmo
+1707,3,No,Standard,No,25,Venmo
+1708,4.9,No,2-Day Shipping,No,25,Cash
+1709,3.2,No,Express,No,1,Credit Card
+1710,3.8,No,Standard,No,19,Bank Transfer
+1711,3.8,No,Store Pickup,No,7,Credit Card
+1712,4.7,No,Express,No,19,Credit Card
+1713,3.8,No,2-Day Shipping,No,9,Cash
+1714,4.6,No,Free Shipping,No,37,PayPal
+1715,4.4,No,Standard,No,15,Cash
+1716,3.4,No,2-Day Shipping,No,30,PayPal
+1717,4.7,No,Standard,No,30,Cash
+1718,2.9,No,Express,No,16,Debit Card
+1719,3.4,No,2-Day Shipping,No,14,PayPal
+1720,3.2,No,Free Shipping,No,8,Venmo
+1721,2.8,No,Express,No,40,Debit Card
+1722,4.3,No,Free Shipping,No,24,Credit Card
+1723,3.3,No,Standard,No,14,Cash
+1724,3.3,No,Standard,No,39,PayPal
+1725,3.3,No,Free Shipping,No,21,PayPal
+1726,3,No,Next Day Air,No,32,Venmo
+1727,2.8,No,Express,No,45,Debit Card
+1728,4,No,Express,No,19,PayPal
+1729,4.3,No,Express,No,1,Debit Card
+1730,3.8,No,Store Pickup,No,12,Venmo
+1731,4.2,No,Free Shipping,No,26,Credit Card
+1732,3.1,No,Next Day Air,No,12,Cash
+1733,2.6,No,Free Shipping,No,36,Cash
+1734,3.4,No,Express,No,22,Credit Card
+1735,3.1,No,Next Day Air,No,16,PayPal
+1736,3.6,No,Express,No,31,Venmo
+1737,2.6,No,2-Day Shipping,No,43,Cash
+1738,4.2,No,Store Pickup,No,50,Venmo
+1739,2.9,No,2-Day Shipping,No,37,Credit Card
+1740,4.2,No,Express,No,23,Cash
+1741,3.3,No,Next Day Air,No,10,Bank Transfer
+1742,3.6,No,Next Day Air,No,20,Bank Transfer
+1743,4.3,No,Express,No,18,Venmo
+1744,3.3,No,Standard,No,3,Bank Transfer
+1745,3,No,Standard,No,23,PayPal
+1746,3.6,No,Store Pickup,No,27,Cash
+1747,3.1,No,Store Pickup,No,44,Bank Transfer
+1748,2.9,No,Express,No,41,Venmo
+1749,3.9,No,2-Day Shipping,No,41,Bank Transfer
+1750,3.2,No,2-Day Shipping,No,36,Debit Card
+1751,3.1,No,Express,No,38,Venmo
+1752,3.2,No,2-Day Shipping,No,34,Cash
+1753,3.3,No,Store Pickup,No,14,Venmo
+1754,4.8,No,Next Day Air,No,23,Credit Card
+1755,3.8,No,2-Day Shipping,No,18,Credit Card
+1756,4.6,No,Next Day Air,No,45,Cash
+1757,2.8,No,Free Shipping,No,14,Bank Transfer
+1758,3.6,No,Standard,No,48,Debit Card
+1759,4.3,No,Free Shipping,No,17,Venmo
+1760,4,No,Next Day Air,No,1,PayPal
+1761,3.5,No,Standard,No,39,PayPal
+1762,4.9,No,2-Day Shipping,No,24,Cash
+1763,3.1,No,Express,No,41,Bank Transfer
+1764,3.9,No,Store Pickup,No,28,PayPal
+1765,3,No,Store Pickup,No,34,Venmo
+1766,4.1,No,2-Day Shipping,No,41,Venmo
+1767,4.3,No,2-Day Shipping,No,27,Cash
+1768,3.8,No,2-Day Shipping,No,46,Debit Card
+1769,3.9,No,2-Day Shipping,No,2,PayPal
+1770,4.3,No,Free Shipping,No,45,Cash
+1771,4.3,No,Express,No,34,Bank Transfer
+1772,4.7,No,Store Pickup,No,9,Credit Card
+1773,3.1,No,2-Day Shipping,No,1,Bank Transfer
+1774,2.7,No,Free Shipping,No,17,PayPal
+1775,3.7,No,Express,No,6,PayPal
+1776,3.3,No,2-Day Shipping,No,12,Cash
+1777,3.4,No,Free Shipping,No,10,Venmo
+1778,4.7,No,Free Shipping,No,4,Cash
+1779,4.9,No,Store Pickup,No,8,Debit Card
+1780,4.3,No,Free Shipping,No,41,Venmo
+1781,4.2,No,Next Day Air,No,49,Credit Card
+1782,3.7,No,Express,No,49,Bank Transfer
+1783,2.7,No,Next Day Air,No,40,Bank Transfer
+1784,3.3,No,Free Shipping,No,30,Credit Card
+1785,4.8,No,Standard,No,4,Debit Card
+1786,4.1,No,Next Day Air,No,22,Venmo
+1787,4.6,No,2-Day Shipping,No,22,Venmo
+1788,4.9,No,2-Day Shipping,No,10,Bank Transfer
+1789,3.1,No,Store Pickup,No,23,Cash
+1790,3,No,2-Day Shipping,No,43,Debit Card
+1791,3.7,No,Store Pickup,No,31,PayPal
+1792,4,No,Store Pickup,No,38,Cash
+1793,3,No,Express,No,22,Debit Card
+1794,3.8,No,Store Pickup,No,45,Cash
+1795,3.7,No,Express,No,21,Debit Card
+1796,4,No,2-Day Shipping,No,9,Debit Card
+1797,3.1,No,Store Pickup,No,34,Venmo
+1798,3.9,No,2-Day Shipping,No,26,Venmo
+1799,3.7,No,Express,No,1,Cash
+1800,3.9,No,Express,No,47,Venmo
+1801,2.7,No,Express,No,30,Credit Card
+1802,3.9,No,Express,No,48,Debit Card
+1803,2.6,No,Store Pickup,No,31,Venmo
+1804,3.5,No,Free Shipping,No,33,Venmo
+1805,4.4,No,Next Day Air,No,39,Credit Card
+1806,4.9,No,Store Pickup,No,46,Debit Card
+1807,3.9,No,Standard,No,24,Venmo
+1808,3.5,No,Standard,No,37,Venmo
+1809,4.3,No,Next Day Air,No,7,Debit Card
+1810,3.4,No,Free Shipping,No,6,Debit Card
+1811,2.7,No,Standard,No,16,Cash
+1812,3.6,No,Standard,No,33,Bank Transfer
+1813,4.9,No,Express,No,18,PayPal
+1814,3.5,No,Free Shipping,No,24,PayPal
+1815,3.8,No,Free Shipping,No,24,Cash
+1816,4.5,No,2-Day Shipping,No,48,Credit Card
+1817,4,No,Express,No,4,Cash
+1818,4.7,No,Free Shipping,No,20,Cash
+1819,3.8,No,Express,No,47,Debit Card
+1820,4.5,No,Next Day Air,No,50,Cash
+1821,5,No,Express,No,31,PayPal
+1822,2.8,No,Express,No,29,PayPal
+1823,4.4,No,Standard,No,4,Cash
+1824,4.7,No,Free Shipping,No,40,Bank Transfer
+1825,3.8,No,Express,No,31,Cash
+1826,4.9,No,Next Day Air,No,41,Credit Card
+1827,4.2,No,Express,No,44,Debit Card
+1828,4.9,No,2-Day Shipping,No,31,Bank Transfer
+1829,3.9,No,Express,No,45,Cash
+1830,4.9,No,2-Day Shipping,No,50,Credit Card
+1831,4.8,No,Express,No,7,Venmo
+1832,3.3,No,Free Shipping,No,5,Bank Transfer
+1833,4.6,No,Free Shipping,No,48,Cash
+1834,4.5,No,2-Day Shipping,No,19,PayPal
+1835,4.1,No,2-Day Shipping,No,39,Venmo
+1836,3.2,No,2-Day Shipping,No,45,Credit Card
+1837,4.2,No,2-Day Shipping,No,35,Credit Card
+1838,4.8,No,Free Shipping,No,8,Venmo
+1839,4.1,No,Next Day Air,No,11,Credit Card
+1840,3.7,No,Store Pickup,No,32,Cash
+1841,2.6,No,Store Pickup,No,46,Bank Transfer
+1842,3,No,Standard,No,7,PayPal
+1843,4.4,No,Express,No,1,Debit Card
+1844,4.7,No,Next Day Air,No,32,Credit Card
+1845,2.7,No,2-Day Shipping,No,31,Credit Card
+1846,2.8,No,2-Day Shipping,No,39,Bank Transfer
+1847,2.9,No,Standard,No,9,Venmo
+1848,4.4,No,Free Shipping,No,49,Credit Card
+1849,2.7,No,Express,No,34,Cash
+1850,4.5,No,Store Pickup,No,35,Bank Transfer
+1851,2.8,No,Store Pickup,No,50,Debit Card
+1852,3.1,No,Free Shipping,No,4,Bank Transfer
+1853,3.8,No,Store Pickup,No,32,Cash
+1854,2.9,No,Express,No,11,PayPal
+1855,3.8,No,Express,No,49,Credit Card
+1856,4.7,No,Standard,No,9,Cash
+1857,3.2,No,Free Shipping,No,30,PayPal
+1858,4,No,Next Day Air,No,33,Cash
+1859,4.9,No,2-Day Shipping,No,8,Debit Card
+1860,3.7,No,Store Pickup,No,29,Debit Card
+1861,4.8,No,Next Day Air,No,4,Credit Card
+1862,3.6,No,Standard,No,19,Debit Card
+1863,4.6,No,Express,No,10,PayPal
+1864,4.3,No,2-Day Shipping,No,39,Debit Card
+1865,3.2,No,2-Day Shipping,No,21,Venmo
+1866,3.8,No,Store Pickup,No,12,Bank Transfer
+1867,4.2,No,Standard,No,9,Credit Card
+1868,3.4,No,2-Day Shipping,No,20,Venmo
+1869,4.7,No,Next Day Air,No,44,Cash
+1870,3.9,No,2-Day Shipping,No,16,Debit Card
+1871,4.3,No,Store Pickup,No,27,Debit Card
+1872,2.7,No,Standard,No,14,Cash
+1873,4.6,No,Standard,No,24,Credit Card
+1874,2.9,No,Express,No,49,Bank Transfer
+1875,3.6,No,Free Shipping,No,14,Cash
+1876,3.9,No,Next Day Air,No,6,Credit Card
+1877,2.6,No,Standard,No,20,Venmo
+1878,3.6,No,Express,No,3,Credit Card
+1879,3.4,No,Store Pickup,No,5,Credit Card
+1880,3.5,No,Express,No,46,Cash
+1881,3.1,No,2-Day Shipping,No,8,Debit Card
+1882,4.3,No,Standard,No,13,Cash
+1883,5,No,Store Pickup,No,25,Bank Transfer
+1884,4.9,No,Store Pickup,No,39,Debit Card
+1885,4.3,No,Next Day Air,No,15,Bank Transfer
+1886,4.4,No,Standard,No,35,Cash
+1887,4.4,No,Next Day Air,No,46,Cash
+1888,3.5,No,Express,No,3,PayPal
+1889,3.4,No,Free Shipping,No,48,Credit Card
+1890,2.5,No,Next Day Air,No,27,Bank Transfer
+1891,3.4,No,Store Pickup,No,5,Credit Card
+1892,2.6,No,Next Day Air,No,48,Debit Card
+1893,4.6,No,2-Day Shipping,No,12,Venmo
+1894,3.7,No,Express,No,10,PayPal
+1895,2.5,No,Free Shipping,No,48,Debit Card
+1896,4.5,No,Express,No,3,Debit Card
+1897,2.9,No,Standard,No,19,Venmo
+1898,2.9,No,Free Shipping,No,11,Debit Card
+1899,3.5,No,Next Day Air,No,25,Venmo
+1900,4.2,No,Store Pickup,No,42,PayPal
+1901,3.3,No,Free Shipping,No,34,Cash
+1902,3.9,No,Store Pickup,No,50,Cash
+1903,5,No,Store Pickup,No,21,Venmo
+1904,3.3,No,Standard,No,37,Bank Transfer
+1905,4.2,No,Free Shipping,No,46,Cash
+1906,4.9,No,2-Day Shipping,No,14,Bank Transfer
+1907,4.6,No,2-Day Shipping,No,24,PayPal
+1908,4.8,No,Store Pickup,No,36,Credit Card
+1909,2.7,No,Next Day Air,No,19,Debit Card
+1910,4.3,No,Store Pickup,No,12,Credit Card
+1911,3.8,No,Express,No,13,Debit Card
+1912,4.9,No,Express,No,32,Debit Card
+1913,3.4,No,2-Day Shipping,No,5,Credit Card
+1914,3.6,No,Express,No,29,Cash
+1915,3.4,No,Standard,No,40,Credit Card
+1916,4.7,No,2-Day Shipping,No,44,Cash
+1917,3,No,Next Day Air,No,3,Debit Card
+1918,3.4,No,Free Shipping,No,35,PayPal
+1919,4.6,No,Standard,No,33,Debit Card
+1920,3.1,No,Express,No,20,PayPal
+1921,2.8,No,Standard,No,40,Cash
+1922,3.5,No,Store Pickup,No,13,Venmo
+1923,4.6,No,Standard,No,9,PayPal
+1924,4.3,No,Standard,No,7,Cash
+1925,4.8,No,Free Shipping,No,42,PayPal
+1926,2.9,No,Express,No,44,Credit Card
+1927,3,No,Express,No,6,PayPal
+1928,2.9,No,Standard,No,8,Cash
+1929,3.7,No,Standard,No,10,PayPal
+1930,4.7,No,Standard,No,46,Venmo
+1931,3.5,No,Store Pickup,No,26,Cash
+1932,2.7,No,Store Pickup,No,6,Debit Card
+1933,5,No,Free Shipping,No,47,Credit Card
+1934,4.1,No,Next Day Air,No,28,Venmo
+1935,2.7,No,Free Shipping,No,23,Bank Transfer
+1936,4.8,No,Free Shipping,No,45,Cash
+1937,4.3,No,2-Day Shipping,No,44,PayPal
+1938,4.5,No,2-Day Shipping,No,11,Bank Transfer
+1939,3.8,No,Standard,No,39,Debit Card
+1940,3.7,No,Store Pickup,No,20,PayPal
+1941,3.9,No,2-Day Shipping,No,48,PayPal
+1942,3.3,No,Standard,No,46,Credit Card
+1943,3.4,No,Express,No,22,PayPal
+1944,3.8,No,Next Day Air,No,45,Cash
+1945,2.7,No,Free Shipping,No,49,Cash
+1946,2.9,No,2-Day Shipping,No,9,Credit Card
+1947,4.5,No,Standard,No,41,Credit Card
+1948,2.6,No,Store Pickup,No,2,PayPal
+1949,3.1,No,Next Day Air,No,39,PayPal
+1950,4.7,No,Store Pickup,No,12,PayPal
+1951,4.6,No,Free Shipping,No,26,PayPal
+1952,2.7,No,Next Day Air,No,32,Bank Transfer
+1953,4.6,No,2-Day Shipping,No,50,Cash
+1954,4.8,No,Standard,No,3,PayPal
+1955,4.2,No,Free Shipping,No,3,Venmo
+1956,4.9,No,Express,No,37,Cash
+1957,4.9,No,Express,No,20,Credit Card
+1958,4.5,No,Store Pickup,No,26,Cash
+1959,2.7,No,Store Pickup,No,47,Cash
+1960,3.1,No,Store Pickup,No,7,Credit Card
+1961,3.3,No,2-Day Shipping,No,40,Credit Card
+1962,2.6,No,Free Shipping,No,45,Debit Card
+1963,4.4,No,Standard,No,20,PayPal
+1964,3.9,No,Standard,No,11,Credit Card
+1965,4.6,No,Express,No,50,Debit Card
+1966,4.9,No,Express,No,25,Debit Card
+1967,3.7,No,Express,No,5,Credit Card
+1968,3.7,No,Standard,No,4,Venmo
+1969,4.2,No,Standard,No,25,Credit Card
+1970,3.5,No,Next Day Air,No,11,Bank Transfer
+1971,2.9,No,Next Day Air,No,4,Credit Card
+1972,3.4,No,Next Day Air,No,1,Venmo
+1973,3.3,No,Express,No,48,PayPal
+1974,4.5,No,Standard,No,9,Venmo
+1975,4.6,No,2-Day Shipping,No,2,PayPal
+1976,2.9,No,Express,No,4,Cash
+1977,3.2,No,Next Day Air,No,43,PayPal
+1978,2.6,No,Free Shipping,No,32,Bank Transfer
+1979,3.8,No,Store Pickup,No,1,Cash
+1980,2.8,No,Store Pickup,No,38,Debit Card
+1981,4.4,No,Store Pickup,No,25,PayPal
+1982,4.7,No,Express,No,42,PayPal
+1983,2.7,No,2-Day Shipping,No,32,PayPal
+1984,2.6,No,Next Day Air,No,21,Debit Card
+1985,3.4,No,2-Day Shipping,No,26,PayPal
+1986,3.9,No,2-Day Shipping,No,6,Credit Card
+1987,3.4,No,2-Day Shipping,No,14,Venmo
+1988,3.4,No,Express,No,4,Cash
+1989,3.9,No,Free Shipping,No,26,Bank Transfer
+1990,4,No,Express,No,39,PayPal
+1991,3.4,No,2-Day Shipping,No,15,PayPal
+1992,3.7,No,Next Day Air,No,1,Venmo
+1993,4.9,No,2-Day Shipping,No,28,Venmo
+1994,5,No,Express,No,17,Cash
+1995,2.9,No,Next Day Air,No,24,Credit Card
+1996,3,No,Standard,No,29,Debit Card
+1997,3.3,No,Next Day Air,No,18,Cash
+1998,4.7,No,Express,No,10,Debit Card
+1999,3.4,No,2-Day Shipping,No,19,Cash
+2000,4.6,No,2-Day Shipping,No,26,Debit Card
+2001,3.6,No,2-Day Shipping,No,25,Cash
+2002,2.6,No,Free Shipping,No,2,Debit Card
+2003,2.7,No,Express,No,19,PayPal
+2004,3.1,No,Express,No,32,Cash
+2005,3.2,No,2-Day Shipping,No,13,Cash
+2006,3.4,No,Store Pickup,No,30,PayPal
+2007,4.4,No,Express,No,2,Credit Card
+2008,3.2,No,2-Day Shipping,No,8,PayPal
+2009,2.5,No,Free Shipping,No,27,PayPal
+2010,3.8,No,Next Day Air,No,26,Venmo
+2011,4.4,No,2-Day Shipping,No,3,Debit Card
+2012,3.7,No,Express,No,4,Bank Transfer
+2013,3.2,No,Store Pickup,No,5,Cash
+2014,4.9,No,Standard,No,25,Debit Card
+2015,3.9,No,Standard,No,47,PayPal
+2016,4.5,No,Next Day Air,No,8,Credit Card
+2017,3.4,No,Standard,No,20,Debit Card
+2018,4.1,No,Next Day Air,No,42,Bank Transfer
+2019,4.5,No,Store Pickup,No,20,Bank Transfer
+2020,4.7,No,Store Pickup,No,23,Cash
+2021,4.8,No,Next Day Air,No,26,Cash
+2022,4.4,No,Standard,No,48,Venmo
+2023,4,No,Store Pickup,No,16,Cash
+2024,4.1,No,Store Pickup,No,28,Cash
+2025,3.7,No,Express,No,39,PayPal
+2026,3,No,Express,No,43,Debit Card
+2027,3.6,No,Express,No,45,Bank Transfer
+2028,4.8,No,Standard,No,50,Credit Card
+2029,3.7,No,2-Day Shipping,No,10,Venmo
+2030,4.6,No,Next Day Air,No,40,PayPal
+2031,2.8,No,Standard,No,38,Credit Card
+2032,4,No,Standard,No,2,Credit Card
+2033,4.2,No,Next Day Air,No,13,Cash
+2034,3.6,No,Express,No,33,Venmo
+2035,2.9,No,Store Pickup,No,27,PayPal
+2036,4.1,No,Express,No,43,Bank Transfer
+2037,3.1,No,Next Day Air,No,46,Cash
+2038,4.3,No,Express,No,7,Venmo
+2039,4.4,No,Next Day Air,No,35,Credit Card
+2040,3.1,No,Next Day Air,No,31,Debit Card
+2041,2.9,No,Free Shipping,No,42,Venmo
+2042,3.2,No,Next Day Air,No,14,PayPal
+2043,4,No,2-Day Shipping,No,35,Venmo
+2044,2.7,No,Standard,No,49,PayPal
+2045,3,No,Free Shipping,No,17,PayPal
+2046,4.4,No,Express,No,26,PayPal
+2047,2.8,No,Free Shipping,No,30,Cash
+2048,3.1,No,Store Pickup,No,32,Cash
+2049,3.9,No,Express,No,35,Bank Transfer
+2050,2.7,No,Standard,No,15,Venmo
+2051,3.4,No,Store Pickup,No,10,Debit Card
+2052,3.8,No,Free Shipping,No,14,Credit Card
+2053,3.7,No,2-Day Shipping,No,30,Bank Transfer
+2054,4.5,No,2-Day Shipping,No,16,Credit Card
+2055,2.9,No,Express,No,14,PayPal
+2056,3.4,No,2-Day Shipping,No,28,Bank Transfer
+2057,4.4,No,2-Day Shipping,No,29,PayPal
+2058,4.2,No,Standard,No,5,PayPal
+2059,3.3,No,Store Pickup,No,17,Bank Transfer
+2060,3.7,No,Express,No,50,PayPal
+2061,3.2,No,Next Day Air,No,23,Bank Transfer
+2062,2.6,No,Store Pickup,No,22,Debit Card
+2063,2.8,No,Standard,No,15,Cash
+2064,2.9,No,Standard,No,32,Cash
+2065,4,No,2-Day Shipping,No,5,Bank Transfer
+2066,2.9,No,Free Shipping,No,6,Bank Transfer
+2067,4.7,No,Store Pickup,No,44,Debit Card
+2068,3.1,No,2-Day Shipping,No,23,Cash
+2069,3.9,No,Store Pickup,No,44,Venmo
+2070,3.4,No,Free Shipping,No,3,Debit Card
+2071,3.1,No,Express,No,14,Cash
+2072,4.8,No,Store Pickup,No,37,PayPal
+2073,3.9,No,Next Day Air,No,22,Bank Transfer
+2074,3.5,No,Next Day Air,No,2,PayPal
+2075,3.1,No,Free Shipping,No,44,Debit Card
+2076,4.7,No,Express,No,49,Debit Card
+2077,4.6,No,Free Shipping,No,22,Debit Card
+2078,3.3,No,Free Shipping,No,26,Bank Transfer
+2079,3.2,No,Next Day Air,No,40,Debit Card
+2080,3.1,No,Next Day Air,No,16,PayPal
+2081,3.5,No,Free Shipping,No,17,Debit Card
+2082,4.3,No,Standard,No,48,Bank Transfer
+2083,2.9,No,Free Shipping,No,28,Venmo
+2084,2.7,No,Store Pickup,No,26,Credit Card
+2085,4,No,Standard,No,43,Bank Transfer
+2086,4.6,No,Free Shipping,No,38,Debit Card
+2087,4.7,No,2-Day Shipping,No,36,Cash
+2088,4.7,No,Standard,No,1,Credit Card
+2089,4,No,Standard,No,49,Debit Card
+2090,3.6,No,Free Shipping,No,41,Credit Card
+2091,3.4,No,Free Shipping,No,21,Debit Card
+2092,3,No,Next Day Air,No,24,Bank Transfer
+2093,2.6,No,Next Day Air,No,27,Bank Transfer
+2094,4.2,No,Store Pickup,No,4,Debit Card
+2095,3.4,No,Standard,No,19,Venmo
+2096,4,No,Store Pickup,No,1,Bank Transfer
+2097,4.7,No,Free Shipping,No,27,Debit Card
+2098,3.9,No,Next Day Air,No,5,Credit Card
+2099,3.3,No,2-Day Shipping,No,20,Venmo
+2100,2.9,No,Express,No,50,PayPal
+2101,4.4,No,Free Shipping,No,36,Cash
+2102,3.6,No,Next Day Air,No,12,Bank Transfer
+2103,4.5,No,Store Pickup,No,23,Cash
+2104,3.7,No,Store Pickup,No,21,Venmo
+2105,2.8,No,Free Shipping,No,47,Venmo
+2106,4.5,No,Free Shipping,No,38,Venmo
+2107,4.4,No,Standard,No,40,Credit Card
+2108,3.3,No,Standard,No,35,PayPal
+2109,4.2,No,Express,No,4,Credit Card
+2110,2.7,No,Free Shipping,No,28,Venmo
+2111,3.9,No,Store Pickup,No,36,Debit Card
+2112,2.6,No,Free Shipping,No,15,Bank Transfer
+2113,4.5,No,2-Day Shipping,No,7,Cash
+2114,2.7,No,Store Pickup,No,29,PayPal
+2115,2.9,No,Standard,No,12,Debit Card
+2116,3.4,No,Store Pickup,No,16,Bank Transfer
+2117,2.9,No,Express,No,50,Debit Card
+2118,3.8,No,Free Shipping,No,11,Debit Card
+2119,4.2,No,2-Day Shipping,No,28,Debit Card
+2120,3.5,No,Store Pickup,No,36,Venmo
+2121,3.1,No,Next Day Air,No,38,PayPal
+2122,3.5,No,2-Day Shipping,No,32,Bank Transfer
+2123,4,No,Express,No,42,Debit Card
+2124,3.7,No,Express,No,22,Debit Card
+2125,4.2,No,Next Day Air,No,22,Venmo
+2126,4.8,No,Store Pickup,No,31,PayPal
+2127,4.1,No,Express,No,28,Credit Card
+2128,4.5,No,2-Day Shipping,No,40,Debit Card
+2129,2.7,No,2-Day Shipping,No,21,PayPal
+2130,2.8,No,Store Pickup,No,12,PayPal
+2131,3.7,No,Free Shipping,No,33,Credit Card
+2132,3.6,No,Express,No,9,Bank Transfer
+2133,4.7,No,2-Day Shipping,No,15,Debit Card
+2134,3.8,No,Standard,No,13,Bank Transfer
+2135,2.9,No,Standard,No,35,Credit Card
+2136,4.6,No,Next Day Air,No,1,Debit Card
+2137,2.8,No,Standard,No,25,Bank Transfer
+2138,4.6,No,2-Day Shipping,No,20,Credit Card
+2139,2.8,No,Next Day Air,No,36,Venmo
+2140,3,No,Free Shipping,No,33,Cash
+2141,3.7,No,Standard,No,36,Cash
+2142,4.1,No,2-Day Shipping,No,32,PayPal
+2143,4.3,No,Next Day Air,No,21,Venmo
+2144,3.8,No,Next Day Air,No,48,Venmo
+2145,3.7,No,Free Shipping,No,25,PayPal
+2146,4.8,No,Standard,No,32,PayPal
+2147,4.6,No,Standard,No,45,PayPal
+2148,4.8,No,Standard,No,4,Cash
+2149,4.6,No,2-Day Shipping,No,19,PayPal
+2150,4,No,Standard,No,1,Bank Transfer
+2151,2.6,No,2-Day Shipping,No,12,Cash
+2152,2.6,No,2-Day Shipping,No,18,Venmo
+2153,4.5,No,Next Day Air,No,43,Bank Transfer
+2154,4.2,No,Free Shipping,No,31,PayPal
+2155,3.4,No,Store Pickup,No,33,Cash
+2156,3.7,No,Store Pickup,No,46,PayPal
+2157,3.6,No,Next Day Air,No,41,Debit Card
+2158,4,No,Next Day Air,No,41,Venmo
+2159,4.6,No,Standard,No,9,Bank Transfer
+2160,3,No,Free Shipping,No,34,Cash
+2161,3.3,No,Express,No,21,PayPal
+2162,3.8,No,Express,No,5,Debit Card
+2163,2.7,No,Free Shipping,No,32,PayPal
+2164,4.5,No,Express,No,44,Bank Transfer
+2165,4.8,No,Next Day Air,No,46,PayPal
+2166,4.2,No,Express,No,42,Credit Card
+2167,3.5,No,Express,No,50,Credit Card
+2168,4.9,No,Standard,No,33,Venmo
+2169,4.1,No,Next Day Air,No,32,Cash
+2170,2.9,No,Next Day Air,No,32,Bank Transfer
+2171,4,No,Next Day Air,No,37,Venmo
+2172,4.6,No,Store Pickup,No,9,Cash
+2173,2.8,No,Store Pickup,No,6,PayPal
+2174,5,No,2-Day Shipping,No,36,Venmo
+2175,2.9,No,Store Pickup,No,1,Cash
+2176,3.3,No,Free Shipping,No,48,Credit Card
+2177,3.4,No,2-Day Shipping,No,44,Debit Card
+2178,3,No,Express,No,9,PayPal
+2179,4.7,No,Standard,No,32,Venmo
+2180,2.9,No,Next Day Air,No,14,PayPal
+2181,4.1,No,Store Pickup,No,43,Cash
+2182,3.2,No,Free Shipping,No,32,Bank Transfer
+2183,2.7,No,Store Pickup,No,26,Venmo
+2184,4.7,No,Store Pickup,No,2,Cash
+2185,3.2,No,Free Shipping,No,16,PayPal
+2186,2.5,No,Express,No,50,Debit Card
+2187,4.3,No,Next Day Air,No,6,PayPal
+2188,4.4,No,Free Shipping,No,20,PayPal
+2189,4.7,No,Next Day Air,No,9,Credit Card
+2190,4,No,Express,No,47,Credit Card
+2191,4.6,No,Express,No,33,Credit Card
+2192,3.8,No,Next Day Air,No,46,Cash
+2193,3.2,No,Next Day Air,No,9,Credit Card
+2194,5,No,Express,No,8,PayPal
+2195,3.5,No,Standard,No,48,Bank Transfer
+2196,3.7,No,Next Day Air,No,2,Cash
+2197,4.8,No,Next Day Air,No,31,PayPal
+2198,3.7,No,2-Day Shipping,No,40,Venmo
+2199,3.5,No,Free Shipping,No,35,Venmo
+2200,4.9,No,Store Pickup,No,40,Debit Card
+2201,4.7,No,Next Day Air,No,27,Debit Card
+2202,4.9,No,2-Day Shipping,No,10,Venmo
+2203,4.3,No,Next Day Air,No,23,Credit Card
+2204,3.1,No,Free Shipping,No,32,Cash
+2205,3.4,No,2-Day Shipping,No,6,Debit Card
+2206,2.7,No,Express,No,27,PayPal
+2207,2.6,No,Store Pickup,No,25,Bank Transfer
+2208,2.9,No,Next Day Air,No,11,Credit Card
+2209,2.7,No,2-Day Shipping,No,23,PayPal
+2210,4.5,No,2-Day Shipping,No,44,Bank Transfer
+2211,3.1,No,Store Pickup,No,35,PayPal
+2212,3.2,No,Free Shipping,No,45,Debit Card
+2213,3.3,No,Next Day Air,No,22,Bank Transfer
+2214,2.9,No,Express,No,18,Debit Card
+2215,4.1,No,Standard,No,20,Debit Card
+2216,2.7,No,Express,No,28,Credit Card
+2217,4,No,Store Pickup,No,15,Venmo
+2218,2.6,No,Store Pickup,No,42,Bank Transfer
+2219,3.5,No,Store Pickup,No,20,Debit Card
+2220,2.8,No,Store Pickup,No,16,Bank Transfer
+2221,4.5,No,Store Pickup,No,47,Cash
+2222,3,No,Free Shipping,No,34,Credit Card
+2223,4.4,No,Store Pickup,No,30,Credit Card
+2224,4.7,No,Next Day Air,No,5,PayPal
+2225,4.3,No,Standard,No,38,Cash
+2226,4.8,No,Free Shipping,No,18,Credit Card
+2227,4.8,No,Store Pickup,No,28,Cash
+2228,4.4,No,Next Day Air,No,42,Credit Card
+2229,3.7,No,Free Shipping,No,5,Credit Card
+2230,3.9,No,Express,No,50,Venmo
+2231,3.8,No,Express,No,33,Venmo
+2232,4.1,No,Store Pickup,No,1,Credit Card
+2233,4,No,Store Pickup,No,14,Cash
+2234,4.5,No,Express,No,48,Credit Card
+2235,4,No,Express,No,26,Cash
+2236,4.5,No,2-Day Shipping,No,44,Credit Card
+2237,2.7,No,Standard,No,18,Debit Card
+2238,3.8,No,Next Day Air,No,31,Venmo
+2239,3.8,No,Standard,No,18,Debit Card
+2240,3.8,No,2-Day Shipping,No,41,Credit Card
+2241,4.3,No,Next Day Air,No,18,Debit Card
+2242,3.5,No,Free Shipping,No,3,Bank Transfer
+2243,3.8,No,Next Day Air,No,5,Credit Card
+2244,3.7,No,2-Day Shipping,No,13,Debit Card
+2245,4.8,No,2-Day Shipping,No,22,PayPal
+2246,4.9,No,Free Shipping,No,45,PayPal
+2247,4.3,No,Store Pickup,No,39,PayPal
+2248,4.4,No,Next Day Air,No,18,Venmo
+2249,3.4,No,Free Shipping,No,19,PayPal
+2250,4.3,No,Next Day Air,No,29,Debit Card
+2251,4.6,No,Store Pickup,No,19,Credit Card
+2252,3.8,No,Free Shipping,No,22,Debit Card
+2253,3.9,No,Express,No,21,Bank Transfer
+2254,2.6,No,Store Pickup,No,22,PayPal
+2255,4.2,No,Store Pickup,No,44,PayPal
+2256,4.6,No,Store Pickup,No,42,Bank Transfer
+2257,5,No,Standard,No,33,Credit Card
+2258,4.2,No,Standard,No,6,Bank Transfer
+2259,4.3,No,Store Pickup,No,44,Credit Card
+2260,3.3,No,Free Shipping,No,24,Cash
+2261,4.9,No,Express,No,16,PayPal
+2262,4.4,No,Standard,No,12,Bank Transfer
+2263,3.1,No,2-Day Shipping,No,50,PayPal
+2264,3.5,No,Store Pickup,No,42,Cash
+2265,3.9,No,2-Day Shipping,No,50,PayPal
+2266,3.9,No,Store Pickup,No,10,PayPal
+2267,4.3,No,Store Pickup,No,32,Debit Card
+2268,3.8,No,Express,No,37,Venmo
+2269,2.7,No,2-Day Shipping,No,15,Bank Transfer
+2270,4.4,No,Store Pickup,No,27,Credit Card
+2271,3.5,No,Express,No,7,Venmo
+2272,3.4,No,Free Shipping,No,49,PayPal
+2273,4,No,Standard,No,44,PayPal
+2274,4.8,No,Express,No,13,PayPal
+2275,4.5,No,Next Day Air,No,38,PayPal
+2276,4.4,No,Standard,No,10,Debit Card
+2277,4.1,No,2-Day Shipping,No,25,Debit Card
+2278,4.6,No,Next Day Air,No,18,Credit Card
+2279,3.8,No,Store Pickup,No,6,Cash
+2280,2.9,No,Free Shipping,No,35,Bank Transfer
+2281,2.8,No,Standard,No,31,Credit Card
+2282,3,No,Store Pickup,No,41,Bank Transfer
+2283,4.2,No,2-Day Shipping,No,8,Credit Card
+2284,4.1,No,Free Shipping,No,34,Credit Card
+2285,4.1,No,Express,No,20,Venmo
+2286,4.6,No,2-Day Shipping,No,38,PayPal
+2287,2.5,No,Store Pickup,No,35,Venmo
+2288,3,No,Store Pickup,No,6,Debit Card
+2289,3.8,No,Next Day Air,No,50,PayPal
+2290,4.1,No,Free Shipping,No,47,Venmo
+2291,3.3,No,Standard,No,23,PayPal
+2292,5,No,2-Day Shipping,No,13,Credit Card
+2293,3.8,No,Next Day Air,No,31,Debit Card
+2294,3.3,No,Express,No,16,Debit Card
+2295,5,No,Express,No,40,Debit Card
+2296,2.9,No,2-Day Shipping,No,45,PayPal
+2297,2.5,No,Next Day Air,No,50,Venmo
+2298,4.7,No,Standard,No,1,Bank Transfer
+2299,2.9,No,2-Day Shipping,No,10,Cash
+2300,3.7,No,Store Pickup,No,48,Credit Card
+2301,4.4,No,2-Day Shipping,No,38,Credit Card
+2302,2.9,No,Next Day Air,No,21,Debit Card
+2303,3.6,No,Store Pickup,No,38,Venmo
+2304,4.8,No,2-Day Shipping,No,31,Credit Card
+2305,4.7,No,Free Shipping,No,9,Debit Card
+2306,2.6,No,Free Shipping,No,47,Cash
+2307,3.4,No,Standard,No,8,Cash
+2308,3.5,No,Next Day Air,No,30,Debit Card
+2309,3.4,No,2-Day Shipping,No,22,Bank Transfer
+2310,5,No,2-Day Shipping,No,3,Bank Transfer
+2311,4.6,No,Standard,No,15,PayPal
+2312,4.8,No,2-Day Shipping,No,10,Bank Transfer
+2313,3.7,No,Free Shipping,No,19,Cash
+2314,4.7,No,Next Day Air,No,36,Bank Transfer
+2315,4.4,No,Express,No,12,Bank Transfer
+2316,3.5,No,2-Day Shipping,No,49,Debit Card
+2317,3.8,No,Standard,No,7,Debit Card
+2318,4.7,No,Next Day Air,No,28,Bank Transfer
+2319,3.1,No,Store Pickup,No,30,Credit Card
+2320,5,No,Free Shipping,No,29,PayPal
+2321,3.7,No,Free Shipping,No,9,Debit Card
+2322,3,No,Next Day Air,No,27,Debit Card
+2323,4.5,No,Store Pickup,No,21,Venmo
+2324,4.7,No,Express,No,36,Credit Card
+2325,3.5,No,Free Shipping,No,19,Debit Card
+2326,4.4,No,2-Day Shipping,No,47,Cash
+2327,2.6,No,Standard,No,38,Bank Transfer
+2328,4.2,No,2-Day Shipping,No,22,Venmo
+2329,2.6,No,Express,No,29,Venmo
+2330,4.8,No,Free Shipping,No,42,Bank Transfer
+2331,2.9,No,Store Pickup,No,47,PayPal
+2332,4.3,No,2-Day Shipping,No,10,Credit Card
+2333,2.6,No,Store Pickup,No,10,Venmo
+2334,3.8,No,Next Day Air,No,1,PayPal
+2335,4.2,No,Standard,No,7,Credit Card
+2336,3.9,No,Store Pickup,No,10,Venmo
+2337,3.1,No,Free Shipping,No,11,Credit Card
+2338,3.6,No,Store Pickup,No,5,Cash
+2339,4,No,Express,No,21,PayPal
+2340,3.4,No,Next Day Air,No,24,Bank Transfer
+2341,2.6,No,Standard,No,37,Credit Card
+2342,4.5,No,Express,No,22,Venmo
+2343,4.9,No,Standard,No,16,Debit Card
+2344,4.4,No,2-Day Shipping,No,44,PayPal
+2345,3.5,No,Express,No,14,Venmo
+2346,3.3,No,Express,No,23,Bank Transfer
+2347,3.1,No,Standard,No,46,Debit Card
+2348,4.2,No,Express,No,46,Cash
+2349,4.9,No,Next Day Air,No,16,PayPal
+2350,3.9,No,Standard,No,40,Credit Card
+2351,4.2,No,Free Shipping,No,21,Cash
+2352,4.9,No,Store Pickup,No,25,PayPal
+2353,2.8,No,Store Pickup,No,25,Bank Transfer
+2354,4.1,No,Standard,No,25,Debit Card
+2355,4.8,No,Next Day Air,No,27,Venmo
+2356,4.1,No,Next Day Air,No,12,Cash
+2357,3,No,Free Shipping,No,27,Debit Card
+2358,4.2,No,2-Day Shipping,No,40,Credit Card
+2359,3.8,No,Standard,No,38,Credit Card
+2360,3.3,No,2-Day Shipping,No,44,Bank Transfer
+2361,4.7,No,2-Day Shipping,No,27,Venmo
+2362,4.3,No,2-Day Shipping,No,30,Credit Card
+2363,2.7,No,Standard,No,24,Credit Card
+2364,4.2,No,Express,No,38,Cash
+2365,4.2,No,Free Shipping,No,4,PayPal
+2366,2.5,No,Next Day Air,No,32,Venmo
+2367,3.6,No,Express,No,32,Credit Card
+2368,3.4,No,Standard,No,28,Bank Transfer
+2369,3.3,No,Standard,No,6,Debit Card
+2370,4.6,No,Standard,No,24,PayPal
+2371,3.9,No,Store Pickup,No,38,Venmo
+2372,3.7,No,Next Day Air,No,28,Debit Card
+2373,3.1,No,Express,No,9,PayPal
+2374,4.9,No,Express,No,21,Debit Card
+2375,4.7,No,Standard,No,31,Debit Card
+2376,2.9,No,Next Day Air,No,18,Credit Card
+2377,4.1,No,Express,No,5,Cash
+2378,4,No,Next Day Air,No,22,Cash
+2379,2.7,No,Store Pickup,No,37,PayPal
+2380,4,No,2-Day Shipping,No,22,Debit Card
+2381,2.5,No,Next Day Air,No,36,PayPal
+2382,4.5,No,Free Shipping,No,23,PayPal
+2383,3.9,No,Express,No,44,Debit Card
+2384,4.9,No,2-Day Shipping,No,25,Bank Transfer
+2385,3.3,No,2-Day Shipping,No,40,PayPal
+2386,3.8,No,Express,No,12,PayPal
+2387,2.9,No,Standard,No,14,Venmo
+2388,4,No,2-Day Shipping,No,14,Debit Card
+2389,4.1,No,Store Pickup,No,10,Debit Card
+2390,3.1,No,Store Pickup,No,17,Bank Transfer
+2391,4.6,No,Express,No,24,Debit Card
+2392,4.6,No,Next Day Air,No,31,Bank Transfer
+2393,2.6,No,2-Day Shipping,No,36,Cash
+2394,5,No,2-Day Shipping,No,38,PayPal
+2395,2.9,No,2-Day Shipping,No,23,Debit Card
+2396,3.5,No,2-Day Shipping,No,47,PayPal
+2397,3.7,No,2-Day Shipping,No,20,Venmo
+2398,2.9,No,Store Pickup,No,41,Venmo
+2399,4.3,No,Free Shipping,No,44,Bank Transfer
+2400,3.2,No,Store Pickup,No,31,Cash
+2401,4.2,No,Next Day Air,No,11,Credit Card
+2402,4.2,No,Standard,No,25,PayPal
+2403,3.8,No,Free Shipping,No,31,Cash
+2404,4.4,No,Standard,No,40,Debit Card
+2405,3.1,No,2-Day Shipping,No,23,Credit Card
+2406,5,No,Standard,No,5,Debit Card
+2407,4.7,No,Standard,No,26,PayPal
+2408,3,No,Express,No,11,Credit Card
+2409,4.2,No,Next Day Air,No,44,Debit Card
+2410,3,No,Store Pickup,No,47,Cash
+2411,3.7,No,Free Shipping,No,46,PayPal
+2412,2.7,No,Free Shipping,No,35,Cash
+2413,4.3,No,2-Day Shipping,No,8,Bank Transfer
+2414,2.7,No,2-Day Shipping,No,30,Bank Transfer
+2415,3.7,No,Next Day Air,No,14,Credit Card
+2416,4.3,No,Standard,No,30,Bank Transfer
+2417,4,No,Next Day Air,No,26,Credit Card
+2418,3.3,No,Standard,No,32,Venmo
+2419,4,No,Next Day Air,No,47,Cash
+2420,2.7,No,Next Day Air,No,11,Credit Card
+2421,4.2,No,Free Shipping,No,28,PayPal
+2422,4.6,No,Standard,No,2,Debit Card
+2423,4.8,No,Store Pickup,No,45,Credit Card
+2424,2.8,No,Free Shipping,No,7,Credit Card
+2425,4.5,No,Next Day Air,No,28,Bank Transfer
+2426,3,No,2-Day Shipping,No,34,Bank Transfer
+2427,4.6,No,Free Shipping,No,26,Debit Card
+2428,3.3,No,Standard,No,45,Cash
+2429,4.4,No,Next Day Air,No,34,Debit Card
+2430,4.4,No,Standard,No,47,Credit Card
+2431,4.3,No,Express,No,42,Cash
+2432,3.4,No,Express,No,27,Bank Transfer
+2433,2.8,No,Store Pickup,No,43,Venmo
+2434,3.4,No,Standard,No,16,Cash
+2435,5,No,Store Pickup,No,40,Credit Card
+2436,4.5,No,Free Shipping,No,29,Cash
+2437,2.7,No,Store Pickup,No,38,Credit Card
+2438,3.4,No,Store Pickup,No,34,Credit Card
+2439,3.4,No,Express,No,30,Venmo
+2440,2.8,No,Standard,No,45,Bank Transfer
+2441,4.7,No,Standard,No,47,Bank Transfer
+2442,4.7,No,Free Shipping,No,5,Credit Card
+2443,4.7,No,Free Shipping,No,50,Debit Card
+2444,3.4,No,2-Day Shipping,No,24,Bank Transfer
+2445,3.7,No,Express,No,15,Debit Card
+2446,4.1,No,Store Pickup,No,50,Cash
+2447,2.9,No,2-Day Shipping,No,7,Credit Card
+2448,3.2,No,Store Pickup,No,10,Venmo
+2449,3,No,Free Shipping,No,38,PayPal
+2450,4.1,No,Express,No,31,Venmo
+2451,4.5,No,Standard,No,7,Venmo
+2452,3.4,No,Store Pickup,No,27,Venmo
+2453,4.1,No,Express,No,45,Bank Transfer
+2454,4.6,No,Store Pickup,No,13,Cash
+2455,4.6,No,Express,No,33,Venmo
+2456,3.4,No,Express,No,25,Cash
+2457,3.3,No,2-Day Shipping,No,5,PayPal
+2458,3.6,No,2-Day Shipping,No,23,Cash
+2459,4.6,No,Free Shipping,No,17,Bank Transfer
+2460,4.3,No,2-Day Shipping,No,14,Cash
+2461,4,No,Store Pickup,No,28,Credit Card
+2462,4.8,No,Next Day Air,No,19,Credit Card
+2463,4.3,No,Standard,No,31,Bank Transfer
+2464,3.3,No,Standard,No,25,Cash
+2465,2.8,No,Express,No,4,Cash
+2466,4.4,No,Free Shipping,No,20,Bank Transfer
+2467,3.7,No,Express,No,37,Cash
+2468,3.6,No,Express,No,28,Credit Card
+2469,3.7,No,2-Day Shipping,No,6,Venmo
+2470,5,No,Standard,No,27,PayPal
+2471,2.7,No,Next Day Air,No,29,Credit Card
+2472,4.3,No,Store Pickup,No,1,Cash
+2473,4.1,No,Standard,No,31,Credit Card
+2474,2.6,No,Next Day Air,No,28,Cash
+2475,3.2,No,Store Pickup,No,19,Bank Transfer
+2476,3.5,No,Next Day Air,No,36,Venmo
+2477,3.7,No,Next Day Air,No,28,Cash
+2478,3.8,No,2-Day Shipping,No,29,PayPal
+2479,4.8,No,2-Day Shipping,No,9,Bank Transfer
+2480,4.2,No,Standard,No,26,Credit Card
+2481,2.9,No,Next Day Air,No,7,Credit Card
+2482,2.9,No,Free Shipping,No,35,Debit Card
+2483,4.8,No,Next Day Air,No,46,Credit Card
+2484,2.9,No,Standard,No,8,Debit Card
+2485,4.8,No,2-Day Shipping,No,50,Cash
+2486,4.6,No,2-Day Shipping,No,37,Bank Transfer
+2487,4.4,No,Store Pickup,No,6,Credit Card
+2488,3,No,Next Day Air,No,16,PayPal
+2489,4.4,No,Express,No,30,PayPal
+2490,3.9,No,Express,No,50,Venmo
+2491,4,No,Free Shipping,No,5,Cash
+2492,2.5,No,Express,No,15,Bank Transfer
+2493,4.1,No,Next Day Air,No,34,Bank Transfer
+2494,4.8,No,2-Day Shipping,No,6,Venmo
+2495,2.6,No,Store Pickup,No,26,Debit Card
+2496,3.1,No,Free Shipping,No,34,Credit Card
+2497,3.2,No,Store Pickup,No,37,Credit Card
+2498,4.2,No,Standard,No,28,Bank Transfer
+2499,2.6,No,Next Day Air,No,38,Cash
+2500,3.1,No,Next Day Air,No,2,Cash
+2501,2.9,No,Store Pickup,No,32,Cash
+2502,4.6,No,Free Shipping,No,30,Venmo
+2503,4.1,No,Standard,No,17,PayPal
+2504,2.5,No,Store Pickup,No,5,Debit Card
+2505,4,No,Store Pickup,No,31,Cash
+2506,3.5,No,Express,No,43,PayPal
+2507,4.4,No,Free Shipping,No,19,Venmo
+2508,2.9,No,Store Pickup,No,32,Credit Card
+2509,3.1,No,2-Day Shipping,No,5,Debit Card
+2510,4.4,No,Free Shipping,No,9,Bank Transfer
+2511,4.4,No,Standard,No,48,Credit Card
+2512,2.7,No,Store Pickup,No,1,PayPal
+2513,4.9,No,Free Shipping,No,20,Credit Card
+2514,3.5,No,2-Day Shipping,No,42,Cash
+2515,4.8,No,Free Shipping,No,45,PayPal
+2516,4.2,No,2-Day Shipping,No,41,Cash
+2517,4.6,No,Standard,No,36,Debit Card
+2518,2.9,No,Standard,No,10,Venmo
+2519,4,No,Store Pickup,No,31,Venmo
+2520,4.9,No,Standard,No,21,Credit Card
+2521,3.1,No,Next Day Air,No,16,Cash
+2522,4.4,No,Standard,No,18,PayPal
+2523,2.5,No,2-Day Shipping,No,20,Debit Card
+2524,3.4,No,Express,No,21,Bank Transfer
+2525,3.7,No,Express,No,23,Credit Card
+2526,4.2,No,Standard,No,20,PayPal
+2527,3.4,No,Express,No,30,PayPal
+2528,3.6,No,Express,No,33,Bank Transfer
+2529,4.7,No,2-Day Shipping,No,31,Debit Card
+2530,4.7,No,Next Day Air,No,48,Bank Transfer
+2531,3.6,No,Free Shipping,No,28,Debit Card
+2532,4.6,No,Free Shipping,No,7,Cash
+2533,2.6,No,Next Day Air,No,4,Debit Card
+2534,3.1,No,Standard,No,49,Cash
+2535,3.2,No,Free Shipping,No,22,Cash
+2536,3.9,No,Express,No,39,Bank Transfer
+2537,4.9,No,Express,No,45,PayPal
+2538,4.1,No,2-Day Shipping,No,30,PayPal
+2539,4.2,No,Next Day Air,No,33,Credit Card
+2540,4.1,No,Next Day Air,No,24,Cash
+2541,3.9,No,Free Shipping,No,11,Debit Card
+2542,2.7,No,Next Day Air,No,13,Venmo
+2543,3.7,No,Express,No,27,PayPal
+2544,2.7,No,Next Day Air,No,30,PayPal
+2545,2.5,No,Next Day Air,No,39,Venmo
+2546,3.9,No,Free Shipping,No,10,Debit Card
+2547,3,No,Express,No,4,Credit Card
+2548,3.2,No,2-Day Shipping,No,16,Cash
+2549,3.8,No,Standard,No,34,Credit Card
+2550,2.7,No,Standard,No,11,Debit Card
+2551,3,No,Store Pickup,No,30,Debit Card
+2552,4.1,No,Next Day Air,No,40,Debit Card
+2553,3.2,No,2-Day Shipping,No,13,Credit Card
+2554,4.5,No,Store Pickup,No,28,Venmo
+2555,4.3,No,Store Pickup,No,49,Debit Card
+2556,3.5,No,Standard,No,23,Credit Card
+2557,3.1,No,Standard,No,4,Bank Transfer
+2558,3.9,No,Standard,No,17,PayPal
+2559,2.7,No,Express,No,24,PayPal
+2560,4,No,Free Shipping,No,21,Debit Card
+2561,2.7,No,Next Day Air,No,17,Debit Card
+2562,2.7,No,Free Shipping,No,22,Debit Card
+2563,4.7,No,Standard,No,27,Cash
+2564,4.5,No,Standard,No,1,Venmo
+2565,3,No,2-Day Shipping,No,27,Bank Transfer
+2566,3.6,No,Store Pickup,No,8,Venmo
+2567,3.3,No,Standard,No,43,PayPal
+2568,4.3,No,Store Pickup,No,24,Cash
+2569,4.3,No,Express,No,29,PayPal
+2570,4.8,No,Free Shipping,No,10,Bank Transfer
+2571,4,No,Store Pickup,No,12,PayPal
+2572,3.5,No,Standard,No,48,Cash
+2573,3.9,No,Next Day Air,No,40,Bank Transfer
+2574,4.4,No,Store Pickup,No,1,Bank Transfer
+2575,4.6,No,2-Day Shipping,No,26,Credit Card
+2576,4,No,Express,No,9,PayPal
+2577,4.2,No,Free Shipping,No,19,Debit Card
+2578,4.5,No,Next Day Air,No,37,Bank Transfer
+2579,3.9,No,Free Shipping,No,3,Cash
+2580,3.7,No,Express,No,40,Venmo
+2581,3.6,No,Store Pickup,No,13,Bank Transfer
+2582,4.7,No,Express,No,48,Credit Card
+2583,3.6,No,2-Day Shipping,No,4,Venmo
+2584,2.5,No,Next Day Air,No,9,Cash
+2585,2.9,No,Store Pickup,No,26,Bank Transfer
+2586,4.4,No,Free Shipping,No,19,Debit Card
+2587,4.6,No,Express,No,1,Credit Card
+2588,3.7,No,Express,No,29,PayPal
+2589,3.2,No,Free Shipping,No,38,Venmo
+2590,4.9,No,2-Day Shipping,No,31,PayPal
+2591,5,No,Free Shipping,No,35,Venmo
+2592,3.3,No,Express,No,40,Cash
+2593,4.4,No,Store Pickup,No,13,Venmo
+2594,4.7,No,Store Pickup,No,9,Bank Transfer
+2595,3.6,No,Free Shipping,No,25,Cash
+2596,3.2,No,Free Shipping,No,3,Bank Transfer
+2597,3,No,Next Day Air,No,35,Credit Card
+2598,4.4,No,Store Pickup,No,13,Venmo
+2599,3.3,No,Express,No,31,Debit Card
+2600,3.4,No,Express,No,48,Credit Card
+2601,3.9,No,Express,No,6,Bank Transfer
+2602,2.9,No,Store Pickup,No,43,Cash
+2603,2.9,No,Free Shipping,No,1,Venmo
+2604,2.7,No,2-Day Shipping,No,8,Cash
+2605,3.4,No,Store Pickup,No,6,Debit Card
+2606,3.7,No,2-Day Shipping,No,32,Venmo
+2607,4.7,No,Standard,No,46,Bank Transfer
+2608,3.1,No,Express,No,38,PayPal
+2609,4.2,No,2-Day Shipping,No,48,Credit Card
+2610,3,No,Store Pickup,No,18,Debit Card
+2611,3.1,No,Express,No,25,Cash
+2612,4.2,No,2-Day Shipping,No,4,Cash
+2613,3.8,No,Next Day Air,No,27,Venmo
+2614,2.9,No,Express,No,14,Bank Transfer
+2615,4.2,No,Express,No,36,Bank Transfer
+2616,3.1,No,2-Day Shipping,No,6,Debit Card
+2617,3.6,No,Express,No,46,Cash
+2618,4.8,No,Standard,No,29,Bank Transfer
+2619,4.1,No,Express,No,12,Venmo
+2620,3.9,No,Free Shipping,No,47,Credit Card
+2621,3,No,Standard,No,28,Debit Card
+2622,3,No,Express,No,21,Bank Transfer
+2623,4.9,No,2-Day Shipping,No,15,Credit Card
+2624,4.8,No,Next Day Air,No,38,Cash
+2625,3.3,No,Standard,No,19,Credit Card
+2626,2.7,No,Standard,No,31,Credit Card
+2627,4.2,No,Express,No,30,Credit Card
+2628,3.6,No,Next Day Air,No,40,Bank Transfer
+2629,3.8,No,Next Day Air,No,42,Credit Card
+2630,3.8,No,Free Shipping,No,25,Venmo
+2631,4.2,No,Free Shipping,No,20,Cash
+2632,2.7,No,Express,No,3,Cash
+2633,5,No,Next Day Air,No,14,Cash
+2634,4.7,No,Next Day Air,No,32,Credit Card
+2635,3.2,No,Store Pickup,No,20,PayPal
+2636,2.9,No,2-Day Shipping,No,34,PayPal
+2637,4.2,No,Store Pickup,No,6,Venmo
+2638,3.7,No,Store Pickup,No,2,PayPal
+2639,4.2,No,Store Pickup,No,35,Credit Card
+2640,2.6,No,Free Shipping,No,33,Debit Card
+2641,4,No,Store Pickup,No,45,Venmo
+2642,2.7,No,Next Day Air,No,20,Bank Transfer
+2643,4,No,Store Pickup,No,48,Bank Transfer
+2644,2.9,No,Next Day Air,No,37,Cash
+2645,3.3,No,Standard,No,4,Bank Transfer
+2646,4,No,Store Pickup,No,24,Bank Transfer
+2647,3.9,No,Next Day Air,No,4,Debit Card
+2648,3.3,No,2-Day Shipping,No,25,Debit Card
+2649,3.9,No,Next Day Air,No,14,PayPal
+2650,3.9,No,Store Pickup,No,14,Bank Transfer
+2651,4.2,No,Standard,No,46,Credit Card
+2652,4.6,No,Store Pickup,No,27,PayPal
+2653,3.3,No,2-Day Shipping,No,46,Credit Card
+2654,4.8,No,Express,No,24,Venmo
+2655,4.1,No,Next Day Air,No,4,PayPal
+2656,3.4,No,Standard,No,2,Credit Card
+2657,3.6,No,Express,No,29,Bank Transfer
+2658,2.7,No,Express,No,7,Credit Card
+2659,3.2,No,Next Day Air,No,39,PayPal
+2660,4.4,No,2-Day Shipping,No,46,Credit Card
+2661,4.9,No,Express,No,44,Venmo
+2662,4.8,No,Express,No,20,Bank Transfer
+2663,2.8,No,2-Day Shipping,No,44,PayPal
+2664,2.9,No,Free Shipping,No,23,Bank Transfer
+2665,3.2,No,Store Pickup,No,37,PayPal
+2666,3.5,No,Store Pickup,No,4,Venmo
+2667,4.1,No,Store Pickup,No,14,Venmo
+2668,4.1,No,Free Shipping,No,31,Cash
+2669,4.8,No,Next Day Air,No,9,PayPal
+2670,2.8,No,Free Shipping,No,31,Credit Card
+2671,4.7,No,Express,No,26,Bank Transfer
+2672,4.8,No,2-Day Shipping,No,41,PayPal
+2673,2.9,No,Standard,No,13,Cash
+2674,2.6,No,2-Day Shipping,No,4,Cash
+2675,3.3,No,Express,No,15,Cash
+2676,3.4,No,Free Shipping,No,38,Cash
+2677,3.6,No,Free Shipping,No,3,Cash
+2678,3.8,No,Next Day Air,No,6,PayPal
+2679,3.4,No,2-Day Shipping,No,34,Credit Card
+2680,3.8,No,Express,No,7,Debit Card
+2681,3.3,No,Next Day Air,No,21,Venmo
+2682,4.8,No,Standard,No,17,Debit Card
+2683,3.9,No,2-Day Shipping,No,5,Venmo
+2684,4.2,No,Next Day Air,No,21,Cash
+2685,4.7,No,Free Shipping,No,42,Credit Card
+2686,2.7,No,Express,No,49,Credit Card
+2687,3.8,No,2-Day Shipping,No,33,Cash
+2688,3.6,No,2-Day Shipping,No,12,Debit Card
+2689,2.9,No,2-Day Shipping,No,18,Credit Card
+2690,3.9,No,Standard,No,47,PayPal
+2691,4.7,No,Free Shipping,No,18,Bank Transfer
+2692,3.3,No,2-Day Shipping,No,48,Cash
+2693,4.2,No,Free Shipping,No,18,Debit Card
+2694,2.6,No,Standard,No,46,Cash
+2695,4.9,No,Express,No,34,Credit Card
+2696,3.6,No,Standard,No,10,PayPal
+2697,4.7,No,Free Shipping,No,12,Debit Card
+2698,3.2,No,Standard,No,36,Bank Transfer
+2699,3.6,No,Store Pickup,No,34,Venmo
+2700,3.6,No,2-Day Shipping,No,49,Debit Card
+2701,3.2,No,Standard,No,36,Cash
+2702,2.8,No,Store Pickup,No,18,Bank Transfer
+2703,4,No,Next Day Air,No,39,Debit Card
+2704,4.4,No,Free Shipping,No,34,PayPal
+2705,3.4,No,Next Day Air,No,35,Debit Card
+2706,5,No,Store Pickup,No,1,Credit Card
+2707,3.1,No,Express,No,48,Debit Card
+2708,4.2,No,Standard,No,19,Cash
+2709,3.3,No,Store Pickup,No,44,Debit Card
+2710,2.9,No,Standard,No,9,Credit Card
+2711,4.7,No,Standard,No,3,Bank Transfer
+2712,4,No,Standard,No,50,Venmo
+2713,4.6,No,Standard,No,7,Debit Card
+2714,3.8,No,2-Day Shipping,No,20,Debit Card
+2715,3.6,No,Store Pickup,No,16,Credit Card
+2716,4.1,No,Express,No,29,PayPal
+2717,2.7,No,Store Pickup,No,21,Debit Card
+2718,4.3,No,Free Shipping,No,19,Credit Card
+2719,4.9,No,Next Day Air,No,10,Venmo
+2720,4.2,No,Free Shipping,No,4,Bank Transfer
+2721,2.8,No,Store Pickup,No,45,Bank Transfer
+2722,4.9,No,Free Shipping,No,17,PayPal
+2723,2.8,No,2-Day Shipping,No,22,PayPal
+2724,2.9,No,Store Pickup,No,3,PayPal
+2725,2.5,No,Next Day Air,No,11,Debit Card
+2726,2.7,No,Free Shipping,No,4,Debit Card
+2727,3.3,No,Free Shipping,No,11,PayPal
+2728,3.7,No,2-Day Shipping,No,47,Credit Card
+2729,4,No,Express,No,17,Debit Card
+2730,4.1,No,Free Shipping,No,32,Credit Card
+2731,4.1,No,Store Pickup,No,37,Bank Transfer
+2732,2.5,No,2-Day Shipping,No,44,Bank Transfer
+2733,4.2,No,Store Pickup,No,27,Debit Card
+2734,4.7,No,Express,No,46,PayPal
+2735,2.7,No,2-Day Shipping,No,13,Cash
+2736,3,No,Express,No,2,PayPal
+2737,4.8,No,Store Pickup,No,45,Credit Card
+2738,4.4,No,Free Shipping,No,35,Cash
+2739,4.3,No,2-Day Shipping,No,39,Venmo
+2740,2.5,No,Store Pickup,No,39,Credit Card
+2741,4.9,No,Free Shipping,No,34,Bank Transfer
+2742,4.9,No,2-Day Shipping,No,41,Venmo
+2743,3.9,No,Free Shipping,No,47,Debit Card
+2744,4.1,No,2-Day Shipping,No,17,Venmo
+2745,3.3,No,Store Pickup,No,40,Credit Card
+2746,4.1,No,Standard,No,44,PayPal
+2747,3.7,No,Standard,No,21,PayPal
+2748,3.1,No,Free Shipping,No,21,Credit Card
+2749,3,No,Free Shipping,No,16,Venmo
+2750,3.4,No,Standard,No,15,Bank Transfer
+2751,2.7,No,2-Day Shipping,No,26,PayPal
+2752,3.1,No,Free Shipping,No,50,Venmo
+2753,4,No,Free Shipping,No,30,Venmo
+2754,3.6,No,Next Day Air,No,48,PayPal
+2755,3.6,No,Free Shipping,No,21,Venmo
+2756,3.3,No,Store Pickup,No,18,Credit Card
+2757,4.1,No,Free Shipping,No,41,PayPal
+2758,4.3,No,Next Day Air,No,11,Venmo
+2759,3.2,No,Standard,No,8,Bank Transfer
+2760,3.9,No,Free Shipping,No,42,Cash
+2761,5,No,Next Day Air,No,41,Credit Card
+2762,3.4,No,Next Day Air,No,3,Credit Card
+2763,3.8,No,Store Pickup,No,10,Debit Card
+2764,2.9,No,2-Day Shipping,No,35,Venmo
+2765,2.6,No,Next Day Air,No,2,Debit Card
+2766,4.3,No,2-Day Shipping,No,24,Credit Card
+2767,2.8,No,Standard,No,47,Credit Card
+2768,4.5,No,Free Shipping,No,31,Cash
+2769,3.8,No,2-Day Shipping,No,28,PayPal
+2770,3,No,Standard,No,13,Cash
+2771,3.3,No,Express,No,22,Bank Transfer
+2772,3.1,No,2-Day Shipping,No,12,Bank Transfer
+2773,3.5,No,Store Pickup,No,10,Bank Transfer
+2774,4.6,No,Express,No,45,Bank Transfer
+2775,4.1,No,Standard,No,42,Credit Card
+2776,3.6,No,Free Shipping,No,16,Debit Card
+2777,2.9,No,Free Shipping,No,6,Bank Transfer
+2778,4.8,No,Standard,No,28,Credit Card
+2779,3.2,No,Standard,No,24,Credit Card
+2780,4.3,No,Express,No,14,Credit Card
+2781,4.1,No,Next Day Air,No,29,PayPal
+2782,4.6,No,Standard,No,33,PayPal
+2783,3.8,No,Free Shipping,No,30,PayPal
+2784,4.5,No,Next Day Air,No,26,Credit Card
+2785,3.1,No,Express,No,12,PayPal
+2786,2.9,No,Next Day Air,No,13,Bank Transfer
+2787,3.8,No,Next Day Air,No,41,Debit Card
+2788,4.1,No,Next Day Air,No,4,Venmo
+2789,3.1,No,Free Shipping,No,2,Credit Card
+2790,5,No,Express,No,28,Credit Card
+2791,4.5,No,Free Shipping,No,24,Debit Card
+2792,2.8,No,Express,No,14,Venmo
+2793,3.2,No,Express,No,11,Credit Card
+2794,3.1,No,Standard,No,27,Debit Card
+2795,3.3,No,Standard,No,7,Cash
+2796,3.4,No,Store Pickup,No,49,PayPal
+2797,3.8,No,Store Pickup,No,21,Cash
+2798,3.5,No,Express,No,10,Venmo
+2799,4.8,No,Store Pickup,No,37,PayPal
+2800,3.9,No,Free Shipping,No,9,Bank Transfer
+2801,3.4,No,Free Shipping,No,14,Cash
+2802,2.6,No,Express,No,30,PayPal
+2803,3.1,No,Store Pickup,No,42,Credit Card
+2804,3.3,No,Free Shipping,No,31,Bank Transfer
+2805,2.8,No,Standard,No,48,Bank Transfer
+2806,4.3,No,Standard,No,48,Cash
+2807,2.7,No,Standard,No,50,Credit Card
+2808,4.4,No,2-Day Shipping,No,10,Debit Card
+2809,3.9,No,Free Shipping,No,45,PayPal
+2810,3,No,Standard,No,27,Debit Card
+2811,4,No,Standard,No,10,Debit Card
+2812,3.7,No,Store Pickup,No,19,Credit Card
+2813,3.8,No,Store Pickup,No,1,Credit Card
+2814,3.3,No,2-Day Shipping,No,39,Debit Card
+2815,3.6,No,Standard,No,14,Bank Transfer
+2816,3.9,No,Free Shipping,No,40,Venmo
+2817,3.5,No,Free Shipping,No,45,Venmo
+2818,3.4,No,Standard,No,6,Venmo
+2819,4.7,No,Next Day Air,No,12,Debit Card
+2820,3,No,Free Shipping,No,19,Cash
+2821,3.9,No,Free Shipping,No,5,Cash
+2822,4.5,No,Standard,No,37,Venmo
+2823,4.1,No,Standard,No,33,PayPal
+2824,4.5,No,Standard,No,47,Debit Card
+2825,4,No,Free Shipping,No,49,Debit Card
+2826,4.3,No,2-Day Shipping,No,28,Bank Transfer
+2827,3.6,No,Express,No,23,Venmo
+2828,3.1,No,Next Day Air,No,11,Bank Transfer
+2829,2.6,No,Standard,No,33,PayPal
+2830,3.4,No,Next Day Air,No,47,Cash
+2831,2.9,No,Store Pickup,No,13,Venmo
+2832,5,No,Express,No,4,Credit Card
+2833,4.6,No,Standard,No,40,PayPal
+2834,3.3,No,Free Shipping,No,19,Cash
+2835,2.9,No,2-Day Shipping,No,17,Credit Card
+2836,4.9,No,Free Shipping,No,7,Venmo
+2837,5,No,2-Day Shipping,No,21,Cash
+2838,4.5,No,Express,No,44,PayPal
+2839,3.7,No,Free Shipping,No,2,Bank Transfer
+2840,2.8,No,Store Pickup,No,30,Bank Transfer
+2841,3.5,No,Store Pickup,No,41,Cash
+2842,3,No,2-Day Shipping,No,31,Cash
+2843,4.3,No,Standard,No,48,Debit Card
+2844,3.6,No,Store Pickup,No,41,Venmo
+2845,4.4,No,Standard,No,42,Venmo
+2846,4.1,No,Express,No,39,Debit Card
+2847,2.8,No,Next Day Air,No,15,PayPal
+2848,2.8,No,Free Shipping,No,3,PayPal
+2849,4.9,No,Store Pickup,No,28,Bank Transfer
+2850,4.1,No,Express,No,27,PayPal
+2851,3,No,Store Pickup,No,36,Debit Card
+2852,3,No,Store Pickup,No,42,Debit Card
+2853,3,No,Store Pickup,No,30,Venmo
+2854,3.2,No,Next Day Air,No,9,PayPal
+2855,2.7,No,Store Pickup,No,25,Venmo
+2856,3.8,No,2-Day Shipping,No,33,PayPal
+2857,3.5,No,2-Day Shipping,No,31,Credit Card
+2858,3.8,No,Next Day Air,No,35,Debit Card
+2859,3.8,No,2-Day Shipping,No,46,Bank Transfer
+2860,3.4,No,Express,No,29,Bank Transfer
+2861,2.9,No,Next Day Air,No,49,Bank Transfer
+2862,3.4,No,Free Shipping,No,27,Credit Card
+2863,4.7,No,Store Pickup,No,5,Bank Transfer
+2864,3.9,No,2-Day Shipping,No,18,Venmo
+2865,3.6,No,Store Pickup,No,31,Venmo
+2866,3.7,No,Free Shipping,No,27,Cash
+2867,3.1,No,Free Shipping,No,19,Cash
+2868,4.9,No,Next Day Air,No,33,Cash
+2869,2.6,No,Next Day Air,No,42,PayPal
+2870,4.2,No,Standard,No,16,Bank Transfer
+2871,4.8,No,Free Shipping,No,49,Debit Card
+2872,2.7,No,2-Day Shipping,No,40,Venmo
+2873,2.6,No,Next Day Air,No,5,Cash
+2874,2.6,No,Free Shipping,No,8,Bank Transfer
+2875,3.1,No,Standard,No,2,Debit Card
+2876,2.6,No,Free Shipping,No,14,Debit Card
+2877,3.4,No,2-Day Shipping,No,5,Bank Transfer
+2878,3.6,No,Standard,No,34,Venmo
+2879,4.3,No,Next Day Air,No,13,Bank Transfer
+2880,4.9,No,Free Shipping,No,31,Venmo
+2881,4.8,No,Store Pickup,No,43,PayPal
+2882,4.2,No,Free Shipping,No,6,Bank Transfer
+2883,2.6,No,Store Pickup,No,23,Credit Card
+2884,3.2,No,Standard,No,10,PayPal
+2885,3.4,No,2-Day Shipping,No,47,Credit Card
+2886,3.5,No,Next Day Air,No,14,Credit Card
+2887,4.2,No,Free Shipping,No,29,PayPal
+2888,2.8,No,Express,No,12,Cash
+2889,5,No,2-Day Shipping,No,25,Debit Card
+2890,3.3,No,Store Pickup,No,21,Venmo
+2891,3.7,No,Free Shipping,No,23,Credit Card
+2892,2.5,No,Free Shipping,No,10,PayPal
+2893,3.2,No,Standard,No,47,Credit Card
+2894,3.1,No,Free Shipping,No,44,Debit Card
+2895,3.5,No,Standard,No,41,Venmo
+2896,4.6,No,Standard,No,29,Bank Transfer
+2897,3.3,No,Free Shipping,No,2,Venmo
+2898,2.5,No,Free Shipping,No,2,Cash
+2899,4.6,No,Express,No,29,Credit Card
+2900,4.2,No,2-Day Shipping,No,22,Bank Transfer
+2901,4,No,Standard,No,23,Cash
+2902,2.6,No,Free Shipping,No,46,Credit Card
+2903,4.6,No,Standard,No,19,PayPal
+2904,3.5,No,2-Day Shipping,No,24,Credit Card
+2905,4,No,2-Day Shipping,No,43,Venmo
+2906,4.8,No,Standard,No,14,Debit Card
+2907,3.9,No,Standard,No,7,Venmo
+2908,3.7,No,Next Day Air,No,50,PayPal
+2909,3.1,No,Store Pickup,No,15,Debit Card
+2910,3,No,Next Day Air,No,40,Credit Card
+2911,2.9,No,Store Pickup,No,41,Credit Card
+2912,2.9,No,Next Day Air,No,34,Venmo
+2913,4,No,Standard,No,27,Cash
+2914,3.5,No,Express,No,12,Cash
+2915,3.8,No,Express,No,1,Debit Card
+2916,4.5,No,Express,No,39,Debit Card
+2917,2.7,No,Express,No,13,Credit Card
+2918,2.9,No,Store Pickup,No,50,Venmo
+2919,4.9,No,Free Shipping,No,36,Cash
+2920,3.8,No,Standard,No,31,Debit Card
+2921,4.9,No,Free Shipping,No,3,Debit Card
+2922,4.6,No,Standard,No,11,Cash
+2923,3.5,No,Express,No,16,PayPal
+2924,4.2,No,2-Day Shipping,No,12,Cash
+2925,3.7,No,Free Shipping,No,37,Debit Card
+2926,2.8,No,Store Pickup,No,43,Credit Card
+2927,4.8,No,2-Day Shipping,No,9,Cash
+2928,2.7,No,Express,No,15,Venmo
+2929,3.6,No,Store Pickup,No,17,Credit Card
+2930,4.5,No,Next Day Air,No,42,Venmo
+2931,4,No,Free Shipping,No,14,Venmo
+2932,4.5,No,2-Day Shipping,No,49,Credit Card
+2933,3.9,No,Express,No,3,PayPal
+2934,3.8,No,Standard,No,28,Venmo
+2935,4.7,No,Next Day Air,No,41,Bank Transfer
+2936,4.6,No,Standard,No,11,Venmo
+2937,3.6,No,Express,No,46,PayPal
+2938,4.3,No,2-Day Shipping,No,15,Credit Card
+2939,3,No,Standard,No,15,Cash
+2940,4.3,No,Express,No,34,Venmo
+2941,4.8,No,Next Day Air,No,13,Cash
+2942,3.7,No,Free Shipping,No,27,PayPal
+2943,2.6,No,Free Shipping,No,37,Bank Transfer
+2944,3.4,No,Standard,No,37,Credit Card
+2945,3.9,No,Free Shipping,No,4,Venmo
+2946,4.8,No,Free Shipping,No,1,Credit Card
+2947,2.8,No,Free Shipping,No,29,Bank Transfer
+2948,4.4,No,Standard,No,50,Venmo
+2949,3.1,No,Standard,No,38,Debit Card
+2950,3.8,No,Store Pickup,No,15,PayPal
+2951,4.1,No,2-Day Shipping,No,44,Debit Card
+2952,4.6,No,Free Shipping,No,14,Cash
+2953,4.9,No,Next Day Air,No,5,Debit Card
+2954,4.8,No,Next Day Air,No,11,Credit Card
+2955,3.9,No,Express,No,15,Credit Card
+2956,2.6,No,Free Shipping,No,46,Credit Card
+2957,3.7,No,Standard,No,30,Venmo
+2958,4.7,No,Standard,No,2,Cash
+2959,4.5,No,Standard,No,28,PayPal
+2960,4.7,No,Free Shipping,No,9,PayPal
+2961,3.6,No,Standard,No,47,Credit Card
+2962,2.8,No,Free Shipping,No,21,Debit Card
+2963,4,No,Express,No,42,Credit Card
+2964,3.6,No,Free Shipping,No,28,Credit Card
+2965,3.8,No,2-Day Shipping,No,13,Venmo
+2966,4.4,No,Standard,No,25,PayPal
+2967,2.8,No,Store Pickup,No,38,Debit Card
+2968,3.4,No,Free Shipping,No,40,Venmo
+2969,4.9,No,Express,No,25,Cash
+2970,4.3,No,Next Day Air,No,20,Cash
+2971,3.4,No,Free Shipping,No,44,Credit Card
+2972,3.9,No,Next Day Air,No,9,PayPal
+2973,4.2,No,Free Shipping,No,11,Venmo
+2974,2.7,No,Store Pickup,No,3,Bank Transfer
+2975,4.1,No,Store Pickup,No,34,Credit Card
+2976,4.5,No,2-Day Shipping,No,48,Cash
+2977,2.8,No,Express,No,28,Cash
+2978,3.4,No,Standard,No,20,Venmo
+2979,3.9,No,Free Shipping,No,49,Bank Transfer
+2980,2.6,No,Next Day Air,No,14,PayPal
+2981,4.4,No,2-Day Shipping,No,9,Bank Transfer
+2982,4.9,No,Standard,No,37,Venmo
+2983,3.6,No,Store Pickup,No,4,Credit Card
+2984,2.8,No,2-Day Shipping,No,1,Credit Card
+2985,4.3,No,2-Day Shipping,No,36,Debit Card
+2986,3,No,Express,No,21,Cash
+2987,3.3,No,2-Day Shipping,No,16,Credit Card
+2988,2.5,No,Store Pickup,No,42,Cash
+2989,5,No,2-Day Shipping,No,31,Debit Card
+2990,4.3,No,2-Day Shipping,No,6,Credit Card
+2991,4.2,No,Free Shipping,No,24,Venmo
+2992,3.9,No,Standard,No,7,PayPal
+2993,3.9,No,Store Pickup,No,25,Venmo
+2994,4.2,No,Free Shipping,No,18,Cash
+2995,3.5,No,Store Pickup,No,14,Bank Transfer
+2996,2.5,No,Standard,No,42,Debit Card
+2997,2.9,No,Express,No,6,Venmo
+2998,2.7,No,Next Day Air,No,14,Venmo
+2999,4.7,No,Express,No,30,Debit Card
+3000,3.8,No,Standard,No,10,Cash
+3001,3.7,No,Express,No,7,PayPal
+3002,4.7,No,Express,No,28,Credit Card
+3003,3.6,No,Next Day Air,No,19,Bank Transfer
+3004,2.8,No,Express,No,13,Credit Card
+3005,3.7,No,Store Pickup,No,23,Venmo
+3006,3.5,No,Express,No,5,Venmo
+3007,3.7,No,Store Pickup,No,17,Venmo
+3008,3,No,Next Day Air,No,31,Venmo
+3009,4.9,No,Free Shipping,No,19,PayPal
+3010,4.6,No,Free Shipping,No,8,Venmo
+3011,3.3,No,Free Shipping,No,15,Credit Card
+3012,3,No,Next Day Air,No,18,Credit Card
+3013,3.5,No,Standard,No,16,PayPal
+3014,4.2,No,Store Pickup,No,13,Cash
+3015,4.5,No,Express,No,38,PayPal
+3016,2.8,No,Express,No,27,Bank Transfer
+3017,4.9,No,Store Pickup,No,31,Bank Transfer
+3018,3.3,No,Next Day Air,No,24,Cash
+3019,3,No,Free Shipping,No,21,Debit Card
+3020,3.9,No,2-Day Shipping,No,15,PayPal
+3021,2.8,No,Store Pickup,No,48,Venmo
+3022,4.5,No,2-Day Shipping,No,47,Cash
+3023,4,No,Free Shipping,No,23,PayPal
+3024,2.9,No,Express,No,4,PayPal
+3025,4,No,Free Shipping,No,47,Credit Card
+3026,3.4,No,Store Pickup,No,7,PayPal
+3027,2.5,No,Free Shipping,No,6,Credit Card
+3028,2.8,No,2-Day Shipping,No,47,Credit Card
+3029,3,No,Free Shipping,No,7,PayPal
+3030,3.1,No,Free Shipping,No,1,Debit Card
+3031,2.6,No,2-Day Shipping,No,23,Credit Card
+3032,4.9,No,2-Day Shipping,No,30,Credit Card
+3033,3.5,No,Next Day Air,No,24,Credit Card
+3034,2.6,No,Store Pickup,No,9,PayPal
+3035,3.5,No,2-Day Shipping,No,25,Credit Card
+3036,4.5,No,Free Shipping,No,18,Cash
+3037,4.3,No,Next Day Air,No,7,Venmo
+3038,4.8,No,Next Day Air,No,2,Cash
+3039,4.2,No,Free Shipping,No,36,Debit Card
+3040,3.2,No,Next Day Air,No,31,PayPal
+3041,4.1,No,Express,No,10,Cash
+3042,4,No,Express,No,27,PayPal
+3043,2.9,No,Next Day Air,No,14,PayPal
+3044,2.6,No,Store Pickup,No,17,Credit Card
+3045,2.7,No,Free Shipping,No,10,Bank Transfer
+3046,4.6,No,2-Day Shipping,No,4,PayPal
+3047,3.2,No,Store Pickup,No,25,Cash
+3048,4.1,No,2-Day Shipping,No,3,PayPal
+3049,3.9,No,Standard,No,47,Venmo
+3050,3,No,Next Day Air,No,41,Bank Transfer
+3051,3.6,No,Standard,No,28,Venmo
+3052,4.6,No,Express,No,49,Debit Card
+3053,4.5,No,Store Pickup,No,7,Bank Transfer
+3054,3.2,No,Next Day Air,No,22,Bank Transfer
+3055,4.9,No,2-Day Shipping,No,34,Venmo
+3056,5,No,Standard,No,5,Debit Card
+3057,3.8,No,Standard,No,15,Cash
+3058,3.4,No,Next Day Air,No,26,Bank Transfer
+3059,3.8,No,Store Pickup,No,3,Bank Transfer
+3060,3.2,No,Express,No,42,Credit Card
+3061,4.7,No,Store Pickup,No,1,Venmo
+3062,4.5,No,Express,No,20,PayPal
+3063,3.3,No,Standard,No,39,PayPal
+3064,3.9,No,Store Pickup,No,24,Credit Card
+3065,3.6,No,Express,No,49,Bank Transfer
+3066,2.8,No,Store Pickup,No,7,Venmo
+3067,4.3,No,Free Shipping,No,13,Venmo
+3068,3.5,No,Free Shipping,No,2,Cash
+3069,4.2,No,Express,No,4,Debit Card
+3070,4.6,No,Express,No,17,Debit Card
+3071,2.6,No,Free Shipping,No,43,PayPal
+3072,3.4,No,Next Day Air,No,6,PayPal
+3073,3.1,No,Standard,No,46,PayPal
+3074,3.6,No,Free Shipping,No,7,Debit Card
+3075,4.2,No,Next Day Air,No,34,Debit Card
+3076,3.6,No,Standard,No,21,PayPal
+3077,3.6,No,Express,No,13,Venmo
+3078,3,No,Store Pickup,No,33,Debit Card
+3079,2.5,No,2-Day Shipping,No,24,Bank Transfer
+3080,4,No,Store Pickup,No,4,Bank Transfer
+3081,4.1,No,Next Day Air,No,5,Cash
+3082,4.9,No,Next Day Air,No,11,Credit Card
+3083,4,No,Next Day Air,No,20,Bank Transfer
+3084,3.5,No,Store Pickup,No,28,PayPal
+3085,3.2,No,Store Pickup,No,43,PayPal
+3086,2.8,No,Store Pickup,No,10,Venmo
+3087,3.5,No,Next Day Air,No,26,Venmo
+3088,3.1,No,Free Shipping,No,29,Bank Transfer
+3089,3.3,No,Store Pickup,No,35,Bank Transfer
+3090,4.6,No,Free Shipping,No,23,Cash
+3091,4.9,No,Store Pickup,No,15,Bank Transfer
+3092,3.4,No,2-Day Shipping,No,46,Credit Card
+3093,3.5,No,Next Day Air,No,14,Bank Transfer
+3094,4.8,No,Store Pickup,No,17,Cash
+3095,2.7,No,Store Pickup,No,9,Cash
+3096,3.4,No,Standard,No,13,Venmo
+3097,3.5,No,Next Day Air,No,20,Bank Transfer
+3098,3.7,No,Free Shipping,No,39,Bank Transfer
+3099,3.3,No,Next Day Air,No,50,Bank Transfer
+3100,2.9,No,Free Shipping,No,21,Bank Transfer
+3101,3.9,No,Express,No,3,Bank Transfer
+3102,2.7,No,Express,No,9,PayPal
+3103,4.3,No,Standard,No,29,Cash
+3104,3,No,2-Day Shipping,No,42,Bank Transfer
+3105,5,No,2-Day Shipping,No,41,Debit Card
+3106,2.7,No,Express,No,17,Debit Card
+3107,4.7,No,Next Day Air,No,20,PayPal
+3108,4.6,No,Standard,No,18,Credit Card
+3109,3.2,No,2-Day Shipping,No,7,PayPal
+3110,4.3,No,Free Shipping,No,47,Bank Transfer
+3111,4.6,No,Next Day Air,No,2,Bank Transfer
+3112,4.9,No,Free Shipping,No,25,Debit Card
+3113,3.8,No,Express,No,26,Venmo
+3114,2.6,No,Express,No,2,Debit Card
+3115,4.7,No,Store Pickup,No,45,Venmo
+3116,4.1,No,Free Shipping,No,9,Bank Transfer
+3117,3.7,No,Store Pickup,No,1,Venmo
+3118,3,No,Free Shipping,No,4,PayPal
+3119,4.7,No,Standard,No,31,Debit Card
+3120,4.7,No,2-Day Shipping,No,21,Credit Card
+3121,4,No,Store Pickup,No,32,Debit Card
+3122,2.6,No,Standard,No,16,Venmo
+3123,3,No,Express,No,34,Credit Card
+3124,3.3,No,Next Day Air,No,40,Venmo
+3125,3.4,No,Standard,No,4,Cash
+3126,4,No,Standard,No,3,Cash
+3127,2.6,No,Store Pickup,No,28,Bank Transfer
+3128,3.4,No,Free Shipping,No,43,Credit Card
+3129,4.4,No,Standard,No,20,Cash
+3130,4.7,No,Express,No,40,Venmo
+3131,4.5,No,Store Pickup,No,34,Venmo
+3132,2.9,No,Store Pickup,No,11,Bank Transfer
+3133,4.2,No,Express,No,26,Cash
+3134,4.1,No,Next Day Air,No,29,Cash
+3135,4.4,No,Store Pickup,No,47,Bank Transfer
+3136,4.7,No,Free Shipping,No,48,Venmo
+3137,3.1,No,Next Day Air,No,29,Cash
+3138,2.7,No,2-Day Shipping,No,14,Bank Transfer
+3139,4.6,No,Next Day Air,No,40,Cash
+3140,4.4,No,Next Day Air,No,4,Venmo
+3141,4.6,No,Free Shipping,No,37,Bank Transfer
+3142,4.9,No,Express,No,47,Credit Card
+3143,4,No,2-Day Shipping,No,1,Venmo
+3144,2.9,No,Store Pickup,No,26,Cash
+3145,2.6,No,Free Shipping,No,12,Debit Card
+3146,4.6,No,Standard,No,16,PayPal
+3147,4.9,No,Free Shipping,No,19,PayPal
+3148,4.3,No,Express,No,21,Credit Card
+3149,4.3,No,Free Shipping,No,15,Venmo
+3150,4.6,No,Free Shipping,No,9,Venmo
+3151,2.6,No,Express,No,7,Bank Transfer
+3152,3.1,No,2-Day Shipping,No,47,Bank Transfer
+3153,3.1,No,Store Pickup,No,17,PayPal
+3154,3.1,No,Next Day Air,No,46,Venmo
+3155,4.4,No,Standard,No,32,Cash
+3156,4.3,No,Free Shipping,No,34,Cash
+3157,3.1,No,2-Day Shipping,No,18,Cash
+3158,3.1,No,Store Pickup,No,5,Debit Card
+3159,4.9,No,2-Day Shipping,No,44,Credit Card
+3160,2.9,No,Store Pickup,No,4,Bank Transfer
+3161,3.8,No,Next Day Air,No,37,Cash
+3162,4.2,No,2-Day Shipping,No,43,Cash
+3163,3.9,No,Standard,No,28,Bank Transfer
+3164,2.8,No,Express,No,36,Cash
+3165,2.6,No,Standard,No,16,Credit Card
+3166,3,No,Store Pickup,No,38,Bank Transfer
+3167,2.7,No,Next Day Air,No,37,Bank Transfer
+3168,2.8,No,2-Day Shipping,No,9,Cash
+3169,2.9,No,2-Day Shipping,No,14,PayPal
+3170,3.8,No,Free Shipping,No,3,Venmo
+3171,4.4,No,Express,No,10,Credit Card
+3172,3.1,No,Express,No,26,Bank Transfer
+3173,3.7,No,Standard,No,30,Debit Card
+3174,4.9,No,Next Day Air,No,32,PayPal
+3175,3.8,No,Store Pickup,No,35,PayPal
+3176,3.4,No,Store Pickup,No,26,Debit Card
+3177,4.6,No,2-Day Shipping,No,39,Credit Card
+3178,3.2,No,Standard,No,31,Credit Card
+3179,2.7,No,Free Shipping,No,28,Credit Card
+3180,4.3,No,Free Shipping,No,12,Debit Card
+3181,3.8,No,Standard,No,46,PayPal
+3182,4.4,No,Free Shipping,No,27,PayPal
+3183,3.6,No,Free Shipping,No,4,Credit Card
+3184,3.5,No,Standard,No,14,Cash
+3185,4.2,No,2-Day Shipping,No,30,Venmo
+3186,4.7,No,Express,No,6,PayPal
+3187,4.8,No,Store Pickup,No,43,Venmo
+3188,3.2,No,Free Shipping,No,28,Debit Card
+3189,3.5,No,Standard,No,39,Bank Transfer
+3190,4.2,No,Store Pickup,No,30,PayPal
+3191,3.4,No,Free Shipping,No,5,Credit Card
+3192,4.7,No,Store Pickup,No,42,Credit Card
+3193,3,No,Free Shipping,No,20,Cash
+3194,4,No,Express,No,35,Credit Card
+3195,4.6,No,Standard,No,10,Credit Card
+3196,4.9,No,Next Day Air,No,36,Credit Card
+3197,2.8,No,Express,No,21,Debit Card
+3198,3.2,No,Free Shipping,No,29,Credit Card
+3199,2.8,No,Free Shipping,No,39,Debit Card
+3200,4.2,No,Express,No,16,PayPal
+3201,4.8,No,Free Shipping,No,32,Credit Card
+3202,2.8,No,2-Day Shipping,No,34,Cash
+3203,4.5,No,Standard,No,38,Venmo
+3204,4.1,No,Express,No,14,Venmo
+3205,4.3,No,Free Shipping,No,23,Debit Card
+3206,4.4,No,2-Day Shipping,No,50,Bank Transfer
+3207,3,No,Free Shipping,No,49,PayPal
+3208,2.7,No,Next Day Air,No,14,PayPal
+3209,3.3,No,2-Day Shipping,No,42,PayPal
+3210,4.3,No,Standard,No,39,Debit Card
+3211,2.9,No,Express,No,43,Venmo
+3212,4.9,No,Standard,No,12,Cash
+3213,3.6,No,2-Day Shipping,No,21,Debit Card
+3214,3.3,No,Standard,No,33,Credit Card
+3215,3.1,No,Free Shipping,No,6,Debit Card
+3216,2.7,No,Free Shipping,No,10,PayPal
+3217,3.4,No,Next Day Air,No,18,Cash
+3218,3.4,No,Express,No,46,Venmo
+3219,3.9,No,Express,No,49,PayPal
+3220,3.5,No,2-Day Shipping,No,39,Credit Card
+3221,4.1,No,Free Shipping,No,16,Cash
+3222,3.2,No,Standard,No,28,Cash
+3223,4.6,No,Store Pickup,No,22,PayPal
+3224,3.9,No,Standard,No,36,Venmo
+3225,2.7,No,Free Shipping,No,18,PayPal
+3226,3,No,Store Pickup,No,31,Credit Card
+3227,3.3,No,Next Day Air,No,38,Bank Transfer
+3228,2.7,No,Free Shipping,No,42,Debit Card
+3229,4.6,No,2-Day Shipping,No,27,PayPal
+3230,2.7,No,Express,No,24,Cash
+3231,2.5,No,Next Day Air,No,38,Debit Card
+3232,4.4,No,Free Shipping,No,9,Credit Card
+3233,4,No,Next Day Air,No,19,Bank Transfer
+3234,3.8,No,Express,No,11,Debit Card
+3235,2.5,No,2-Day Shipping,No,16,Debit Card
+3236,4,No,Free Shipping,No,18,Venmo
+3237,4.1,No,Next Day Air,No,8,Cash
+3238,2.8,No,Express,No,4,Cash
+3239,3.4,No,2-Day Shipping,No,37,Cash
+3240,2.7,No,2-Day Shipping,No,30,Cash
+3241,3.8,No,2-Day Shipping,No,37,Bank Transfer
+3242,4.4,No,Store Pickup,No,30,PayPal
+3243,2.8,No,Express,No,17,Venmo
+3244,5,No,Store Pickup,No,11,Bank Transfer
+3245,4.7,No,Express,No,42,Credit Card
+3246,3.2,No,Next Day Air,No,20,Cash
+3247,2.9,No,Store Pickup,No,37,Cash
+3248,3.7,No,Express,No,12,PayPal
+3249,4.2,No,Free Shipping,No,41,Bank Transfer
+3250,3.4,No,Express,No,32,Credit Card
+3251,2.9,No,2-Day Shipping,No,15,Venmo
+3252,3.7,No,Standard,No,39,Venmo
+3253,2.7,No,Store Pickup,No,48,Credit Card
+3254,3.2,No,2-Day Shipping,No,8,Venmo
+3255,4.9,No,Store Pickup,No,11,Bank Transfer
+3256,2.8,No,Next Day Air,No,36,Bank Transfer
+3257,4.7,No,Free Shipping,No,50,Venmo
+3258,3.3,No,Express,No,39,Venmo
+3259,4.3,No,Express,No,11,Credit Card
+3260,3.7,No,2-Day Shipping,No,5,Debit Card
+3261,4.5,No,2-Day Shipping,No,7,Credit Card
+3262,3.4,No,Store Pickup,No,50,Debit Card
+3263,2.7,No,Standard,No,21,Cash
+3264,4.4,No,Express,No,31,Debit Card
+3265,4,No,Express,No,39,Cash
+3266,3.2,No,Express,No,28,Credit Card
+3267,4.2,No,Next Day Air,No,33,Bank Transfer
+3268,3,No,Store Pickup,No,42,Credit Card
+3269,2.8,No,Free Shipping,No,5,Bank Transfer
+3270,4.9,No,Express,No,25,Cash
+3271,4.7,No,Express,No,48,PayPal
+3272,4.4,No,Standard,No,30,Credit Card
+3273,3.1,No,Next Day Air,No,34,PayPal
+3274,2.6,No,Free Shipping,No,34,PayPal
+3275,3.9,No,Store Pickup,No,14,Cash
+3276,2.6,No,2-Day Shipping,No,2,Debit Card
+3277,4,No,Store Pickup,No,41,PayPal
+3278,4.9,No,Store Pickup,No,3,Credit Card
+3279,3.3,No,2-Day Shipping,No,18,Bank Transfer
+3280,3,No,Express,No,1,Debit Card
+3281,2.7,No,Next Day Air,No,5,PayPal
+3282,3.1,No,Free Shipping,No,41,Bank Transfer
+3283,4.8,No,Next Day Air,No,5,Credit Card
+3284,2.9,No,Express,No,10,Debit Card
+3285,4.5,No,2-Day Shipping,No,20,Venmo
+3286,4.6,No,Free Shipping,No,11,Cash
+3287,5,No,Express,No,4,Venmo
+3288,4.3,No,2-Day Shipping,No,38,Credit Card
+3289,4.9,No,Next Day Air,No,19,Credit Card
+3290,4,No,2-Day Shipping,No,16,Venmo
+3291,3.1,No,Free Shipping,No,2,PayPal
+3292,2.6,No,2-Day Shipping,No,11,Cash
+3293,4.9,No,Standard,No,18,Bank Transfer
+3294,3.5,No,2-Day Shipping,No,47,Credit Card
+3295,4.5,No,Store Pickup,No,15,Bank Transfer
+3296,2.8,No,Next Day Air,No,15,Cash
+3297,4.2,No,Next Day Air,No,47,Venmo
+3298,4.1,No,Free Shipping,No,47,PayPal
+3299,3.5,No,Express,No,6,Bank Transfer
+3300,4,No,2-Day Shipping,No,18,Venmo
+3301,4,No,Express,No,40,Bank Transfer
+3302,2.5,No,Free Shipping,No,31,Credit Card
+3303,4.2,No,Standard,No,31,Venmo
+3304,3.4,No,Next Day Air,No,4,Credit Card
+3305,4.8,No,Next Day Air,No,36,Bank Transfer
+3306,4.9,No,Standard,No,31,PayPal
+3307,3.6,No,Store Pickup,No,6,Venmo
+3308,4,No,Store Pickup,No,1,Cash
+3309,2.6,No,Express,No,29,Cash
+3310,3.1,No,Store Pickup,No,19,PayPal
+3311,3.6,No,Free Shipping,No,12,PayPal
+3312,4,No,Express,No,18,Bank Transfer
+3313,3.9,No,Next Day Air,No,45,Cash
+3314,3.9,No,Express,No,45,Credit Card
+3315,3.3,No,Standard,No,8,Credit Card
+3316,2.9,No,Standard,No,4,PayPal
+3317,3.1,No,Free Shipping,No,5,Debit Card
+3318,4.7,No,Standard,No,30,Cash
+3319,3.9,No,Free Shipping,No,15,PayPal
+3320,4.3,No,Next Day Air,No,17,Credit Card
+3321,4.2,No,2-Day Shipping,No,45,Cash
+3322,4.3,No,Next Day Air,No,3,Venmo
+3323,4.6,No,Next Day Air,No,43,PayPal
+3324,3.8,No,Free Shipping,No,4,Credit Card
+3325,3.3,No,Standard,No,41,Venmo
+3326,3.7,No,2-Day Shipping,No,16,Venmo
+3327,4.3,No,Standard,No,10,Debit Card
+3328,4.1,No,Express,No,2,Debit Card
+3329,3.2,No,Free Shipping,No,11,Cash
+3330,3.8,No,Express,No,1,Debit Card
+3331,3.2,No,2-Day Shipping,No,41,Bank Transfer
+3332,3.5,No,Free Shipping,No,39,PayPal
+3333,3.1,No,2-Day Shipping,No,1,PayPal
+3334,4.2,No,Express,No,3,PayPal
+3335,3.4,No,Free Shipping,No,21,Credit Card
+3336,3.5,No,Express,No,48,Bank Transfer
+3337,4,No,Free Shipping,No,24,Debit Card
+3338,4.4,No,2-Day Shipping,No,45,Bank Transfer
+3339,2.9,No,2-Day Shipping,No,46,Credit Card
+3340,3.6,No,Store Pickup,No,35,Cash
+3341,4.4,No,Free Shipping,No,47,Credit Card
+3342,4.5,No,Standard,No,35,Credit Card
+3343,3.8,No,Free Shipping,No,45,Credit Card
+3344,3.6,No,2-Day Shipping,No,6,Cash
+3345,4.3,No,Free Shipping,No,20,Cash
+3346,4,No,2-Day Shipping,No,3,Venmo
+3347,3.4,No,Express,No,30,Venmo
+3348,4.4,No,Standard,No,28,PayPal
+3349,2.8,No,Standard,No,15,Cash
+3350,2.8,No,Store Pickup,No,29,PayPal
+3351,4.9,No,2-Day Shipping,No,15,Cash
+3352,4.2,No,2-Day Shipping,No,18,Bank Transfer
+3353,2.9,No,Next Day Air,No,7,Bank Transfer
+3354,4.6,No,Free Shipping,No,19,Credit Card
+3355,2.8,No,Next Day Air,No,15,PayPal
+3356,2.6,No,Store Pickup,No,3,Bank Transfer
+3357,3.5,No,Store Pickup,No,13,PayPal
+3358,3.5,No,Free Shipping,No,37,Credit Card
+3359,3.4,No,2-Day Shipping,No,26,Cash
+3360,3.9,No,Next Day Air,No,29,Debit Card
+3361,3.3,No,2-Day Shipping,No,47,Cash
+3362,4.1,No,Free Shipping,No,47,Credit Card
+3363,3,No,Next Day Air,No,48,Venmo
+3364,3,No,Next Day Air,No,46,Bank Transfer
+3365,3.2,No,Standard,No,7,Credit Card
+3366,3.9,No,Express,No,45,Credit Card
+3367,3.6,No,2-Day Shipping,No,47,Debit Card
+3368,3.1,No,Store Pickup,No,6,Venmo
+3369,4.8,No,Express,No,29,Bank Transfer
+3370,3.8,No,2-Day Shipping,No,42,Cash
+3371,2.8,No,Store Pickup,No,46,Cash
+3372,4,No,Next Day Air,No,28,PayPal
+3373,4.6,No,Free Shipping,No,14,Credit Card
+3374,3.5,No,Store Pickup,No,12,Debit Card
+3375,3.7,No,2-Day Shipping,No,41,Debit Card
+3376,4.9,No,Express,No,8,Credit Card
+3377,4.1,No,Store Pickup,No,24,Cash
+3378,4.6,No,Next Day Air,No,18,PayPal
+3379,4.5,No,Next Day Air,No,6,Cash
+3380,5,No,Store Pickup,No,40,Cash
+3381,3.8,No,Standard,No,6,PayPal
+3382,4.7,No,Standard,No,27,Credit Card
+3383,2.8,No,Express,No,2,Bank Transfer
+3384,2.6,No,Next Day Air,No,39,Venmo
+3385,3.8,No,Free Shipping,No,9,Venmo
+3386,2.8,No,Standard,No,16,Credit Card
+3387,2.6,No,2-Day Shipping,No,36,Cash
+3388,3.4,No,2-Day Shipping,No,2,Credit Card
+3389,4.5,No,Store Pickup,No,21,Credit Card
+3390,3.8,No,Free Shipping,No,39,Venmo
+3391,3,No,Next Day Air,No,38,PayPal
+3392,3.7,No,2-Day Shipping,No,6,Debit Card
+3393,4.4,No,Free Shipping,No,6,Venmo
+3394,3.1,No,Next Day Air,No,50,Debit Card
+3395,4.2,No,Store Pickup,No,9,PayPal
+3396,3.1,No,Free Shipping,No,15,Debit Card
+3397,5,No,Next Day Air,No,5,PayPal
+3398,2.7,No,Standard,No,13,Bank Transfer
+3399,3.8,No,Standard,No,44,Cash
+3400,3.3,No,Standard,No,36,Debit Card
+3401,4.8,No,Free Shipping,No,18,Venmo
+3402,3.4,No,Standard,No,39,Credit Card
+3403,4.4,No,2-Day Shipping,No,11,PayPal
+3404,3.9,No,Standard,No,1,Cash
+3405,3.9,No,2-Day Shipping,No,34,Credit Card
+3406,4.2,No,Store Pickup,No,47,Bank Transfer
+3407,4,No,Store Pickup,No,24,Venmo
+3408,2.6,No,Store Pickup,No,20,Cash
+3409,4.4,No,Standard,No,11,Bank Transfer
+3410,3.2,No,Next Day Air,No,3,Credit Card
+3411,4.3,No,Free Shipping,No,38,Bank Transfer
+3412,4.9,No,2-Day Shipping,No,45,Cash
+3413,3.8,No,Store Pickup,No,31,Venmo
+3414,2.5,No,Express,No,16,PayPal
+3415,4.9,No,Next Day Air,No,3,Bank Transfer
+3416,3,No,2-Day Shipping,No,15,Bank Transfer
+3417,3.2,No,Store Pickup,No,11,Bank Transfer
+3418,2.9,No,2-Day Shipping,No,22,Debit Card
+3419,2.8,No,Free Shipping,No,35,Debit Card
+3420,3.1,No,Store Pickup,No,5,Venmo
+3421,3.4,No,Express,No,35,PayPal
+3422,2.9,No,Free Shipping,No,27,PayPal
+3423,3.2,No,Next Day Air,No,9,Venmo
+3424,3.8,No,Next Day Air,No,21,PayPal
+3425,3.6,No,2-Day Shipping,No,23,Credit Card
+3426,4.3,No,Next Day Air,No,3,Debit Card
+3427,4.8,No,2-Day Shipping,No,31,Credit Card
+3428,2.5,No,Store Pickup,No,44,Cash
+3429,2.5,No,Next Day Air,No,20,Venmo
+3430,4.6,No,Express,No,34,Debit Card
+3431,4.2,No,Next Day Air,No,17,Bank Transfer
+3432,4.2,No,Express,No,20,Venmo
+3433,4.8,No,2-Day Shipping,No,46,PayPal
+3434,4.5,No,Free Shipping,No,28,PayPal
+3435,3.3,No,2-Day Shipping,No,6,Venmo
+3436,2.7,No,2-Day Shipping,No,50,Debit Card
+3437,2.8,No,2-Day Shipping,No,41,Bank Transfer
+3438,3.5,No,2-Day Shipping,No,50,PayPal
+3439,3,No,Store Pickup,No,33,Credit Card
+3440,4.5,No,Express,No,25,Venmo
+3441,4.3,No,2-Day Shipping,No,2,PayPal
+3442,4.1,No,Standard,No,15,Credit Card
+3443,4.3,No,Next Day Air,No,12,PayPal
+3444,5,No,Free Shipping,No,28,Cash
+3445,3.8,No,2-Day Shipping,No,12,Bank Transfer
+3446,4.9,No,Standard,No,3,Debit Card
+3447,5,No,2-Day Shipping,No,20,Cash
+3448,4.3,No,Express,No,3,Bank Transfer
+3449,4.1,No,Express,No,32,Bank Transfer
+3450,4.5,No,Standard,No,35,Cash
+3451,3.6,No,Store Pickup,No,31,PayPal
+3452,3,No,Free Shipping,No,13,Credit Card
+3453,3.7,No,Next Day Air,No,3,Venmo
+3454,4.3,No,Standard,No,48,Venmo
+3455,4.6,No,Store Pickup,No,15,PayPal
+3456,4.7,No,Standard,No,13,Venmo
+3457,4.6,No,Express,No,21,Venmo
+3458,3,No,Express,No,29,Cash
+3459,3.4,No,Standard,No,24,Venmo
+3460,3.8,No,Express,No,21,PayPal
+3461,3.1,No,Express,No,5,Bank Transfer
+3462,4.4,No,Standard,No,47,Cash
+3463,4.5,No,Standard,No,34,Credit Card
+3464,2.8,No,2-Day Shipping,No,45,PayPal
+3465,2.7,No,Next Day Air,No,12,PayPal
+3466,3.4,No,Standard,No,31,Debit Card
+3467,4.6,No,Standard,No,43,Bank Transfer
+3468,5,No,Next Day Air,No,5,Credit Card
+3469,3.5,No,Standard,No,36,Debit Card
+3470,3.3,No,Store Pickup,No,12,Cash
+3471,4.5,No,Free Shipping,No,31,Cash
+3472,3.1,No,Store Pickup,No,31,Cash
+3473,4,No,Free Shipping,No,15,Debit Card
+3474,2.5,No,Express,No,11,Cash
+3475,4.4,No,Store Pickup,No,18,Venmo
+3476,4.4,No,Express,No,9,Cash
+3477,3.2,No,Free Shipping,No,11,Cash
+3478,3.8,No,Store Pickup,No,38,Debit Card
+3479,4.6,No,Store Pickup,No,42,PayPal
+3480,4.9,No,Standard,No,41,Cash
+3481,3.5,No,Free Shipping,No,45,PayPal
+3482,3.4,No,Store Pickup,No,41,Debit Card
+3483,3.9,No,Next Day Air,No,35,Debit Card
+3484,3.9,No,Express,No,21,Credit Card
+3485,4.2,No,Free Shipping,No,13,Credit Card
+3486,3.4,No,Standard,No,23,Debit Card
+3487,4.9,No,Standard,No,6,PayPal
+3488,2.9,No,Store Pickup,No,39,Bank Transfer
+3489,4.9,No,Store Pickup,No,7,Cash
+3490,4.6,No,2-Day Shipping,No,32,PayPal
+3491,3.6,No,Store Pickup,No,43,Credit Card
+3492,4.3,No,Express,No,15,Cash
+3493,4.6,No,Standard,No,48,Bank Transfer
+3494,4.7,No,Store Pickup,No,35,Credit Card
+3495,3.5,No,Free Shipping,No,41,PayPal
+3496,2.8,No,Free Shipping,No,14,Cash
+3497,4,No,Free Shipping,No,22,PayPal
+3498,4.3,No,Store Pickup,No,16,Venmo
+3499,3.8,No,Standard,No,2,Bank Transfer
+3500,3,No,Next Day Air,No,13,PayPal
+3501,4.6,No,Next Day Air,No,38,Debit Card
+3502,4.8,No,Standard,No,43,Bank Transfer
+3503,4.7,No,Next Day Air,No,26,Bank Transfer
+3504,3.9,No,Free Shipping,No,39,Cash
+3505,4,No,Next Day Air,No,50,Venmo
+3506,3.7,No,2-Day Shipping,No,40,Bank Transfer
+3507,3.7,No,2-Day Shipping,No,12,Cash
+3508,4.2,No,Store Pickup,No,33,Credit Card
+3509,4.7,No,Standard,No,49,Bank Transfer
+3510,4.3,No,Next Day Air,No,43,Venmo
+3511,4.9,No,2-Day Shipping,No,14,Venmo
+3512,3.9,No,2-Day Shipping,No,21,Credit Card
+3513,3.4,No,Free Shipping,No,31,Debit Card
+3514,4.2,No,Store Pickup,No,29,Credit Card
+3515,4.7,No,Express,No,32,Cash
+3516,4,No,Next Day Air,No,16,Debit Card
+3517,4,No,Free Shipping,No,38,PayPal
+3518,3.1,No,Next Day Air,No,34,Debit Card
+3519,4.2,No,Standard,No,30,PayPal
+3520,3.7,No,Next Day Air,No,14,Bank Transfer
+3521,3.1,No,Express,No,33,Bank Transfer
+3522,3.7,No,Store Pickup,No,35,Venmo
+3523,3.2,No,Store Pickup,No,13,Cash
+3524,2.8,No,Standard,No,30,Cash
+3525,2.9,No,Free Shipping,No,30,Credit Card
+3526,3.5,No,Standard,No,47,Bank Transfer
+3527,3.8,No,Express,No,1,PayPal
+3528,4.7,No,Free Shipping,No,1,Cash
+3529,4.5,No,Free Shipping,No,33,PayPal
+3530,3.9,No,Next Day Air,No,43,Bank Transfer
+3531,3.4,No,Express,No,37,PayPal
+3532,4.6,No,2-Day Shipping,No,23,Cash
+3533,4.6,No,Standard,No,12,Credit Card
+3534,4.7,No,Standard,No,30,Venmo
+3535,3.2,No,Express,No,7,Cash
+3536,5,No,Express,No,20,Debit Card
+3537,4.5,No,Express,No,10,Venmo
+3538,3.5,No,Standard,No,40,Credit Card
+3539,4.5,No,Store Pickup,No,21,Venmo
+3540,3.2,No,Express,No,17,Credit Card
+3541,4.6,No,Free Shipping,No,5,Bank Transfer
+3542,4,No,Next Day Air,No,22,PayPal
+3543,4.2,No,Express,No,5,Venmo
+3544,4.1,No,Standard,No,18,PayPal
+3545,3.6,No,2-Day Shipping,No,42,Cash
+3546,3.7,No,2-Day Shipping,No,22,Debit Card
+3547,3.6,No,Free Shipping,No,37,Bank Transfer
+3548,3.8,No,Standard,No,23,Credit Card
+3549,3,No,Standard,No,47,Debit Card
+3550,3.4,No,2-Day Shipping,No,11,Bank Transfer
+3551,4.8,No,Standard,No,32,Cash
+3552,2.6,No,Store Pickup,No,20,Venmo
+3553,2.9,No,Next Day Air,No,3,PayPal
+3554,4.9,No,Free Shipping,No,32,Bank Transfer
+3555,5,No,Free Shipping,No,5,Credit Card
+3556,4.6,No,Next Day Air,No,45,Cash
+3557,4.2,No,Express,No,43,Cash
+3558,4.9,No,Next Day Air,No,1,PayPal
+3559,4.8,No,Standard,No,9,Venmo
+3560,3,No,Next Day Air,No,13,Venmo
+3561,3.5,No,Express,No,5,Credit Card
+3562,3.4,No,Standard,No,39,Credit Card
+3563,3.4,No,Free Shipping,No,7,Bank Transfer
+3564,4.9,No,Standard,No,8,Credit Card
+3565,4.4,No,Free Shipping,No,40,Venmo
+3566,4.2,No,Store Pickup,No,35,PayPal
+3567,3.1,No,Next Day Air,No,14,Venmo
+3568,4,No,Next Day Air,No,26,Credit Card
+3569,4.8,No,Next Day Air,No,14,PayPal
+3570,3.3,No,Express,No,9,Bank Transfer
+3571,4.7,No,Standard,No,32,Debit Card
+3572,3.2,No,Standard,No,15,Bank Transfer
+3573,5,No,Standard,No,25,Credit Card
+3574,4.9,No,Free Shipping,No,27,PayPal
+3575,4.9,No,Express,No,39,Bank Transfer
+3576,3.7,No,Express,No,49,Venmo
+3577,3,No,Express,No,12,Venmo
+3578,2.6,No,Standard,No,13,Bank Transfer
+3579,2.6,No,Standard,No,22,Bank Transfer
+3580,4.8,No,Standard,No,19,Credit Card
+3581,3.2,No,2-Day Shipping,No,3,Cash
+3582,4.9,No,Next Day Air,No,50,Credit Card
+3583,3.4,No,2-Day Shipping,No,15,PayPal
+3584,2.7,No,Store Pickup,No,44,Credit Card
+3585,4.8,No,Express,No,48,Debit Card
+3586,4.1,No,Standard,No,4,Venmo
+3587,4.6,No,Store Pickup,No,12,PayPal
+3588,4.4,No,Standard,No,33,Debit Card
+3589,3.5,No,2-Day Shipping,No,40,Cash
+3590,4.8,No,Next Day Air,No,38,Cash
+3591,2.9,No,2-Day Shipping,No,19,Venmo
+3592,3.2,No,2-Day Shipping,No,38,Bank Transfer
+3593,4.4,No,2-Day Shipping,No,18,Venmo
+3594,4.6,No,Next Day Air,No,24,PayPal
+3595,2.6,No,2-Day Shipping,No,29,Venmo
+3596,3.1,No,Store Pickup,No,14,PayPal
+3597,4.3,No,Standard,No,44,Cash
+3598,3.1,No,Standard,No,18,Bank Transfer
+3599,4.6,No,Store Pickup,No,19,Bank Transfer
+3600,4.6,No,Express,No,4,Cash
+3601,2.7,No,Free Shipping,No,25,Cash
+3602,3,No,Next Day Air,No,3,PayPal
+3603,3.3,No,Store Pickup,No,40,Debit Card
+3604,2.7,No,Free Shipping,No,5,Cash
+3605,3.3,No,Standard,No,17,Debit Card
+3606,4.3,No,Store Pickup,No,36,Bank Transfer
+3607,4.8,No,Express,No,41,Venmo
+3608,3.3,No,Standard,No,20,Venmo
+3609,4.3,No,Next Day Air,No,2,Cash
+3610,3,No,2-Day Shipping,No,31,Debit Card
+3611,4.8,No,2-Day Shipping,No,23,Bank Transfer
+3612,2.9,No,Standard,No,30,Credit Card
+3613,3.6,No,Standard,No,26,Cash
+3614,3.5,No,Store Pickup,No,40,Venmo
+3615,4.7,No,2-Day Shipping,No,19,Bank Transfer
+3616,4.4,No,Free Shipping,No,4,Credit Card
+3617,3.3,No,Store Pickup,No,33,Debit Card
+3618,4.3,No,Express,No,29,Debit Card
+3619,4,No,2-Day Shipping,No,47,PayPal
+3620,4.9,No,2-Day Shipping,No,50,Venmo
+3621,2.9,No,Express,No,28,Credit Card
+3622,4,No,2-Day Shipping,No,5,Cash
+3623,4.3,No,Store Pickup,No,12,Credit Card
+3624,2.7,No,2-Day Shipping,No,4,PayPal
+3625,5,No,Store Pickup,No,22,Bank Transfer
+3626,4.4,No,Express,No,32,PayPal
+3627,3.5,No,Express,No,32,Venmo
+3628,3.3,No,Next Day Air,No,48,Cash
+3629,3.8,No,Free Shipping,No,35,Credit Card
+3630,4.5,No,Standard,No,44,Debit Card
+3631,4.8,No,Store Pickup,No,29,Cash
+3632,2.9,No,Store Pickup,No,26,Credit Card
+3633,3.2,No,Express,No,3,Debit Card
+3634,2.8,No,Free Shipping,No,1,Bank Transfer
+3635,3.3,No,Standard,No,17,PayPal
+3636,3.3,No,Free Shipping,No,17,Credit Card
+3637,4.2,No,2-Day Shipping,No,36,Cash
+3638,3.6,No,Express,No,32,Credit Card
+3639,4.6,No,Express,No,50,PayPal
+3640,3.6,No,2-Day Shipping,No,39,Venmo
+3641,4,No,Next Day Air,No,17,PayPal
+3642,2.7,No,Free Shipping,No,39,Bank Transfer
+3643,4.4,No,Store Pickup,No,5,PayPal
+3644,3.2,No,Standard,No,47,Debit Card
+3645,2.6,No,Next Day Air,No,18,Venmo
+3646,3.4,No,Free Shipping,No,31,Credit Card
+3647,5,No,2-Day Shipping,No,39,Debit Card
+3648,2.9,No,Store Pickup,No,12,Bank Transfer
+3649,5,No,Free Shipping,No,45,Cash
+3650,4.4,No,Standard,No,33,Credit Card
+3651,3.5,No,2-Day Shipping,No,3,PayPal
+3652,3.8,No,Express,No,5,Venmo
+3653,3.8,No,Store Pickup,No,23,Debit Card
+3654,3.9,No,Next Day Air,No,39,Credit Card
+3655,3.3,No,Next Day Air,No,10,Credit Card
+3656,2.9,No,Next Day Air,No,4,Credit Card
+3657,3.7,No,2-Day Shipping,No,18,Credit Card
+3658,3.7,No,Express,No,1,Debit Card
+3659,4.6,No,Standard,No,18,PayPal
+3660,4.9,No,Store Pickup,No,46,Bank Transfer
+3661,3.1,No,2-Day Shipping,No,13,Bank Transfer
+3662,3.5,No,Next Day Air,No,5,Credit Card
+3663,4.9,No,Next Day Air,No,11,Debit Card
+3664,4.4,No,Express,No,49,Credit Card
+3665,4.4,No,Store Pickup,No,1,Debit Card
+3666,3.4,No,Next Day Air,No,11,Credit Card
+3667,3,No,2-Day Shipping,No,47,Cash
+3668,2.6,No,Next Day Air,No,20,Venmo
+3669,3.2,No,Store Pickup,No,18,Venmo
+3670,4.6,No,Store Pickup,No,43,PayPal
+3671,3.8,No,Free Shipping,No,4,PayPal
+3672,4.8,No,2-Day Shipping,No,20,Venmo
+3673,4.5,No,Free Shipping,No,7,PayPal
+3674,4.2,No,2-Day Shipping,No,31,Bank Transfer
+3675,2.7,No,2-Day Shipping,No,41,Venmo
+3676,4.5,No,Express,No,3,Bank Transfer
+3677,4.9,No,Free Shipping,No,16,PayPal
+3678,2.8,No,Standard,No,43,Cash
+3679,3.5,No,Standard,No,29,Bank Transfer
+3680,2.5,No,Store Pickup,No,5,Cash
+3681,2.9,No,Standard,No,30,Debit Card
+3682,4.2,No,Next Day Air,No,33,Debit Card
+3683,4.6,No,Store Pickup,No,46,Venmo
+3684,3,No,Free Shipping,No,17,Venmo
+3685,4.4,No,Free Shipping,No,47,Credit Card
+3686,2.6,No,Standard,No,17,Cash
+3687,4.8,No,Free Shipping,No,17,Cash
+3688,2.9,No,Next Day Air,No,28,Bank Transfer
+3689,3,No,Next Day Air,No,8,Cash
+3690,4.5,No,Standard,No,8,Bank Transfer
+3691,3.7,No,Store Pickup,No,4,Bank Transfer
+3692,4.8,No,Next Day Air,No,24,PayPal
+3693,4.8,No,Free Shipping,No,29,Cash
+3694,4.7,No,2-Day Shipping,No,10,Venmo
+3695,2.6,No,Express,No,11,PayPal
+3696,4.6,No,Standard,No,18,Bank Transfer
+3697,3.4,No,Next Day Air,No,26,Bank Transfer
+3698,3,No,Standard,No,39,Cash
+3699,4,No,2-Day Shipping,No,4,Venmo
+3700,2.6,No,Store Pickup,No,24,Bank Transfer
+3701,3.4,No,Store Pickup,No,2,Bank Transfer
+3702,4.5,No,Store Pickup,No,36,Cash
+3703,2.7,No,Store Pickup,No,36,Venmo
+3704,2.9,No,Standard,No,23,PayPal
+3705,4,No,Store Pickup,No,36,Credit Card
+3706,3.2,No,Free Shipping,No,2,Debit Card
+3707,4,No,Store Pickup,No,17,Cash
+3708,3.4,No,2-Day Shipping,No,19,Venmo
+3709,4.9,No,Express,No,41,PayPal
+3710,3.6,No,Free Shipping,No,27,PayPal
+3711,3.6,No,2-Day Shipping,No,32,Bank Transfer
+3712,3.2,No,Free Shipping,No,33,Cash
+3713,3.7,No,2-Day Shipping,No,24,PayPal
+3714,2.6,No,Express,No,31,Debit Card
+3715,3.9,No,Express,No,35,Credit Card
+3716,3.4,No,Free Shipping,No,2,Bank Transfer
+3717,3.4,No,Next Day Air,No,42,Debit Card
+3718,4.2,No,Express,No,47,Bank Transfer
+3719,2.9,No,Standard,No,44,Bank Transfer
+3720,4.1,No,Free Shipping,No,8,Bank Transfer
+3721,3.6,No,Free Shipping,No,13,Credit Card
+3722,4,No,Next Day Air,No,10,Cash
+3723,4,No,Standard,No,1,Credit Card
+3724,3.6,No,Free Shipping,No,1,Debit Card
+3725,3.1,No,Express,No,18,Bank Transfer
+3726,4.4,No,Next Day Air,No,2,PayPal
+3727,4.3,No,Next Day Air,No,36,Debit Card
+3728,3.5,No,Next Day Air,No,17,Debit Card
+3729,3,No,Standard,No,1,Debit Card
+3730,4.7,No,2-Day Shipping,No,50,Cash
+3731,2.5,No,2-Day Shipping,No,3,Credit Card
+3732,3.1,No,2-Day Shipping,No,45,PayPal
+3733,3.3,No,Free Shipping,No,28,PayPal
+3734,4.7,No,Next Day Air,No,6,Debit Card
+3735,3.4,No,Next Day Air,No,33,Debit Card
+3736,3.1,No,2-Day Shipping,No,29,PayPal
+3737,4.6,No,Store Pickup,No,2,PayPal
+3738,4.9,No,Free Shipping,No,43,PayPal
+3739,2.7,No,Free Shipping,No,48,Cash
+3740,4.2,No,Free Shipping,No,43,Credit Card
+3741,2.6,No,Store Pickup,No,26,Debit Card
+3742,3.2,No,2-Day Shipping,No,26,Debit Card
+3743,4.4,No,Standard,No,50,Credit Card
+3744,3.6,No,Free Shipping,No,36,Debit Card
+3745,2.7,No,Next Day Air,No,26,Bank Transfer
+3746,4.3,No,Express,No,2,Debit Card
+3747,2.6,No,Next Day Air,No,49,PayPal
+3748,4.3,No,Store Pickup,No,32,Bank Transfer
+3749,3.9,No,2-Day Shipping,No,3,Venmo
+3750,2.9,No,2-Day Shipping,No,38,Venmo
+3751,3.1,No,Free Shipping,No,5,PayPal
+3752,4.2,No,Free Shipping,No,8,Credit Card
+3753,4.1,No,2-Day Shipping,No,43,Venmo
+3754,4.2,No,Next Day Air,No,22,Bank Transfer
+3755,4.4,No,Express,No,10,Cash
+3756,3.4,No,Free Shipping,No,26,Credit Card
+3757,4.8,No,Express,No,42,Debit Card
+3758,4.5,No,2-Day Shipping,No,33,Cash
+3759,2.7,No,Store Pickup,No,23,Bank Transfer
+3760,3.5,No,Store Pickup,No,30,Venmo
+3761,3.1,No,Next Day Air,No,36,PayPal
+3762,2.8,No,Next Day Air,No,3,Venmo
+3763,2.9,No,Store Pickup,No,13,PayPal
+3764,4.5,No,Standard,No,38,Cash
+3765,3.5,No,Next Day Air,No,19,Venmo
+3766,4.3,No,Standard,No,14,Bank Transfer
+3767,4.9,No,Next Day Air,No,43,Debit Card
+3768,3.1,No,Free Shipping,No,10,Bank Transfer
+3769,4,No,Free Shipping,No,34,Bank Transfer
+3770,3.6,No,Standard,No,31,Venmo
+3771,4,No,Store Pickup,No,34,Bank Transfer
+3772,2.6,No,Express,No,28,Venmo
+3773,3.1,No,Next Day Air,No,35,Cash
+3774,3.5,No,Store Pickup,No,41,Cash
+3775,3.9,No,Standard,No,48,PayPal
+3776,2.7,No,2-Day Shipping,No,45,Cash
+3777,4.1,No,Standard,No,10,Credit Card
+3778,4.3,No,Express,No,9,Cash
+3779,2.9,No,Free Shipping,No,30,Debit Card
+3780,4,No,Express,No,45,PayPal
+3781,4.1,No,Free Shipping,No,41,Venmo
+3782,3.7,No,Standard,No,40,PayPal
+3783,2.8,No,Free Shipping,No,42,PayPal
+3784,3.2,No,Free Shipping,No,17,Debit Card
+3785,4.5,No,Next Day Air,No,4,Venmo
+3786,3.8,No,Standard,No,6,Cash
+3787,3.6,No,2-Day Shipping,No,22,Venmo
+3788,3.6,No,2-Day Shipping,No,46,PayPal
+3789,3.2,No,Next Day Air,No,27,Debit Card
+3790,3.8,No,Express,No,18,Bank Transfer
+3791,4.4,No,Standard,No,31,Credit Card
+3792,3.7,No,Store Pickup,No,1,Venmo
+3793,2.6,No,Express,No,2,PayPal
+3794,4,No,Standard,No,46,Bank Transfer
+3795,3.6,No,2-Day Shipping,No,27,Venmo
+3796,2.5,No,Express,No,3,Cash
+3797,3.2,No,Free Shipping,No,47,Bank Transfer
+3798,2.5,No,Next Day Air,No,20,Cash
+3799,3.2,No,Next Day Air,No,23,Credit Card
+3800,2.6,No,Store Pickup,No,13,Credit Card
+3801,4.8,No,Next Day Air,No,12,Venmo
+3802,5,No,Store Pickup,No,36,PayPal
+3803,3.2,No,2-Day Shipping,No,1,Bank Transfer
+3804,3.6,No,Standard,No,14,Debit Card
+3805,2.7,No,2-Day Shipping,No,45,Cash
+3806,3.1,No,Standard,No,31,Credit Card
+3807,3,No,Standard,No,41,PayPal
+3808,2.9,No,Next Day Air,No,36,PayPal
+3809,4.7,No,Express,No,6,Debit Card
+3810,3.7,No,Standard,No,28,Credit Card
+3811,3.9,No,Free Shipping,No,29,Venmo
+3812,4,No,Standard,No,14,Cash
+3813,2.8,No,Next Day Air,No,7,Bank Transfer
+3814,4.1,No,Express,No,31,Venmo
+3815,4.2,No,Free Shipping,No,26,Bank Transfer
+3816,4.3,No,Express,No,12,Venmo
+3817,4.3,No,Store Pickup,No,45,Credit Card
+3818,2.6,No,Express,No,40,PayPal
+3819,3.8,No,Free Shipping,No,42,Cash
+3820,2.9,No,Express,No,45,Cash
+3821,5,No,Standard,No,34,Debit Card
+3822,4.6,No,Free Shipping,No,34,Credit Card
+3823,3.2,No,Free Shipping,No,17,PayPal
+3824,3,No,Standard,No,27,Bank Transfer
+3825,4,No,Free Shipping,No,31,Credit Card
+3826,4.1,No,Express,No,47,Debit Card
+3827,4,No,Express,No,25,Bank Transfer
+3828,4.1,No,Standard,No,47,Cash
+3829,3.4,No,Free Shipping,No,8,Cash
+3830,2.9,No,Free Shipping,No,32,Debit Card
+3831,3,No,2-Day Shipping,No,33,Bank Transfer
+3832,4,No,Next Day Air,No,16,Debit Card
+3833,4.8,No,2-Day Shipping,No,27,Cash
+3834,4.6,No,Free Shipping,No,17,PayPal
+3835,4.1,No,2-Day Shipping,No,17,Cash
+3836,2.6,No,Express,No,28,PayPal
+3837,2.5,No,Free Shipping,No,38,PayPal
+3838,4.8,No,Free Shipping,No,33,Bank Transfer
+3839,4.2,No,Express,No,24,Venmo
+3840,3.9,No,Free Shipping,No,14,Venmo
+3841,3.7,No,Express,No,5,Venmo
+3842,4.2,No,2-Day Shipping,No,8,Bank Transfer
+3843,4.2,No,Next Day Air,No,42,Debit Card
+3844,4,No,Free Shipping,No,48,Venmo
+3845,5,No,Next Day Air,No,40,Venmo
+3846,4.9,No,Standard,No,46,Venmo
+3847,4,No,Express,No,40,PayPal
+3848,3.2,No,2-Day Shipping,No,31,PayPal
+3849,3,No,Next Day Air,No,39,Cash
+3850,2.6,No,Express,No,36,PayPal
+3851,4.4,No,2-Day Shipping,No,25,Debit Card
+3852,3.9,No,Free Shipping,No,24,Debit Card
+3853,4,No,2-Day Shipping,No,19,PayPal
+3854,4,No,Store Pickup,No,49,Debit Card
+3855,4.2,No,Free Shipping,No,4,Venmo
+3856,4.4,No,Next Day Air,No,36,Cash
+3857,2.5,No,Free Shipping,No,8,Debit Card
+3858,3.1,No,Store Pickup,No,29,Credit Card
+3859,3.5,No,Store Pickup,No,26,Credit Card
+3860,3,No,2-Day Shipping,No,47,Bank Transfer
+3861,4.4,No,Next Day Air,No,44,Cash
+3862,4.9,No,Standard,No,49,Credit Card
+3863,2.8,No,Next Day Air,No,9,Venmo
+3864,3.3,No,Free Shipping,No,28,Cash
+3865,4.9,No,Express,No,1,Debit Card
+3866,4.2,No,Store Pickup,No,28,Cash
+3867,3.3,No,2-Day Shipping,No,33,Credit Card
+3868,2.7,No,Standard,No,28,Credit Card
+3869,3.3,No,2-Day Shipping,No,9,Cash
+3870,3.8,No,Free Shipping,No,28,Bank Transfer
+3871,3.2,No,Next Day Air,No,19,Cash
+3872,4.1,No,2-Day Shipping,No,20,Bank Transfer
+3873,4.3,No,Standard,No,3,Cash
+3874,4,No,Standard,No,22,Credit Card
+3875,3.9,No,2-Day Shipping,No,33,Credit Card
+3876,3.3,No,2-Day Shipping,No,21,Credit Card
+3877,2.6,No,2-Day Shipping,No,7,Cash
+3878,4.2,No,Next Day Air,No,46,Debit Card
+3879,3.4,No,2-Day Shipping,No,24,Credit Card
+3880,4.1,No,Free Shipping,No,6,Debit Card
+3881,3.9,No,Free Shipping,No,40,PayPal
+3882,2.8,No,2-Day Shipping,No,17,Debit Card
+3883,2.6,No,Free Shipping,No,24,Cash
+3884,4,No,Next Day Air,No,22,Cash
+3885,4.9,No,Express,No,3,PayPal
+3886,3.2,No,Free Shipping,No,39,Cash
+3887,3.9,No,Express,No,40,Debit Card
+3888,2.7,No,Express,No,1,Credit Card
+3889,3.4,No,Standard,No,14,Venmo
+3890,3.5,No,Express,No,49,Bank Transfer
+3891,2.6,No,Standard,No,33,Debit Card
+3892,4.7,No,Free Shipping,No,6,Bank Transfer
+3893,3.5,No,Standard,No,5,PayPal
+3894,3.3,No,Store Pickup,No,29,Bank Transfer
+3895,3.9,No,2-Day Shipping,No,44,Credit Card
+3896,4.2,No,2-Day Shipping,No,32,Venmo
+3897,4.5,No,Store Pickup,No,41,Bank Transfer
+3898,2.9,No,Standard,No,24,Venmo
+3899,3.8,No,Express,No,24,Venmo
+3900,3.1,No,Store Pickup,No,33,Venmo
