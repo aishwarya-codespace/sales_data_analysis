@@ -38,7 +38,7 @@ The SQL queries in this project were written separately for analysis purposes. I
 19. Top 5 Purchase Count by Color
 20. Average Purchase by Size
 
-👉 All queries are available in [`sql_queries/`](./all_sql_queries).
+👉 All queries are available in [`sql_queries/`](./all_sql_queries.sql).
 
 ## 📊 Power BI Dashboard
 Built an interactive dashboard:
