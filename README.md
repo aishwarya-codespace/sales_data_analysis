@@ -1,4 +1,5 @@
 # Sales Data Analysis (SQL + Power BI)
+A sales data analysis project using MySQL and Power BI to visualize customer purchase trends and insights.
 
 ## Project Overview
 This project demonstrates sales data analysis using **SQL for querying** 
